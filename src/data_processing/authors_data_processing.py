@@ -1,20 +1,12 @@
-import pandas as pd
+# Standart libarry imports
 import os
 import math
 
-# Sheet names
-FACULTY_NAMES = [
-    'matematicki fakultet',
-    'elektrotehnicki fakultet',
-    'fakultet organizacionih nauka'
-]
+# Standart libary imports
+import pandas as pd
 
-# FILE COLUMN NAMES
-AUTHORS_FIRST_NAME = 'Ime'
-AUTHORS_LAST_NAME = 'Prezime'
-AUTHORS_MIDDLE_NAME = 'Srednje ime'
-AUTHORS_DEPARTMENT_NAME = 'Odsek'
-AUTHORS_FACULTY_NAME = 'Fakultet'
+# Local project imports
+from .settings import AUTHORS_DEPARTMENT_NAME, AUTHORS_FACULTY_NAME, AUTHORS_FIRST_NAME, AUTHORS_LAST_NAME, AUTHORS_MIDDLE_NAME, FACULTY_NAMES
 
 class Author():
     """
@@ -70,6 +62,9 @@ class Author():
     def get_author_full_name_tuple(self):
         return (self.first_name, self.middle_name, self.last_name)
 
+    def get_author_only_first_and_last_name_tuple(self):
+        return (self.first_name, None, self.last_name)
+
     def get_author_full_name(self):
         if self.middle_name:
             return f'{self.first_name} {self.middle_name}. {self.last_name}'
@@ -94,19 +89,28 @@ class AuthorUtils():
             for column, row in data.iterrows():
                 author = Author(row[AUTHORS_FIRST_NAME], row[AUTHORS_LAST_NAME], row[AUTHORS_MIDDLE_NAME], row[AUTHORS_DEPARTMENT_NAME], row[AUTHORS_FACULTY_NAME])
                 author.clean_data()
-                authors[author.get_author_full_name_tuple]= author
+                authors[author.get_author_full_name_tuple()]= author
         return authors
 
-
-# Input file name
-AUTORS_FILE_NAME = 'UB_cs_authors.xlsx'
-
-if __name__ == '__main__':
-
-    all_authors = AuthorUtils.read_all_authors('./dataset', AUTORS_FILE_NAME)
-    # for full_author_name in all_authors:
-    #     print(all_authors[full_author_name])
-    print(len(all_authors))
-
- 
+    @staticmethod
+    def get_all_authors_names(authors):
+        """Returns list of tuples representing author names: (first name, middle name, last name)"""
+        if not isinstance(authors, dict):
+            return None
+        else:
+            return list(authors.keys())
+    
+    @staticmethod
+    def format_all_authors_by_first_and_last_name(authors):
+        """
+        Returns dictionary containing mappings, without middle name if existed, "new author key" -> "original author key":
+        (first name, None, last name) -> (first name, middle_name, last name)
+        """
+        if not isinstance(authors, dict):
+            return None
+        else:
+            new_authors_dictionary = dict()
+            for author_name in authors:
+                new_authors_dictionary[(author_name[0], None, author_name[2])] = author_name
+            return new_authors_dictionary
 
