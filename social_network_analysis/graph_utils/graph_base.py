@@ -46,7 +46,7 @@ class Edge():
     autoincrement = 1
     header = ['Id',	'Source', 'Target', 'Type',	'Weight']
     
-    def __init__(self, source, target, edge_type, weight=0):
+    def __init__(self, source, target, edge_type, weight=1):
         self.id = Node.autoincrement
         Node.autoincrement += 1
         self.source = source
