@@ -50,7 +50,6 @@ class CoAuthorNetwork():
             coauthors_edges = [] 
             for coauthors in edges:
                 edge = Edge(source=coauthors[0], target=coauthors[1], edge_type=EdgeType.UNDIRRECTED.value, weight=edges[coauthors])
-                # print(coauthors, edges[coauthors])
                 coauthors_edges.append(edge)
             Edge.export_to_csv(coauthors_edges, path, file_name)
             return True

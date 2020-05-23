@@ -24,7 +24,7 @@ class Node():
         else:
             full_file_path = os.path.join(path, file_name) + '.csv'
             with open(full_file_path, mode='w', newline='\n') as node_file:
-                node_writer = csv.writer(node_file, delimiter=',', quoting=csv.QUOTE_NONE)
+                node_writer = csv.writer(node_file, delimiter=',', quotechar = '"')
 
                 # Writing header
                 # First column is id, followed by attributes from Node's attribute dictionary (keys)
@@ -46,7 +46,7 @@ class Edge():
     autoincrement = 1
     header = ['Id',	'Source', 'Target', 'Type',	'Weight']
     
-    def __init__(self, source, target, edge_type, weight):
+    def __init__(self, source, target, edge_type, weight=0):
         self.id = Node.autoincrement
         Node.autoincrement += 1
         self.source = source

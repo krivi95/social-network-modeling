@@ -23,9 +23,8 @@ class Author():
         self.middle_name = middle_name
         self.department = department
         self.faculty = faculty
-        self.number_of_publications = 0
-        self.collaborators = []
-        self.articles = []
+        self.collaborators = set()
+        self.articles = set()
 
     def clean_data(self):
         self._validate_middle_name()
