@@ -6,19 +6,7 @@ from .graph_base import Node, Edge, EdgeType
 
 class CoAuthorNetwork():
     """Class responsible for parsing inputed data, creating nodes and edges for CoAuthor graph and exporting to csv."""
-    nodes = []
-    edges = []
-
-    @staticmethod
-    def _check_if_author_exist_in_edges(author_id):
-        for edge in CoAuthorNetwork.edges:
-            if edge.source == author_id:
-                return True
-            elif edge.target == author_id:
-                return True
-            else :
-                return False
-
+  
     @staticmethod
     def export_nodes_to_csv(all_authors, path, file_name):
         """Exporting nodes (Authors and their attributes) to csv."""
@@ -27,6 +15,7 @@ class CoAuthorNetwork():
             for author_name in all_authors:
                 author = all_authors[author_name]
                 if len(author.collaborators) > 0:
+                    # We are exporting only authors from UoB that have collaborationg with each other. 
                     attributes = {
                         'name': author.get_author_full_name().title(), 
                         'faculty':author.faculty.title(), 
@@ -35,7 +24,6 @@ class CoAuthorNetwork():
                     node = Node(attributes, id=author.id)
                     nodes.append(node)
             Node.export_to_csv(nodes, path, file_name)
-            CoAuthorNetwork.nodes = nodes
             return True
         except Exception as e:
             print(e)
@@ -66,7 +54,6 @@ class CoAuthorNetwork():
                 edge = Edge(source=coauthors[0], target=coauthors[1], edge_type=EdgeType.UNDIRRECTED.value, weight=edges[coauthors])
                 coauthors_edges.append(edge)
             Edge.export_to_csv(coauthors_edges, path, file_name)
-            CoAuthorNetwork.edges = coauthors_edges
             return True
         except Exception as e:
             print(e)

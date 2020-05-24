@@ -1,4 +1,8 @@
+# Directories to ignore
 .vscode/
 __pycache__
+output
+
+# Files to ignore
 *.pyc
 *.log

@@ -113,3 +113,19 @@ class AuthorUtils():
                 new_authors_dictionary[(author_name[0], None, author_name[2])] = author_name
             return new_authors_dictionary
 
+    @staticmethod
+    def updade_author_collaborators_and_publications_info(publications):
+        """Based on extracted publications and it's mappings with authors, updates author's list of collaborators and articles where he was publishing."""
+        # update author publications and collaborators
+        for publication_name in publications:
+            authors = publications[publication_name].authors
+            publication_article_name = publications[publication_name].get_article_name()
+            publication_type = publications[publication_name].get_publication_type()
+            for author in authors:
+                # Adding current article into list of aricles wher author was publishing
+                author.articles.add((publication_article_name, publication_type))
+
+                # Adding collaborators to list of collaborators, other authors that this one was working with
+                collaborators = authors - set([author])     
+                for collaborator in collaborators:
+                    author.collaborators.add(collaborator)
