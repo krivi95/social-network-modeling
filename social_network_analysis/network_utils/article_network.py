@@ -1,46 +1,44 @@
 from ..data_processing.authors_data_processing import Author
-from .graph_base import Node, Edge, EdgeType
+from .network_base import Node, Edge, EdgeType, Network
 
 PUBLICATION_TYPE_TO_EXCLUDE = 'conference paper'
 
-class ArticleNetwork():
+class ArticleNetwork(Network):
+    """Class responsible for parsing inputed data, creating nodes and edges for Article graph and exporting to csv."""
 
-    @staticmethod
-    def create_article_nodes(publications):
-        """Goes through publications and searches for article where those papers were published."""        
+    def __init__(self, publicaions):
+        super().__init__()
+        self.article = None
+        self.publications = publicaions
+        self.create_nodes()
+        self.create_edges()
+
+    def create_nodes(self):
+        """Creates Articles."""        
         try:
             articles = dict()
-            for publication_name in publications:
-                publication_article_name = publications[publication_name].get_article_name()
-                publication_type = publications[publication_name].get_publication_type()
+            for publication_name in self.publications:
+                publication_article_name = self.publications[publication_name].get_article_name()
+                publication_type = self.publications[publication_name].get_publication_type()
                 if publication_article_name not in articles and publication_type != PUBLICATION_TYPE_TO_EXCLUDE:
                     attributes = {'name': publication_article_name}
                     node = Node(attributes)
                     articles[publication_article_name] = node
-            return articles
+            # Saving article dictionary for node creation
+            self.articles = articles
+            self.nodes = [articles[article_name] for article_name in articles]
         except Exception as e:
             print(e)
             return None
 
-    @staticmethod
-    def export_nodes_to_csv(artcles, path, file_name):
-        """Exporting nodes (Articles) to csv."""
-        try:
-            Node.export_to_csv(artcles, path, file_name)
-            return True
-        except Exception as e:
-            print(e)
-            return False
-
-    @staticmethod
-    def export_edges_to_csv(publications, articles, path, file_name):
-        """Exporting edges (connecting two articles if at least one author exists who published papers in both articles)."""
+    def create_edges(self):
+        """Creates edges (connecting two articles if at least one author exists who published papers in both articles)."""
         try:
             edges = dict()
-            for publication_name in publications:
-                publication_article_name = publications[publication_name].get_article_name()
-                publication_authors = publications[publication_name].authors
-                publication_type = publications[publication_name].get_publication_type()
+            for publication_name in self.publications:
+                publication_article_name = self.publications[publication_name].get_article_name()
+                publication_authors = self.publications[publication_name].authors
+                publication_type = self.publications[publication_name].get_publication_type()
                 if publication_type != PUBLICATION_TYPE_TO_EXCLUDE:
                     for author in publication_authors:
                         # For current article, where this paper was published,
@@ -53,11 +51,11 @@ class ArticleNetwork():
                             if article[1] == PUBLICATION_TYPE_TO_EXCLUDE:
                                 continue
                             if (article_name, publication_article_name) not in edges and (publication_article_name, article_name) not in edges: 
-                                article_id = articles[article_name].id
-                                publication_article_id = articles[publication_article_name].id
+                                article_id = self.articles[article_name].id
+                                publication_article_id = self.articles[publication_article_name].id
                                 edges[(publication_article_name, article_name)] = Edge(source=article_id, target=publication_article_id, edge_type=EdgeType.UNDIRRECTED.value)
-            Edge.export_to_csv([edges[key] for key in edges], path, file_name)
-            return True
+            self.edges = [edges[key] for key in edges]
+            return self.edges
         except Exception as e:
             print(e)
-            return False
+            return None

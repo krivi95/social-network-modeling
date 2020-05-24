@@ -1,19 +1,25 @@
 from itertools import combinations
 
 from ..data_processing.authors_data_processing import Author
-from .graph_base import Node, Edge, EdgeType
+from .network_base import Node, Edge, EdgeType, Network
 
 
-class CoAuthorNetwork():
+class CoAuthorNetwork(Network):
     """Class responsible for parsing inputed data, creating nodes and edges for CoAuthor graph and exporting to csv."""
+
+    def __init__(self, all_authors, publications):
+        super().__init__()
+        self.all_authors = all_authors
+        self.publications = publications
+        self.create_nodes()
+        self.create_edges()
   
-    @staticmethod
-    def export_nodes_to_csv(all_authors, path, file_name):
-        """Exporting nodes (Authors and their attributes) to csv."""
+    def create_nodes(self):
+        """Creating nodes - Authors with their attributes."""
         try:
             nodes = []
-            for author_name in all_authors:
-                author = all_authors[author_name]
+            for author_name in self.all_authors:
+                author = self.all_authors[author_name]
                 if len(author.collaborators) > 0:
                     # We are exporting only authors from UoB that have collaborationg with each other. 
                     attributes = {
@@ -23,19 +29,18 @@ class CoAuthorNetwork():
                         }
                     node = Node(attributes, id=author.id)
                     nodes.append(node)
-            Node.export_to_csv(nodes, path, file_name)
-            return True
+            self.nodes = nodes
+            return nodes
         except Exception as e:
             print(e)
-            return False
+            return None
 
-    @staticmethod
-    def export_edges_to_csv(publications, path, file_name):
-        """Exporting edges (connecting two authors based on publication collaboration) to csv."""
+    def create_edges(self):
+        """Creating edges (connecting two authors based on publication collaboration)."""
         try:
             edges = dict()
-            for key in publications:
-                authors = publications[key].authors
+            for key in self.publications:
+                authors = self.publications[key].authors
                 if len(authors) > 1:
                     # We create edge only if we have more that 2 authors workig on paper (creating combinations from list of authors)
                     links = combinations(authors, 2)
@@ -53,9 +58,9 @@ class CoAuthorNetwork():
             for coauthors in edges:
                 edge = Edge(source=coauthors[0], target=coauthors[1], edge_type=EdgeType.UNDIRRECTED.value, weight=edges[coauthors])
                 coauthors_edges.append(edge)
-            Edge.export_to_csv(coauthors_edges, path, file_name)
-            return True
+            self.edges = coauthors_edges
+            return coauthors_edges
         except Exception as e:
             print(e)
-            return False
+            return None
    

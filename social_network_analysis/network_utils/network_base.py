@@ -1,7 +1,7 @@
-
 import csv
 import os
 from enum import Enum
+from abc import ABC, abstractmethod
 
 class Node():
     """
@@ -68,3 +68,42 @@ class Edge():
                 for node in nodes:
                     edge_writer.writerow([node.id, node.source, node.target, node.type, node.weight])
             return full_file_path
+
+
+
+class Network(ABC):
+    """Class representing social network that consists of nodes and edges connecting those nodes."""
+    
+    @abstractmethod
+    def __init__(self):
+        self.nodes = None
+        self.edges = None
+
+    @abstractmethod
+    def create_nodes(self):
+        pass
+
+    @abstractmethod
+    def create_edges(self):
+        pass
+
+    def export_network_to_csv(self, path, file_name):
+        """Exports notwork's nodes and grapsh to separate csv files."""
+        self._export_nodes_to_csv(path, file_name + ' - Nodes')
+        self._export_edges_to_csv(path, file_name + ' - Edges')
+
+    def _export_nodes_to_csv(self, path, file_name):
+        try:
+            Node.export_to_csv(self.nodes, path, file_name)
+            return True
+        except Exception as e:
+            print(e)
+            return False
+
+    def _export_edges_to_csv(self, path, file_name):
+        try:
+            Edge.export_to_csv(self.edges, path, file_name)
+            return True
+        except Exception as e:
+            print(e)
+            return False

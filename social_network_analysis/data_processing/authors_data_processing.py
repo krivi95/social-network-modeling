@@ -114,7 +114,7 @@ class AuthorUtils():
             return new_authors_dictionary
 
     @staticmethod
-    def updade_author_collaborators_and_publications_info(publications):
+    def update_author_collaborators_and_publications_info(publications):
         """Based on extracted publications and it's mappings with authors, updates author's list of collaborators and articles where he was publishing."""
         # update author publications and collaborators
         for publication_name in publications:
