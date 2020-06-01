@@ -25,6 +25,7 @@ class Author():
         self.faculty = faculty
         self.collaborators = set()
         self.articles = set()
+        self.papers = set()
 
     def clean_data(self):
         self._validate_middle_name()
@@ -121,9 +122,13 @@ class AuthorUtils():
             authors = publications[publication_name].authors
             publication_article_name = publications[publication_name].get_article_name()
             publication_type = publications[publication_name].get_publication_type()
+            publication_title = publications[publication_name].get_publication_title()
             for author in authors:
-                # Adding current article into list of aricles wher author was publishing
+                # Adding current article into list of aricles where author was publishing
                 author.articles.add((publication_article_name, publication_type))
+
+                # Adding current publication title to list of published papers 
+                author.papers.add((publication_title, publication_type))
 
                 # Adding collaborators to list of collaborators, other authors that this one was working with
                 collaborators = authors - set([author])     

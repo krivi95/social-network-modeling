@@ -25,7 +25,8 @@ class CoAuthorNetwork(Network):
                     attributes = {
                         'name': author.get_author_full_name().title(), 
                         'faculty':author.faculty.title(), 
-                        'department':author.department.title()
+                        'department':author.department.title(),
+                        'number_of_papers':len(author.papers)
                         }
                     node = Node(attributes, id=author.id)
                     nodes.append(node)
