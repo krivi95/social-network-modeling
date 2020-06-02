@@ -30,7 +30,12 @@ class Node():
                 # First column is id, followed by attributes from Node's attribute dictionary (keys)
                 node_writer.writerow(['Id'] + list(nodes[0].attributes))
                 for node in nodes:
-                    node_writer.writerow([node.id] + [node.attributes[attribute] for attribute in node.attributes.keys()])
+                    try:
+                        node_writer.writerow([node.id] + [node.attributes[attribute] for attribute in node.attributes.keys()])
+                    except Exception as e:
+                        node_writer.writerow([node.id] + [node.attributes[attribute].encode('utf-8') for attribute in node.attributes.keys()])
+                        print(e)
+                        print(node.attributes)
             return full_file_path
 
 
