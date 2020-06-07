@@ -124,12 +124,13 @@ class AuthorUtils():
             publication_article_name = publications[publication_name].get_article_name()
             publication_type = publications[publication_name].get_publication_type()
             publication_title = publications[publication_name].get_publication_title()
+            publication_year = publications[publication_name].get_publication_year()
             for author in authors:
                 # Adding current article into list of aricles where author was publishing
                 author.articles.add((publication_article_name, publication_type))
 
                 # Adding current publication title to list of published papers 
-                author.papers.add((publication_title, publication_type))
+                author.papers.add((publication_title, publication_type, publication_year))
 
                 # Adding collaborators to list of collaborators, other authors that this one was working with
                 collaborators = authors - set([author])     

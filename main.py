@@ -5,6 +5,8 @@ from social_network_analysis.network_utils.coauthor_network import CoAuthorNetwo
 from social_network_analysis.network_utils.article_network import ArticleNetwork
 from social_network_analysis.network_utils.department_network import DepartmentNetwork
 from social_network_analysis.network_utils.network_base import NetworkAnalytics
+from social_network_analysis.network_utils.department_yearly_network import  DepartmentYearlyNetwork
+
 # Input file names
 PUBLICATIONS_FILE_NAME = 'UB_cs_papers_scopus.xlsx'
 AUTORS_FILE_NAME = 'UB_cs_authors.xlsx'
@@ -41,5 +43,12 @@ if __name__ == '__main__':
     department_network_analytics = NetworkAnalytics(department_network, 'Department Network')
     department_network_analytics.run_analysis()
     department_network_analytics.export_metrics_to_file(path='output')
-        
+
+    # Creating Department Yearly network and running network analysis
+    department_yearly_network = DepartmentYearlyNetwork(all_authors)
+    department_yearly_network.export_network_to_csv(path='output', file_name='Department Yearly Network')    
+    department_yearly_network_analytics = NetworkAnalytics(department_yearly_network, 'Department Yearly Network')
+    department_yearly_network_analytics.run_analysis()
+    department_yearly_network_analytics.export_metrics_to_file(path='output')
+     
 
