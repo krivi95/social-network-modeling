@@ -120,6 +120,7 @@ class PublicationUtils:
         """
         Reads publication records and keeps orginal raw format from dataset. 
         """
+        print('Importing Publications (authors published reasearch papaers) dataset...')
         publications = []
         data = pd.read_excel(os.path.join(path, file_name))
         for column, row in data.iterrows():

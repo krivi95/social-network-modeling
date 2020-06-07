@@ -83,6 +83,7 @@ class AuthorUtils():
     @staticmethod
     def read_all_authors(path, file_name):
         """Reads authors data from input file, does necessary data cleaning and returns dictionary of authors as result."""
+        print('Importing Authors dataset...')
         authors = dict()
         for faculty_name in FACULTY_NAMES:
             data = pd.read_excel(os.path.join(path, file_name), sheet_name=faculty_name)
