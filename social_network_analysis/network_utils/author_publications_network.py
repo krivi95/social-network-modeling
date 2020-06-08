@@ -1,8 +1,6 @@
 from ..data_processing.authors_data_processing import Author
 from .network_base import Node, Edge, EdgeType, Network
 
-PUBLICATION_TYPE_TO_EXCLUDE = 'conference paper'
-
 class AuthorPublicationsNetwork(Network):
     """Class for creating network conncting Author with their Publications."""
 

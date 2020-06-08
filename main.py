@@ -8,6 +8,7 @@ from social_network_analysis.network_utils.network_base import NetworkAnalytics
 from social_network_analysis.network_utils.department_yearly_network import  DepartmentYearlyNetwork
 from social_network_analysis.network_utils.author_publications_network import AuthorPublicationsNetwork
 from social_network_analysis.network_utils.article_paper_network import ArticlePaperNetwork
+from social_network_analysis.network_utils.publications_yearly_network import PublicationsYearlyNetwork
 
 # Input file names
 PUBLICATIONS_FILE_NAME = 'UB_cs_papers_scopus.xlsx'
@@ -24,7 +25,7 @@ if __name__ == '__main__':
     
     # Updating author collaboration info from publications
     AuthorUtils.update_author_collaborators_and_publications_info(publications)
-    
+
     # Creating CoAuthor Network and running network analysis
     coauthor_network = CoAuthorNetwork(all_authors, publications)
     coauthor_network.export_network_to_csv(path='output', file_name='CoAuthor Network')
@@ -66,3 +67,11 @@ if __name__ == '__main__':
     article_paper_network_analytics = NetworkAnalytics(article_paper_network, 'Article Paper Network')
     article_paper_network_analytics.run_analysis()
     article_paper_network_analytics.export_metrics_to_file(path='output')
+    
+    # Creating Publications Yearly network and running network analysis
+    publications_yearly_network = PublicationsYearlyNetwork(publications)
+    publications_yearly_network.export_network_to_csv(path='output', file_name='Publications Yearly Network')    
+    publications_yearly_network_analytics = NetworkAnalytics(publications_yearly_network, 'Publications Yearly Network')
+    publications_yearly_network_analytics.run_analysis()
+    publications_yearly_network_analytics.export_metrics_to_file(path='output')
+    
