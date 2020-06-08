@@ -7,6 +7,7 @@ from social_network_analysis.network_utils.department_network import DepartmentN
 from social_network_analysis.network_utils.network_base import NetworkAnalytics
 from social_network_analysis.network_utils.department_yearly_network import  DepartmentYearlyNetwork
 from social_network_analysis.network_utils.author_publications_network import AuthorPublicationsNetwork
+from social_network_analysis.network_utils.article_paper_network import ArticlePaperNetwork
 
 # Input file names
 PUBLICATIONS_FILE_NAME = 'UB_cs_papers_scopus.xlsx'
@@ -58,4 +59,10 @@ if __name__ == '__main__':
     author_publication_network_analytics = NetworkAnalytics(author_publication_network, 'Author Publications Network')
     author_publication_network_analytics.run_analysis()
     author_publication_network_analytics.export_metrics_to_file(path='output')
-
+    
+    # Creating Author-Publications network and running network analysis
+    article_paper_network = ArticlePaperNetwork(publications)
+    article_paper_network.export_network_to_csv(path='output', file_name='Article Paper Network')    
+    article_paper_network_analytics = NetworkAnalytics(article_paper_network, 'Article Paper Network')
+    article_paper_network_analytics.run_analysis()
+    article_paper_network_analytics.export_metrics_to_file(path='output')
