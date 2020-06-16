@@ -1,0 +1,879 @@
+Id,department,faculty,publication,publication_type,node_type
+4251,katedra za racunarstvo i informatiku,matematicki fakultet,,,department
+4466,katedra za racunarsku tehniku i informatiku,elektrotehnicki fakultet,,,department
+4889,katedra za informacione sisteme,fakultet organizacionih nauka,,,department
+4899,katedra za softversko inzenjerstvo,fakultet organizacionih nauka,,,department
+5197,katedra za informacione tehnologije,fakultet organizacionih nauka,,,department
+4252,,,gd-sat model and crossover line,article,paper
+4253,,,wingclc - a workbench for formally describing figures,conference paper,paper
+4352,,,urbiva: uniform reduction to bit-vector arithmetic,conference paper,paper
+4255,,,geothms - a web system for euclidean constructive geometry,article,paper
+4256,,,"integrating dynamic geometry software, deduction systems, and theorem repositories",conference paper,paper
+4422,,,towards understanding triangle construction problems,conference paper,paper
+4355,,,formal correctness proof for dpll procedure,article,paper
+4259,,,geometry constructions language,conference paper,paper
+4260,,,system description: gclcprover + geothms,conference paper,paper
+4347,,,argo-lib: a generic platform for decision procedures,conference paper,paper
+4423,,,computer theorem proving for verifiable solving of geometric construction problems,conference paper,paper
+4424,,,simple algorithm portfolio for sat,article,paper
+4264,,,the area method: a recapitulation,article,paper
+4265,,,a vernacular for coherent logic,conference paper,paper
+4266,,,automatic synthesis of decision procedures: a case study of ground and linear arithmetic,conference paper,paper
+4420,,,constructibility classes for triangle location problems,article,paper
+4268,,,proving correctness of a krk chess endgame strategy by sat-based constraint solving,article,paper
+4428,,,cdcl-based abstract state transition system for coherent logic,conference paper,paper
+4270,,,automated generation of machine verifiable and readable proofs: a case study of tarski’s geometry,article,paper
+4345,,,proving correctness of a krk chess endgame strategy by using isabelle/hol and z3,conference paper,paper
+4272,,,simple characterization of functionally complete one-element sets of propositional connectives,article,paper
+4273,,,gclc - a tool for constructive euclidean geometry and more than that,conference paper,paper
+4274,,,on different models for generating random sat problems,article,paper
+4275,,,a general setting for flexibly combining and augmenting decision procedures,article,paper
+4276,,,n-gram-based classification and unsupervised hierarchical clustering of genome sequences,article,paper
+4277,,,a variant of n-gram based language classification,conference paper,paper
+4278,,,automated theorem proving in geogebra: current achievements,article,paper
+4279,,,ursa: a system for uniform reduction to sat,article,paper
+4360,,,formalization of abstract state transition systems for sat,article,paper
+4281,,,logical analysis of hash functions,conference paper,paper
+4282,,,a coherent logic based geometry theorem prover capable of producing formal and readable proofs,conference paper,paper
+4433,,,random k-gd-sat model and its phase transition,article,paper
+4284,,,"constructions, instructions, interactions",article,paper
+4285,,,learning strategies for mechanised building of decision procedures,conference paper,paper
+4286,,,a framework for the flexible integration of a class of decision procedures into theorem provers,conference paper,paper
+4431,,,instance-based selection of policies for sat solvers,conference paper,paper
+4288,,,automatic verification of regular constructions in dynamic geometry systems,conference paper,paper
+4416,,,structural disorder of plasmid-encoded proteins in bacteria and archaea,article,paper
+4290,,,towards full lexical recognition,conference paper,paper
+4417,,,bioinformatics analysis of disordered proteins in prokaryotes,article,paper
+4395,,,sars-cov genome polymorphism: a bioinformatics study,article,paper
+4293,,,corpora issues in validation of serbian wordnet,conference paper,paper
+4419,,,hierarchical vs. flat n-gram-based text categorization: can we do better?,article,paper
+4295,,,managing text as data,conference paper,paper
+4396,,,could n-gram analysis contribute to genomic island determination?,article,paper
+4408,,,ontology-driven conceptual document classification,conference paper,paper
+4397,,,bioinformatics analysis of sars coronavirus genome polymorphism,article,paper
+4299,,,towards a database for genotype-phenotype association research: mining data from encyclopaedia,article,paper
+4300,,,multimedia database of the cultural heritage of the balkans,conference paper,paper
+4402,,,n-gram characterization of genomic islands in bacterial genomes,article,paper
+4302,,,comparison of random s-box generation methods,article,paper
+4350,,,formalizing frankl's conjecture: fc-families,conference paper,paper
+4304,,,extremal families containing no two sets and their union,conference paper,paper
+4305,,,"classification of small (0, 1) matrices",article,paper
+4435,,,statistical dependence of protein secondary structure on amino acid bigrams [statisticka zavisnost sekundarne strukture proteina od frekvencije bigrama aminokiselina],article,paper
+4338,,,a reexamination of the propensities of amino acids towards a particular secondary structure: classification of amino acids based on their chemical structure,conference paper,paper
+4308,,,on the number of equivalence classes of invertible boolean functions under action of permutation of variables on domain and range,article,paper
+4309,,,almost weakly self-dual bases for finite fields,article,paper
+4342,,,what are preferred water-aromatic interactions in proteins and crystal structures of small molecules?,article,paper
+4343,,,a reexamination of correlations of amino acids with particular secondary structures,article,paper
+4312,b'',b'',b'the number of primes \xe2\x88\x91ni=1(-1)n-ii! is finite',b'article',b'paper'
+4313,,,solving the two-dimensional packing problem with m-m calculus,article,paper
+4314,,,ga inspired heuristic for uncapacitated single allocation hub location problem,conference paper,paper
+4315,,,assessment of possible association between rs3787016 and prostate cancer risk in serbian population,article,paper
+4316,,,fine-grained tournament selection operator in genetic algorithms,article,paper
+4317,,,a genetic algorithm for the routing and carrier selection problem,article,paper
+4318,,,the modification of genetic algorithms for solving the balanced location problem,conference paper,paper
+4319,,,a new genetic representation for quadratic assignment problem,article,paper
+4411,,,novel approaches to automated personality classification: ideas and their potentials,conference paper,paper
+4321,,,variable neighborhood search for multiple level warehouse layout problem,article,paper
+4413,,,electromagnetism-like algorithm for support vector machine parameter tuning,article,paper
+4323,,,an integer linear formulation for the file transfer scheduling problem,article,paper
+4324,,,solving the simple plant location problem by genetic algorithm,article,paper
+4379,,,an integer linear programming formulation and genetic algorithm for the maximum set splitting problem,article,paper
+4326,,,two hybrid genetic algorithms for solving the super-peer selection problem,conference paper,paper
+4327,,,genetic algorithm for solving uncapacitated multiple allocation hub location problem,article,paper
+4328,,,a new nonlinear model for the two-dimensional rectangle packing problem,article,paper
+4329,,,variable neighborhood search for solving bandwidth coloring problem,article,paper
+4330,,,two genetic algorithms for solving the uncapacitated single allocation p-hub median problem,article,paper
+4331,,,solving the maximally balanced connected partition problem in graphs by using genetic algorithm,article,paper
+4414,,,an electromagnetism metaheuristic for solving the maximum betweenness problem,article,paper
+4333,,,a genetic algorithm for solving multiple warehouse layout problem,article,paper
+4337,,,plant regeneration in leaf culture of centaurium erythraea rafn. part 2: the role of arabinogalactan proteins,article,paper
+4339,,,what are the preferred horizontal displacements of aromatic-aromatic interactions in proteins? comparison with the calculated benzene-benzene potential energy surface,article,paper
+4340,,,customizing a functional programming language for web development,article,paper
+4341,,,new software for collecting data from the organized cervical cancer screening program in serbia. are we on the threshold of a new screening registry? - a multicentric study,article,paper
+4401,,,milutin milankovic digital legacy,conference paper,paper
+4372,,,ccd microscopy - image analysis by group for intelligent systems (gis),review,paper
+4438,,,using simplex method in verifying software safety,article,paper
+4380,,,automatic construction of surface model,conference paper,paper
+4353,,,mesat: multiple encodings of csp to sat,article,paper
+4354,,,formal verification of a modern sat solver by shallow embedding into isabelle/hol,article,paper
+4356,,,formalization and implementation of modern sat solvers,article,paper
+4357,,,formalization of incremental simplex algorithm by stepwise refinement,conference paper,paper
+4358,b'',b'',b'fast formal proof of the erd\xc5\x91s\xe2\x80\x93szekeres conjecture for convex polygons with at most 6 points',b'article in press',b'paper'
+4361,,,metaheuristic methods for solving the bilevel uncapacitated facility location problem with clients' preferences,article,paper
+4362,,,a system for neural acoustics analysis,conference paper,paper
+4461,,,fuzzy grasp with path relinking for the risk-constrained cash-in-transit vehicle routing problem,article in press,paper
+4364,,,an efficient genetic algorithm for solving the multi-level uncapacitated facility location problem,article,paper
+4365,,,parking search optimization in urban area,article,paper
+4366,,,an efficient evolutionary algorithm for locating long-term care facilities,article,paper
+4367,,,an extension of maximal covering location problem based on the choquet integral,article,paper
+4368,,,"comparison of interpolation polynomials with divided differences, interpolation polynomials with finite differences, and quadratic functions obtained by the least squares method in modeling of chromatographic responses",article,paper
+4369,,,hybrid metaheuristic method for determining locations for long-term health care facilities,article,paper
+4370,,,an efficient memetic algorithm for the uncapacitated single allocation hub location problem,article,paper
+4459,,,parallel vns for bus terminal location problem,article,paper
+4458,,,two efficient hybrid metaheuristic methods for solving the load balance problem,article,paper
+4374,,,technology enhancing mathematics learning behaviours: shifting learning goals from “producing the right answer” to “understanding how to address current and future mathematical challenges”,article in press,paper
+4375,,,efficiency of using vns algorithm for forming heterogeneous groups for cscl learning,article,paper
+4376,,,metaheuristic approaches to solving large-scale bilevel uncapacitated facility location problem with clients' preferences,article,paper
+4377,,,a note on the use of choquet and sugeno integrals in minimal and maximal covering location problems,conference paper,paper
+4378,,,solving minimal covering location problem (minclp) with the aid of fuzzy sets,conference paper,paper
+4381,,,exponential quality function for community detection in complex networks,article in press,paper
+4382,,,the role of fuzzy sets in improving maximal covering location problem (mclp),conference paper,paper
+4460,,,a new fuzzy version of the risk-constrained cash-in-transit vehicle routing problem,article,paper
+4384,,,a hybridization of an evolutionary algorithm and a parallel branch and bound for solving the capacitated single allocation hub location problem,article,paper
+4385,,,new model of maximal covering location problem with fuzzy conditions,article,paper
+4386,,,parameter adjustment for genetic algorithm for two-level hierarchical covering location problem,article,paper
+4387,,,memetic algorithm for solving the multilevel uncapacitated facility location problem,article,paper
+4388,,,fuzzy covering location problems with different aggregation operators,article,paper
+4389,,,adaptation of edges in a triangular mesh,conference paper,paper
+4391,,,software tools for simultaneous data visualization and t cell epitopes and disorder prediction in proteins,article,paper
+4392,,,"epitope distribution in ordered and disordered protein regions - part a. t-cell epitope frequency, affinity and hydropathy",article,paper
+4394,,,n-gram analysis of cog categorized protein sequences,article,paper
+4399,,,finding statistically significant repeats in nucleic acids and proteins,article,paper
+4400,,,epitope distribution in ordered and disordered protein regions. part b - ordered regions and disordered binding sites are targets of t- and b-cell immunity,article,paper
+4403,,,solving finite-domain linear constraints in presence of the alldifferent,article,paper
+4404,,,extending smt solvers with support for finite domain alldifferent constraint,article,paper
+4405,,,parallelizing simplex within smt solvers,article,paper
+4407,,,a variant of n-gram based language-independent text categorization,article,paper
+4409,,,serbian text categorization using byte level n-grams,conference paper,paper
+4410,,,an improved electromagnetism-like method for feature selection,article,paper
+4412,,,case-based reasoning and electromagnetism-like method in construction management,article,paper
+4415,,,electromagnetism metaheuristic algorithm for solving the strong minimum energy topology problem,article,paper
+4418,,,computational analysis of position-dependent disorder content in disprot database,article,paper
+4421,,,argotrics–automated triangle construction solver,article,paper
+4425,,,mapping efficiency and information content,article,paper
+4434,,,software verification and graph similarity for automated evaluation of students' assignments,article,paper
+4427,,,statistical methodology for comparison of sat solvers,conference paper,paper
+4429,,,pseudo-random number generator based on discrete-space chaotic map,article,paper
+4430,,,sparse regression interaction models for spatial prediction of soil properties in 3d,article,paper
+4432,,,measuring similarity of graph nodes by neighbor matching,article,paper
+4436,,,ensuring safe usage of buffers in programming language c,conference paper,paper
+4437,,,development and evaluation of lav: an smt-based error finding platform: system description,conference paper,paper
+4439,,,semi-automatic extraction of multiword terms from domain-specific corpora,article,paper
+4440,,,enriching serbianwordnet and electronic dictionaries with terms from the culinary domain,conference paper,paper
+4861,,,"a new course on r&amp;d project management in computer science and engineering: subjects taught, rationales behind, and lessons learned",book chapter,paper
+4442,,,an efficient variable neighborhood search for solving a robust dynamic facility location problem in emergency service network,article,paper
+4443,,,modeling of hilic retention behavior with theoretical models and new spline interpolation technique,article,paper
+4444,,,a two-phase optimization method for solving the multi-type maximal covering location problem in emergency service networks,article,paper
+4445,,,a hybrid metaheuristic method for the deterministic and robust uncapacitated multiple allocation p-hub centre problem,article,paper
+4446,,,a vns-lp algorithm for the robust dynamic maximal covering location problem,article,paper
+4447,,,memetic algorithm for the balanced resource location problem with preferences,conference paper,paper
+4448,,,solving the robust two-stage capacitated facility location problem with uncertain transportation costs,article,paper
+4449,,,hybrid metaheuristic method for solving a multi-period emergency service location problem,article,paper
+4450,,,novel formulations and vns-based heuristics for single and multiple allocation p-hub maximal covering problems,article,paper
+4451,,,a memetic algorithm for solving two variants of the two-stage uncapacitated facility location problem,article,paper
+4452,,,efficient metaheuristic approaches for exploration of online social networks,book chapter,paper
+4453,,,automatic drug adverse reaction discovery from parenting websites using disproportionality methods,conference paper,paper
+4454,,,extracting drug adverse and beneficial reactions in pediatric population from healthcare social network,conference paper,paper
+4455,,,driver monitoring algorithm for advanced driver assistance systems,conference paper,paper
+4456,,,experience from porting complex algorithms on heterogeneous multi-core systems,conference paper,paper
+4457,,,optimization of driver monitoring adas algorithm for heterogeneous platform,conference paper,paper
+4462,,,erythropoietin in predicting prognosis in patients with acute-on-chronic liver failure,article,paper
+4463,,,change in the incidence and anatomic distribution of colorectal adenoma and cancer over a period of 20 years – a single center experience [promene u incidenci i anatomskoj distribuciji kolorektalnih adenoma i karcinoma u periodu od 20 godina – iskustvo jednog centra],article,paper
+4464,,,doppler ultrasonography combined with transient elastography improves the non-invasive assessment of fibrosis in patients with chronic liver diseases,article,paper
+4465,,,erythropoietin in the evaluation of treatment outcomes in patients with polytrauma,article,paper
+4874,,,testing artificial intelligence knowledge with interactive web system [veb sistem za polaganje testova znanja iz inteligentnih sistema],conference paper,paper
+4468,,,the vsds environment based laboratory in computer architecture and organisation,article,paper
+4469,,,ewisens: educational wireless sensor network simulator,conference paper,paper
+4470,,,sentiment classification of documents in serbian: the effects of morphological normalization,conference paper,paper
+4471,,,text content analysis using ontology and semantic similarity [analiziranje sadrzaja tekstova upotrebom ontologije i semanticke slicnosti],conference paper,paper
+4472,,,cal2: computer aided learning in computer architecture laboratory,article,paper
+4801,,,a module for automatic assessment and verification of students' work in digital logic design,conference paper,paper
+4474,,,software framework for development and running multiplayer games [softverski sistem za razvoj i pokretanje igara za vise igraca],conference paper,paper
+4475,,,castle: computer architecture self-testing and learning system,conference paper,paper
+4790,,,sdlds-system for digital logic design and simulation,article,paper
+4477,,,insos - educational system for teaching intelligent systems,article,paper
+4744,,,a survey and evaluation of simulators suitable for teaching courses in computer architecture and organization,review,paper
+4479,,,algorithm for calculating influence of power transformer oil temperature change on the accuracy of all-acoustic non-iterative partial discharge localization,article,paper
+4480,,,a software system for determining the semantic similarity of short texts in serbian [softverski sistem za odredivanje semanticke slicnosti kratkih tekstova na srpskom jeziku],conference paper,paper
+4481,,,reliable baselines for sentiment analysis in resource-limited languages: the serbian movie review dataset,conference paper,paper
+4482,,,implementation of android application for faculty employees [realizacija android aplikacije za potrebe zaposlenih na fakultetu],conference paper,paper
+4483,,,a memory system for education,article,paper
+4484,,,software package for an educational computer system,article,paper
+4485,,,flexible web-based educational system for teaching computer architecture and organization,article,paper
+4863,,,software system for expert systems learning,conference paper,paper
+4855,,,a systematic approach to generation of new ideas for phd research in computing,book chapter,paper
+4488,,,serious gaming based on kinect technology for autistic children in serbia,conference paper,paper
+4792,,,digital logic simulator,conference paper,paper
+4490,,,integration of simulators in virtual 3d computer science classroom,conference paper,paper
+4491,,,a survey and evaluation of state-of-the-art intelligent question routing systems,article,paper
+4862,,,nutie - a modern open source natural language processing toolkit,conference paper,paper
+4799,,,a classification of elearning tools based on the applied multimedia,article,paper
+4494,,,feasibility of applying data mining techniques for predicting technical difficulties during laparoscopic cholecystectomy based on routine patient work-up in a small community hospital,article,paper
+4866,,,a classification of mutational approaches for genetic search,conference paper,paper
+4867,,,a software agent for social networks using natural language processing techniques,conference paper,paper
+4497,,,wasp: a web-based simulator for an educational pipelined processor,article,paper
+4498,,,a survey of intelligent question routing systems,conference paper,paper
+4499,,,sentiment classification of documents in serbian: the effects of morphological normalization and word embeddings,article,paper
+4500,,,semantic similarity of short texts in languages with a deficient natural language processing support,article,paper
+4501,,,discovering models of parallel workflow processes from incomplete event logs,conference paper,paper
+4502,,,an interactive tool for uml class model evolution in database applications,article,paper
+4503,,,a retrospective on user interface development technology,review,paper
+4504,,,towards understanding of classes versus data types in conceptual modeling and uml,article,paper
+4505,,,domain mapping using extended uml object diagrams,article,paper
+4533,,,control flow regeneration for software pipelined loops with conditions,review,paper
+4507,,,discovering block-structured parallel process models from causally complete event logs,article,paper
+4534,,,predicated software pipelining technique for loops with conditions,conference paper,paper
+4509,,,capsule-based user interface modeling for large-scale applications,article,paper
+4510,,,empirical analysis of gui programming concerns,article,paper
+4511,,,socratenon - a web-based training system with an intellect,conference paper,paper
+4876,,,a classification and comparison of data mining algorithms for wireless sensor networks,conference paper,paper
+4539,,,sources of parallelism in software pipelining loops with conditional branches,article,paper
+4514,,,a tree-driven multiple-rate model of time measuring in object-oriented real-time systems,conference paper,paper
+4765,,,research and development in e-business on the internet,article,paper
+4517,,,automatic model transformations using extended uml object diagrams in modeling environments,article,paper
+4518,,,on the semantics of associations and association ends in uml,article,paper
+4877,,,a survey of object-relational transformation patterns for high-performance uml-based applications,conference paper,paper
+4520,,,capwise-a domain-specific language for developing graphical user interfaces,conference paper,paper
+4555,,,formal model of software pipelining loops with conditions,conference paper,paper
+4522,,,practical large-scale model-driven development of business applications with an executable uml,conference paper,paper
+5236,,,software support for ground control station for unmanned aerial vehicle,conference paper,paper
+4524,,,a heuristic algorithm for dynamic task scheduling in highly parallel computing systems,article,paper
+4525,,,visualization of 3d fields and medical data and using vrml,article,paper
+4526,,,modeling distributed system entities which communicate asynchronous via message passing in java,article,paper
+4527,,,evaluation of simulators for teaching computer networks,article,paper
+4529,,,interactive visualization of 3d fields and images on inexpensive workstations using vrml,conference paper,paper
+4530,,,web laboratory for computer network,article,paper
+4531,,,java cryptography &amp; attribute certificate management,article,paper
+4848,,,an accurate performance model for network-on-chip and multicomputer interconnection networks,article,paper
+4535,,,dynamic task scheduling with precedence constraints and communication delays,conference paper,paper
+5252,,,bridging user context and design models to build adaptive user interfaces,article,paper
+5253,,,reusable design of data visualization software architecture for unmanned aerial vehicles,article,paper
+4538,,,routing function and deadlock avoidance in a star graph interconnection network,article,paper
+4781,,,reengineering the sleep simulator in a concurrent and distributed programming course,article,paper
+4541,,,computer network simulation and visualization tool for educational purpose,conference paper,paper
+4542,,,fault tolerance of the star graph interconnection network,article,paper
+4544,,,a comparison and security analysis of the cloud computing software platforms,conference paper,paper
+4545,,,web-based grid-enabled interaction with 3d medical data,article,paper
+4546,,,communication aspects of the star graph interconnection network,article,paper
+5268,,,improving design of ground control station for unmanned aerial vehicle: borrowing from design patterns,conference paper,paper
+4548,,,wnetsim: a web-based computer network simulator,article,paper
+5272,,,formal specification of usability measures in model-driven development of context-sensitive user interfaces,conference paper,paper
+4850,,,explanation of performance degradation in turn model,article,paper
+4551,,,fpga accelerator for floating-point matrix multiplication,article,paper
+4834,,,coala - system for visual representationof cryptography algorithms,article,paper
+4853,,,flow-based anomaly intrusion detection system using two neural network stages,article,paper
+4554,,,java cryptography &amp; x.509 authentication,review,paper
+5280,,,languages for model-driven development of user interfaces: review of the state of the art,review,paper
+4755,,,approach to characterization of parallel applications for dsm systems,conference paper,paper
+4558,,,an example of the efficient message protocol for industrial lan,article,paper
+4835,,,self-similar cross-traffic analysis as a foundation for choosing among active available bandwidth measurement strategies,article,paper
+4828,,,improving source code plagiarism detection: lessons learned,conference paper,paper
+4830,,,"a software tool that helps teachers in handling, processing and understanding the results of massive exams",conference paper,paper
+4757,,,memory consistency models for shared memory multiprocessors and dsm systems,conference paper,paper
+4758,,,scowl: a tool for characterization of parallel workload and its use on splash-2 application suite,conference paper,paper
+4816,,,parallelization of gst algorithm for source code similarity detection [paralelizacija gst algoritama za detekciju slicnosti u programskom kodu],conference paper,paper
+4760,,,automating the knowledge assessment workflow for large student groups: a development experience,article,paper
+4566,,,effects of user behavior and internet provider policy on the accessibility of sezampro on-line system,conference paper,paper
+4567,,,cisc versus risc processors for graphics: a simulation study,article,paper
+4568,,,web performance evaluation for internet of things applications,article,paper
+4609,,,distributed shared memory: concepts and systems,article,paper
+4777,,,identity provider deployment based on container technology,conference paper,paper
+4571,,,development of electronic forms and a java parser for processing data about university teaching stuff in accreditation process,conference paper,paper
+4572,,,comparison of three protocols for entry consistency maintenance based on mva algorithm,conference paper,paper
+4573,,,remote control of industrial robot lola 50 using wireless communication and android device [udaljeno upravljanje industrijskim robotom lola 50 upotrebom wireless komunikacije i android uredaja],conference paper,paper
+4767,,,test: tools for evaluation of students' tests - a development experience,conference paper,paper
+4577,,,intelligent crawler for web forums based on improved regular expressions,conference paper,paper
+4578,,,a comparison of three protocols for entry consistency maintenance based on mva algorithm,conference paper,paper
+4579,,,reflective memory system based on a grid of buses that selectively uses relaxed memory consistency models,conference paper,paper
+4818,,,prototype implementation of segment assembling software,article,paper
+4581,,,an analysis of scientific publications from serbia: the case of computer science,conference paper,paper
+4821,,,a comparison of software tools for plagiarism detection in programming assignments,article,paper
+4583,,,topic models and advanced algorithms for profiling of knowledge in scientific papers,conference paper,paper
+4772,,,a modified hill-climbing algorithm for knowledge test assembly based on classified criteria,article,paper
+4585,,,the book cipher algorithm,article,paper
+4586,,,once upon a pocket: programmable calculators from the late 1970s and early 1980s and the social networks around them,article,paper
+4587,,,a survey and classifcation of wireless sensor networks simulators based on the domain of use,article,paper
+4634,,,the interactive development and testing system for a risc-style processor,article,paper
+4589,,,register-level communication in speculative chip multiprocessors,article,paper
+4642,,,hardware implementation of the mechanism of multiprocessing,article,paper
+4826,,,extending valgrind framework with the mips msa support,conference paper,paper
+4593,,,graphical processing unit-based parallelization of the open shortest path first and border gateway protocol routing protocols,article,paper
+4595,,,the word-invalidate cache coherence protocol,article,paper
+4815,,,use case analysis of openacc directives in the implementation of image processing algorithms [analiza primene openacc direktiva u implementaciji algoritama za obradu slike],conference paper,paper
+4598,,,an analysis of chain characteristics in the cryptanalytic tmto method,article,paper
+4599,,,comparative performance evaluation of the avl and red-black trees,conference paper,paper
+4724,,,improving schema issue advisor in the azure sql database,conference paper,paper
+4601,,,speeding up ip lookup procedure in software routers by means of parallelization,conference paper,paper
+4602,,,interconnection networks in petascale computer systems: a survey,article,paper
+4823,,,evolution and trends in gpu computing,conference paper,paper
+4604,,,towards an improved integrated coherence and speculation protocol,conference paper,paper
+4605,,,multithreaded communication controller for efficient dsm multiprocessors,article,paper
+4606,,,low-level implementation of the sisc protocol for thread-level speculation on a multi-core architecture,article,paper
+4607,,,balancing between time and memory requirements in cryptanalysis [kompromis izmedu memorijskih i vremenskih zahteva u kriptoanalitickim postupcima],conference paper,paper
+4803,,,a simulation environment for the on-line monitoring of a fault tolerant flight control computer,conference paper,paper
+4610,,,manual parallelization versus state-of-the-art parallelization techniques: the spec cpu2006 as a case study,article,paper
+4611,,,"electroencephalographic (eeg) correlates of some activities which may alter consciousness: the transcendental meditation technique, musicogenic states, microwave resonance relaxation, healer/healee interaction, and alertness/drowsiness",article,paper
+4612,,,gpu-based paralelization of the bgp protocol [paralelizacija izbora najboljih ruta u bgp protokolu pomocu grafickog procesora],conference paper,paper
+4613,,,an improved on-line monitoring technique for a fault-tolerant computing node,conference paper,paper
+4639,,,risc-style hardware accelerator for operating systems,article,paper
+4615,,,parallelizing general histogram application for cuda architectures,conference paper,paper
+4616,,,improving performance of a dsm system by the communication controller optimizations,conference paper,paper
+4617,,,an overview of microwave resonance therapy and eeg correlates of microwave resonance relaxation and other consciousness altering techniques,review,paper
+4619,,,simulation study of hardware-oriented dsm approaches,conference paper,paper
+4827,,,analysis of cpu and gpu implementations of convolution reverb effect,article,paper
+4623,,,improved rms for the pc environment,article,paper
+4624,,,"hardware approaches to cache coherence in shared-memory multiprocessors, part 1",article,paper
+4817,,,automated multi-platform testing and code coverage analysis of the cp2k application,conference paper,paper
+4820,,,application of graphics processing units in audio signal processing [primena grafickih procesora u obradi zvucnih signala],conference paper,paper
+4627,,,new cache architecture concept: the split temporal/spatial cache,conference paper,paper
+4824,,,data sorting using graphics processing units [sortiranje podataka koriscenjem grafickih procesorskih jedinica],conference paper,paper
+4811,,,evaluation and analysis of an on-line error detection monitoring technique,article,paper
+4630,,,gpu-based implementation of reverb effect,conference paper,paper
+4648,,,an operating system accelerator,article,paper
+4632,,,an aggressive register-level communication in a speculative chip multiprocessor,conference paper,paper
+4633,,,the impact of out-of-order message delivery on cache coherence protocols,article,paper
+4717,,,a streaming dataflow implementation of parallel cocke–younger–kasami parser,book chapter,paper
+4778,,,advice-educational system for teaching database courses,article,paper
+4637,,,hardware support to operations of relational algebra.,conference paper,paper
+4638,,,multipurpose time recursive phase locked loop,article,paper
+4840,,,an overview of selected hybrid and reconfigurable architectures,conference paper,paper
+4747,,,principal risk in implementation of a sophisticated erp system at a higher education institutions,conference paper,paper
+4643,,,effect of ict on the social dimension of short-term and long-term alignment of the participants in the construction of a knowledge society,conference paper,paper
+4736,,,mobilepdr: a mobile medical information system featuring update via internet,article,paper
+4886,,,dataflow-based parallelization of control-flow algorithms,book chapter,paper
+4846,,,an overview of selected heterogeneous and reconfigurable architectures,article,paper
+4649,,,proposal for implementing the eu psi directive in serbia,conference paper,paper
+4650,,,"adaptive middleware for intelligent, context sensitive applications",conference paper,paper
+4651,,,automatic extraction of ict competences from unstructured sources,conference paper,paper
+4652,,,prolog/rex - a way to extend prolog for better knowledge representation,article,paper
+4653,,,the role of knowledge management solutions in enterprise business processes,conference paper,paper
+4654,,,main challenges in using lod in emergency management,conference paper,paper
+4655,,,different approaches to real-time application allocation to a multiprocessor system,conference paper,paper
+4656,,,ontology-mediated integration of knowledge resources in r&amp;d organizations,conference paper,paper
+4657,,,combined energy hub optimisation and demand side management for buildings,article,paper
+4658,,,integration platform for de-centralized investment projects appraisal,book chapter,paper
+4659,,,a decision support system for holistic technology assessment,conference paper,paper
+4660,,,maturity and applicability assessment of semantic web technologies,conference paper,paper
+4661,,,a heuristic algorithm for real-time application allocation to multimicrocomputer,article,paper
+4662,,,semantic classifier for affective computing,conference paper,paper
+4663,,,best-based expert diagnostic system for the aluminum industry,article,paper
+4664,,,design knowledge representation in prolog/rex,article,paper
+4665,,,comparative analysis of commercial knowledge management solutions and their role in enterprises,article,paper
+4666,,,applicability assessment of semantic web technologies in human resources domain,conference paper,paper
+4667,,,energy hub modelling and optimisation: an analytical case-study,conference paper,paper
+4668,,,integrating multiple paradigms within the blackboard framework,article,paper
+4669,,,decision support tool for used oil regeneration technologies assessment and selection,article,paper
+4670,,,decision aid for sustainable industrial siting,conference paper,paper
+5167,,,web4web e-collaboration tools,article,paper
+4672,,,semantic web based integration of knowledge resources for expertise finding,book chapter,paper
+4673,,,ontology-based competency management: the case study of the mihajlo pupin institute,article,paper
+4674,,,truth maintenance in blackboard environment,article,paper
+4675,,,applying connectionist model to natural language understanding,article,paper
+4676,,,semantic approach to knowledge processing,article,paper
+4677,,,chronic toxicity of the sava river (se europe) sediments and river water to the algae pseudokirchneriella subcapitata,article,paper
+4678,,,ontology-based facility data model for energy management,article,paper
+4679,,,probabilistic semantic classifier,conference paper,paper
+4680,,,using the linked data approach in european e-government systems: example from serbia,article,paper
+4681,,,citizen-centric linked data apps for emergency response systems,book chapter,paper
+4682,,,invex: investment advisory expert system,article,paper
+4683,,,a blackboard framework on top of prolog,article,paper
+5142,,,a generic framework for web-based intelligent decision support systems,article,paper
+4685,,,overview of some truth maintenance systems,article,paper
+4686,,,using truth maintenance systems a tutorial,article,paper
+4687,,,situation awareness and decision support tools for response phase of emergency management: a short survey,conference paper,paper
+4688,,,semantic web technologies: ready for adoption?,review,paper
+4689,,,integration of knowledge resources in u&amp;d organizations: the case of mihajlo pupin institute,book chapter,paper
+4690,,,a natural language processing for semantic web services,conference paper,paper
+4691,,,dynamic workflows for airport emergency management training,conference paper,paper
+4692,,,ontology enabled decision support system for emergency management at airports,conference paper,paper
+4693,,,applicability assessment of semantic web technologies,article,paper
+4694,,,exploratory spatio-temporal analysis of linked statistical data,article,paper
+4695,,,a framework for engineering intelligent control systems,article,paper
+4696,,,smart-phone application for autonomous indoor positioning,conference paper,paper
+4697,,,representation of texts in structured form,article,paper
+4698,,,expert diagnostic systems for industrial plants: a case study in the aluminum industry,conference paper,paper
+4699,,,linked open data infrastructure for public sector information: example from serbia,conference paper,paper
+4700,,,fides - a financial decision aid that can be trusted,conference paper,paper
+4701,,,best-based diagnostic systems for industrial plants,conference paper,paper
+4702,,,nimfa - natural language implicit meaning formalization and abstraction,article,paper
+4703,,,application of complex event processing paradigm in situation awareness and management,conference paper,paper
+4704,,,e-collaboration tool for technology foresight exercise,review,paper
+4705,,,green accounting for greener energy,review,paper
+4706,,,prolog/rex inference engine,article,paper
+4707,,,integrating serbian public data into the lod cloud,conference paper,paper
+4708,,,blackboard metaphor in tactical decision making,article,paper
+4709,,,applying neural networks to knowledge representation and determination of its meaning,conference paper,paper
+4710,,,semantic web services with soul,conference paper,paper
+4711,,,european robotics and intelligent systems conference,article,paper
+4712,,,a web-based decision support tool for groundwater remediation technologies selection,article,paper
+4713,,,information technology for cleaner water,conference paper,paper
+4714,,,big data and quality: a literature review,conference paper,paper
+4715,,,knowledge representation with soul,article,paper
+4716,,,a comparative evaluation of effort estimation methods in the software life cycle,article,paper
+4879,,,analysis of task effort estimation accuracy based on use case point size,article,paper
+4887,,,the influence of non-functional requirements in ucp method on the accuracy of effort estimates,conference paper,paper
+4720,,,reverse engineering of use case realizations in uml,conference paper,paper
+4880,,,developing algorithmic skills of pupils in serbian schools using code.org materials,conference paper,paper
+4839,,,a comparative evaluation of open source tools for multicore and reconfigurable computing,conference paper,paper
+4723,,,refmap: restructuring by feature mapping,conference paper,paper
+4726,,,using part-of-speech tags as deep-syntax indicators in determining short-text semantic similarity,article,paper
+4727,,,a classification of reverse engineering tools and criteria for their evaluation and selection,article,paper
+4729,,,use-case driven method of architecture recovery for program understanding and reuse reengineering,article,paper
+4764,,,knowledge discovery potential in automated test abembly [potencijal tehnike pronalazenja znanja za automatsko sastavljanje testova],conference paper,paper
+4731,,,automated testing of l-irl robot programming language parser [automatizovano testiranje parsera l-irl jezika za programiranje robota],conference paper,paper
+4885,,,accelerating program execution using hybrid control flow and dataflow architectures,conference paper,paper
+4737,,,evaluation and classification of syntax information usage in determining short text semantic similarity [evaluacija i klasifikacija koriscenja sintaksnih informacija u odredivanju semanticke slicnosti kratkih tekstova],conference paper,paper
+4775,,,a survey and evaluation of free and open source simulators suitable for teaching courses in wireless sensor networks,conference paper,paper
+4776,,,an implementation of air traffic control simulator,conference paper,paper
+4779,,,restart optimization for transactional memory with lazy conflict detection,article,paper
+4780,,,design of the simulator for teaching computer architecture and organization,conference paper,paper
+4806,,,configurable simulator for computer architecture and organization,article in press,paper
+4884,,,experiences in the teaching of a new computing paradigm: dataflow supercomputing,conference paper,paper
+4843,,,erle: embedded run length image encoding,conference paper,paper
+4785,,,simulator of touch sensitive components [simulator elektronskih komponenti osetljivih na dodir],conference paper,paper
+4841,,,comparison of binary procedures: a set of techniques for evading compiler transformations,article,paper
+4847,,,approach for estimating similarity between procedures in differently compiled binaries,article,paper
+4756,,,2d-rbuc for efficient parallel compression of residuals,article,paper
+4759,,,domino tiling: a new method of real-time conforming mesh construction for rendering changeable height fields,article,paper
+4761,,,hfpac: gpu friendly height field parallel compression,article,paper
+4762,,,branch mechanisms in deep pipelines: reevaluating the existing solutions and proposing a new guideline,conference paper,paper
+4763,,,two branch predictor schemes for reduction of misprediction rate in conditions of frequent context switches,conference paper,paper
+4768,,,seegl: software tool for learning the opengl graphics library [seegl: softverski alat za ucenje graficke biblioteke opengl],conference paper,paper
+4769,,,a survey of heterogeneous computing: concepts and systems,article,paper
+4771,,,evaluating two-bit branch predictors for user/kernel code,conference paper,paper
+4773,,,fast cuda-based codec for height fields,conference paper,paper
+4774,,,em3: a taxonomy of heterogeneous computing systems,article,paper
+4789,,,software system for visual representation of the advanced encryption standard algorithm [softverski sistem za vizuelnu reprezentaciju advanced encryption standard algoritma],conference paper,paper
+4791,,,data encryption standard visual representation,conference paper,paper
+4875,,,a development of a configurable system for handling x509 certificates [razvoj konfigurabilnog sistema za rad sa x509 sertifikatima],conference paper,paper
+4832,,,adding practical experience to computer security course,article,paper
+4797,,,visual software system for memory interleaving simulation,article,paper
+4864,,,application of moodle platform in computer engineering courses [primena moodle platforme u nastavi racunarske tehnike i informatike],conference paper,paper
+4869,,,transition from traditional to lms supported examining: a case study in computer engineering,article,paper
+4804,,,tv-centric gaming applications for android os: architecture and a framework,conference paper,paper
+4805,,,"human-computer interaction in an integrated environment combining digital tv, mobile devices and internet",conference paper,paper
+4807,,,tv-centric multiplayer gaming over the cloud for consumer electronic devices,conference paper,paper
+4809,,,"an integrated environment and development framework for social gaming using mobile devices, digital tv and internet",article,paper
+4810,,,integration of communication services for android-based set-top box applications [integracija komunikacionih servisa na primeru aplikacije za digitalni tv prijemnik sa android os],conference paper,paper
+4813,,,implementation of a social gaming cloud service for mobile and tv devices [realizacija racunarskog servisa u oblaku za drustvene igre za mobilne i tv uredaje],conference paper,paper
+4814,,,rebooting the tv-centric gaming concept for modern multiscreen over-the-top service,conference paper,paper
+4849,,,simulation of software defined networks in mininet environment [koriscenje mininet okruzenja za simulaciju softverski definisanih mreza],conference paper,paper
+4831,,,a network management architecture proposal for the géantnren environment,conference paper,paper
+4833,,,federated trouble ticket system for service management support in loosely coupled multi-domain environments,article,paper
+4836,,,a transparent and scalable anomaly-based dos detection method,article,paper
+4837,,,of2nf: flow monitoring in openflow environment using netflow/ipfix,conference paper,paper
+4873,,,a survey of dual data cache systems,conference paper,paper
+4851,,,european cloud collaboration through géant,conference paper,paper
+4852,,,packet dispersion strategy evaluation from the perspective of packet loss pattern and voip quality,article,paper
+4854,,,dynamic packet dispersion based on multi-threshold buffer occupancy,conference paper,paper
+4856,,,seamless integration of network management tools in a multi-domain environment,conference paper,paper
+4857,,,an efficient mechanism of cryptographic synchronization within selectively encrypted h.265/hevc video stream,article,paper
+4858,,,a novel scheme for dynamic triggering of packet dispersion,article,paper
+4859,,,ensemble classifiers for supervised anomaly based network intrusion detection,conference paper,paper
+4865,,,a model of software system for parking using search algorithms,conference paper,paper
+4868,,,hybrid approaches to mutation in genetic search algorithms,conference paper,paper
+4870,,,developing critical computer literacy for academic subjects english for software engineering and expert systems at the department of software engineering university of belgrade,conference paper,paper
+4871,,,dual data cache systems. architecture and analysis.,article,paper
+4872,,,a modified split temporal/spatial cache,conference paper,paper
+4878,,,"a classification of data mining algorithms for wireless sensor networks, and classification extension to concept modeling in system of wireless sensor networks based on natural language processing",article,paper
+4881,,,recycled ic detection based on statistical methods,article,paper
+4882,,,facial profile esthetics change of class ii malocclusion patients treated with the herbst appliance as perceived by orthodontists and laypersons,article,paper
+4883,,,an appgallery for dataflow computing,article,paper
+4888,,,advances in high performance computing and related issues,review,paper
+5356,,,on using weaving models to specify schema mappings,conference paper,paper
+4891,,,the systems development life cycle to facilitate progression towards semantic and organizational interoperability for healthcare system,book chapter,paper
+5358,,,specification of data schema mappings using weaving models,article,paper
+5183,,,business process model life-cycle management in cloud manufacturing,conference paper,paper
+5281,,,towards an interoperable production system [interoperabilnost proizvodnih sistema],article,paper
+5476,,,automating etl processes using the domain-specific modeling approach,article,paper
+5187,,,semantic enterprise application integration standards,article,paper
+5283,,,web-based implementation of replenishment process in distribution channels - a case study,article,paper
+5196,,,enhancing bpmn 2.0 informational perspective to support interoperability for cross-organizational business processes,article,paper
+4900,,,design patterns application in the erp systems improvements,conference paper,paper
+5456,,,model and software tool for automatic generation of user interface based on use case and data model,article,paper
+5457,,,use case specification using the silabreq domain specific language,article,paper
+5458,,,the explanation of the design patterns by the symmetry concepts,conference paper,paper
+5459,,,preliminary experience using jetbrains mps to implement a requirements specification language,conference paper,paper
+5460,,,extended software architecture based on security patterns,article,paper
+5461,,,software quality standards and lean approach in teaching and learning programming,article,paper
+5396,,,guidelines for framework development process,conference paper,paper
+5462,,,a pattern language for use cases specification,conference paper,paper
+5463,,,from software specification to cloud model,book chapter,paper
+5464,,,language for use case specification,conference paper,paper
+5465,,,conceptual model of software architecture in instruction java web frameworks,article,paper
+4912,,,explanation of software entropy by golden ratio and logarithmic spiral,conference paper,paper
+5466,,,use case specification at different levels of abstraction,conference paper,paper
+5076,,,"open badges: novel means to motivate, scaffold and recognize learning",article,paper
+4915,,,using new web technologies in teaching demography,conference paper,paper
+4916,,,fast reasoning with external data on personal computers,article,paper
+5079,,,ontology-based annotation of learning object content,article,paper
+5054,,,magic potion: incorporating new development paradigms through metaprogramming,article,paper
+4919,,,discovering patterns in learning technology systems,conference paper,paper
+4920,,,a framework for technology enhanced education in orthopaedics: knee surgery case study,conference paper,paper
+4921,,,fuzzy systems based on component software,article,paper
+4922,,,semiotics for ontologies and knowledge representation,conference paper,paper
+4923,,,what does current web-based education lack?,article,paper
+5055,,,mda-based ontological engineering,book chapter,paper
+4925,,,building an intelligent system using modern internet technologies,article,paper
+5084,,,modeling ontologies as executable domain specific languages,conference paper,paper
+5085,,,open badges: challenges and opportunities,conference paper,paper
+4928,,,duplicate journal title detection in references,book chapter,paper
+4929,,,an intelligent tutoring system for teaching formal languages,conference paper,paper
+4930,,,modern expert systems and their use in medicine [savremeni ekspertni sistemi i njihova primena u medicini.],article,paper
+5088,,,jess goes graphical,conference paper,paper
+4932,,,software patterns in its architectures,article,paper
+4933,,,linking method for selecting educational web resources à la zigzag,article,paper
+5062,,,the semiotics contribution on the web,conference paper,paper
+5090,,,learning scenarios and services for an sme: collaboration between an sme and a research team,conference paper,paper
+4936,,,teaching formal languages by an intelligent tutoring system,article,paper
+4937,,,expert systems in finance - a cross-section of the field,article,paper
+5094,,,automating semantic annotation to enable learning content adaptation,conference paper,paper
+4939,,,bridging concrete and abstract syntaxes in model-driven engineering: a case of rule languages,article,paper
+4940,,,imagine: using new web technologies in demography,article,paper
+4941,,,student modeling in design pattern its,article,paper
+4942,,,web service support for collaboration between demographers,article,paper
+4943,,,classroom for the semantic web,book chapter,paper
+4944,,,sharing ocl constraints by using web rules,article,paper
+4987,,,oboa model of explanation module in intelligent tutoring shell,conference paper,paper
+4946,,,modeling service orchestrations with a rule-enhanced business process language,conference paper,paper
+4947,,,petri net ontology,article,paper
+5061,,,bolero.net in the semantic web and grid environment,article,paper
+4949,,,representational hierarchy of fuzzy logic concepts in the oboa model,conference paper,paper
+5075,,,the tao of modeling spaces,article,paper
+5105,,,textual affect communication and evocation using abstract generative visuals,article,paper
+4952,,,patternguru: an educational system for software patterns,conference paper,paper
+5107,,,ontologies for creating learning object content,article,paper
+4954,,,web based learning environment as a passive web document,conference paper,paper
+4955,,,control knowledge and pedagogical aspects of the get-bits model,conference paper,paper
+4956,,,mda-based architecture of a description logics reasoner,article,paper
+4957,,,"technology enhanced learning – the wild, the innocent and the e street shuffle",conference paper,paper
+5110,,,service-oriented development of content and knowledge provision tool,conference paper,paper
+4959,,,knowledge modeling - state of the art,review,paper
+4960,,,development and use of expert systems in medicine [problemi razvoja i primene ekspertnih sistema u medicini.],review,paper
+4961,,,enhancing a core journal collection for digital libraries,article,paper
+5057,,,uml profile for owl,conference paper,paper
+4963,,,an object-oriented shell for intelligent tutoring lessons,conference paper,paper
+4964,,,object model of intelligent tutoring shell,conference paper,paper
+4965,,,design pattern its: student model implementation,conference paper,paper
+4966,,,reusing petri nets through the semantic web,article,paper
+5470,,,javadon: an open-source expert system shell,article,paper
+5117,,,the pragmatics of current e-learning standards,article,paper
+4969,,,applying patterns to its architectures,conference paper,paper
+4970,,,teaching agile software development: a case study,article,paper
+5063,,,mda-based automatic owl ontology development,article,paper
+4972,,,eq: an adaptive educational hypermedia-based bdi agent system for the semantic web,conference paper,paper
+4973,,,web intelligence and artificial intelligence in education,review,paper
+4974,,,software support for teaching petri nets: p3,conference paper,paper
+5064,,,agile erp systems development: a technical perspective,conference paper,paper
+4976,,,key issues in next-generation web-based education,article,paper
+4977,,,next-generation web-based education,article,paper
+5066,,,clarifying the meta,article,paper
+4979,,,teaching petri nets using p3,review,paper
+4980,,,synergy of performance-based model and cognitive trait model in dp-its,conference paper,paper
+5000,,,a model of multitutor ontology-based learning environments,conference paper,paper
+4982,,,translating a knowledge base into html,article,paper
+4983,,,a survey of modern knowledge modeling techniques,review,paper
+4984,,,computer - supported collaborative learning,book chapter,paper
+5122,,,loco-analyst: a tool for raising teachers' awareness in online learning environments,conference paper,paper
+5070,,,incorporating the ontology paradigm into software engineering: enhancing domain-driven programming in clojure/java,article,paper
+5072,,,from uml to ready-to-use owl ontologies,conference paper,paper
+4989,,,the component based model of the control knowledge in an intelligent tutoring shell,conference paper,paper
+5126,,,synesketch: an open source library for sentence-based emotion recognition,article,paper
+5495,,,enhancing workplace learning activities in intelligent learning extended organizations,book chapter,paper
+4992,,,understanding ontological engineering,article,paper
+5483,,,virtual consultant in welding - creation of the content server,article,paper
+4994,,,a pattern language for intelligent tutoring systems,conference paper,paper
+4995,,,towards sharing rules between owl/swrl and uml/ocl,conference paper,paper
+4996,,,research community knowledge portals,article,paper
+4997,,,pieces of mind: component-based software development of artificial intelligence,conference paper,paper
+5499,,,grading soft skills with open badges,conference paper,paper
+4999,,,business process integration by using general rule markup language,conference paper,paper
+5001,,,design and analysis patterns in its architectures,conference paper,paper
+5135,,,developing open badges: a comprehensive approach,article,paper
+5482,,,adaptive neuro-fuzzy pedagogical recommender,article,paper
+5138,,,specifying cases for technology enhanced learning in a small and medium enterprise,conference paper,paper
+5005,,,a knowledge-based system for the strategic control level of robots in flexible manufacturing cells,article,paper
+5006,,,social presence and interaction in learning environments: the effect on student success,article,paper
+5007,,,"not fade away?: commentary to paper education and the semantic web (ijaied vol.14, 2004)",article,paper
+5497,,,grading students' programming and soft skills with open badges: a case study,article in press,paper
+5146,,,enhancing learning object content on the semantic web,conference paper,paper
+5148,,,content and knowledge provision service - a way to build intellectual capital in learning organizations,article,paper
+5011,,,review of new expert systems in medicine [pregled novijih medicinskih ekspertnih sistema.],review,paper
+5012,,,education and the semantic web,article,paper
+5150,,,ontology-based automatic annotation of learning content,conference paper,paper
+5065,,,adopting software engineering trends in ai,article,paper
+5015,,,think ahead: evaluation and standardisation issues for e-learning applications,article,paper
+5016,,,comex: a cost management expert system,article,paper
+5152,,,leveraging the semantic web for providing educational feedback,conference paper,paper
+5018,,,a framework for building intelligent manufacturing systems,article,paper
+5019,,,on the notion of components for intelligent tutoring systems,conference paper,paper
+5020,,,interoperable petri net models via ontology,article,paper
+5159,,,automatic annotation of content units in tangram,conference paper,paper
+5022,,,semi-automatic generation of quizzes and learning artifacts from linked data,conference paper,paper
+5071,,,ontology modeling and mda,review,paper
+5160,,,dynamic assembly of personalized learning content on the semantic web,conference paper,paper
+5074,,,converting uml to owl ontologies,conference paper,paper
+5026,,,knowledge-based control of rotary kiln,conference paper,paper
+5027,,,designing an intelligent tutoring system in the domain of formal languages,conference paper,paper
+5028,,,rex: robotics expert systems building tool,article,paper
+5029,,,designing knowledge-based systems for optimal performance,conference paper,paper
+5030,,,bridging concrete and abstract syntax of web rule languages,conference paper,paper
+5164,,,loco-analyst: semantic web technologies in learning content usage analysis,article,paper
+5032,,,object-oriented modelling of expert system reasoning process,conference paper,paper
+5165,,,visualizing the affective structure of students interaction,conference paper,paper
+5166,,,tangram for personalized learning using the semantic web technologies,article,paper
+5035,,,model driven engineering of a tableau algorithm for description logics,article,paper
+5036,,,towards more intelligent assessment systems,book chapter,paper
+5037,,,features of second-generation expert systems-an extended overview,review,paper
+5059,,,a uml profile for owl ontologies,conference paper,paper
+5039,,,remarks on the variety and significance of advanced learning technologies,article,paper
+5040,,,using semantic web technologies to analyze learning content,article,paper
+5041,,,code tutor,conference paper,paper
+5042,,,applying semantic web to e-tourism,book chapter,paper
+5172,,,ontologies for reusing learning object content,conference paper,paper
+5044,,,model transformations to bridge concrete and abstract syntax of web rule languages,article,paper
+5045,,,architectural patterns in pedagogical agents,conference paper,paper
+5176,,,a gui for jess,article,paper
+5047,,,using data mining to improve digital library services,article,paper
+5178,,,specifying cases for tel in an sme,conference paper,paper
+5180,,,a comparative study of software tools for user story management,conference paper,paper
+5069,,,incorporating the ontology paradigm into a mainstream programming environment,article,paper
+5051,,,emotional semantic grid,conference paper,paper
+5052,,,artificial intelligence applications and innovations,conference paper,paper
+5053,,,immunoglobulin and albumin preparations and transfusion transmisstve diseases,article,paper
+5056,,,penetrating the omerta of predatory publishing: the romanian connection,article,paper
+5060,,,confirmation of anti-hcv results in blood donors,article,paper
+5067,,,functional programming way to interact with software attacks and vulnerabilities,conference paper,paper
+5068,,,air - a platform for intelligent systems,conference paper,paper
+5073,,,highway: a domain specific language for enterprise application integration,conference paper,paper
+5077,,,leveraging the social semantic web in intelligent tutoring systems,conference paper,paper
+5078,,,a semantic-rich framework for learning software patterns,conference paper,paper
+5080,,,self-regulated learners and collaboration: how innovative tools can address the motivation to learn at the workplace?,conference paper,paper
+5081,,,requirements elicitation in culturally and technologically diverse settings,conference paper,paper
+5082,,,comprehension and learning of social goals through visualization,article,paper
+5083,,,an environment for project-based collaborative learning of software design patterns,article,paper
+5086,,,learning object context for adaptive learning design,conference paper,paper
+5087,,,ontologies for effective use of context in e-learning settings,review,paper
+5089,,,towards a semantic-rich collaborative environment for learning software patterns,conference paper,paper
+5091,,,leveraging semantic technologies for harmonization of individual and organizational learning,conference paper,paper
+5092,,,repurposing learning object components,conference paper,paper
+5093,,,semantically-enabled project-based collaborative learning of software patterns,conference paper,paper
+5095,,,2nd int'l workshop on open badges in education (obie 2015): from learning evidence to learning analytics,conference paper,paper
+5096,,,automated semantic tagging of textual content,article,paper
+5097,,,linked data metrics for flexible expert search on the open web,conference paper,paper
+5098,,,factors influencing beliefs for adoption of a learning analytics tool: an empirical study,article,paper
+5099,,,the social semantic web and workplace learning,book chapter,paper
+5100,,,utility of ontology extraction tools in the hands of educators,conference paper,paper
+5101,,,ontology-based content model for scalable content reuse,conference paper,paper
+5102,,,lexical semantic relatedness for twitter analytics,conference paper,paper
+5103,,,evaluating an intelligent tutoring system for design patterns: the depths experience,article,paper
+5104,,,intelligent and innovative support of collaborative learning activities (wiiscola),conference paper,paper
+5106,,,rysannmd: a biomedical semantic annotator balancing speed and accuracy,article,paper
+5108,,,semantic annotation in biomedicine: the current landscape,review,paper
+5109,,,evolutionary fine-tuning of automated semantic annotation systems,article,paper
+5111,,,an approach to folksonomy-based ontology maintenance for learning environments,article,paper
+5112,,,collaborative learning in online study groups: an evolutionary game theory perspective,article,paper
+5113,,,filtering inaccurate entity co-references on the linked open data,conference paper,paper
+5500,,,learn-b: a social analytics-enabled tool for self-regulated workplace learning,conference paper,paper
+5116,,,ontology-based learning content repurposing,conference paper,paper
+5118,,,bridging knowledge bases' heterogeneity using xml/xslt approach,conference paper,paper
+5119,,,the social semantic web in intelligent learning environments: state of the art and future challenges,article,paper
+5120,,,from prediction to impact: evaluation of a learning analytics retention program,conference paper,paper
+5121,,,from study tactics to learning strategies: an analytical method for extracting interpretable representations,article in press,paper
+5123,,,can educators develop ontologies using ontology extraction tools: an end-user study,conference paper,paper
+5124,,,generating context-related feedback for teachers,article,paper
+5125,,,personal learning environments on the social semantic web,article,paper
+5127,,,exploring student interactions with preparation activities in a flipped classroom experience,article in press,paper
+5130,,,the state of the art in semantic relatedness: a framework for comparison,article in press,paper
+5132,,,automated classification and localization of daily deal content from the web,article,paper
+5133,,,identifying engagement patterns with video annotation activities: a case study in professional development,article,paper
+5134,,,semantic tagging with linked open data,conference paper,paper
+5137,,,project-based collaborative learning environment with context-aware educational services,conference paper,paper
+5139,,,e-learning meets the social semantic web,conference paper,paper
+5140,,,semantic technologies for socially-enhanced context-aware mobile learning,conference paper,paper
+5141,,,an empirical evaluation of ontology-based semantic annotators,conference paper,paper
+5143,,,achieving knowledge interoperability: an xml/xslt approach,article,paper
+5494,,,paperista: visual exploration of semantically annotated research papers,conference paper,paper
+5147,,,a qualitative evaluation of evolution of a learning analytics tool,article,paper
+5149,,,leveraging folksonomies for ontology evolution in e-learning environments,conference paper,paper
+5151,,,learning object context on the semantic web,conference paper,paper
+5153,,,students online interaction in a blended learning environment - a case study of the first experience in using an lms,conference paper,paper
+5154,,,"social networking, teaching, and learning",review,paper
+5155,,,1stinternational workshop on learning analytics and linked data,conference paper,paper
+5156,,,electronic commerce meets the semantic web,article,paper
+5157,,,looking for experts? what can linked data do for you?,conference paper,paper
+5158,,,using online presence data for recommending human resources in the opal project,conference paper,paper
+5161,,,semantic web technologies for the integration of learning tools and context-aware educational services,conference paper,paper
+5496,,,discovering the dynamics of terms semantic relatedness through twitter,conference paper,paper
+5163,,,ontologies to support learning design context,conference paper,paper
+5498,,,self-regulated workplace learning: a pedagogical framework and semantic web-based environment,article,paper
+5169,,,ontology extraction tools: an empirical study with educators,article,paper
+5492,,,semantic web and linked learning to support workplace learning,conference paper,paper
+5493,,,a semantic web-enabled tool for self-regulated learning in the workplace,conference paper,paper
+5173,,,generating actionable predictive models of academic performance,conference paper,paper
+5174,,,what do cmooc participants talk about in social media?: a topic analysis of discourse in a cmooc,conference paper,paper
+5175,,,towards a comprehensive call ontology for research 2.0,conference paper,paper
+5177,,,learning analytics to unveil learning strategies in a flipped classroom,article,paper
+5179,,,student modeling and assessment in intelligent tutoring of software patterns,article,paper
+5181,,,online presence in adaptive learning on the social semantic web,conference paper,paper
+5473,,,a comparative analysis of data warehouse data models,conference paper,paper
+5184,,,towards business process catalog for cloud-enabled service oriented architectures,conference paper,paper
+5491,,,a comparison and integration of ontologies suitable for interoperability extension of scor model,conference paper,paper
+5188,,,a direct approach to physical data vault design,article,paper
+5189,,,semantic mediation for standard-based b2b interoperability,article,paper
+5190,,,towards model-driven approach for rapid erp development,conference paper,paper
+5191,,,a semantic-mediation architecture for interoperable supply-chain applications,article,paper
+5478,,,domain/mapping model: a novel data warehouse data mode,article,paper
+5193,,,interoperable supply-chain applications: message metamodel-based semantic reconciliation of b2b messages,article,paper
+5194,,,semantic b2b-integration using an ontological message metamodel,article,paper
+5195,,,data level enterprise applications integration,conference paper,paper
+5198,,,identity management-a survey,book chapter,paper
+5199,,,a black hole with torsion in 5d lovelock gravity,article,paper
+5200,,,5d lovelock gravity: new exact solutions with torsion,article,paper
+5201,,,design of fuzzy expert system for evaluation of contemporary user authentication methods intended for mobile devices,article,paper
+5202,,,extending identity management system with multimodal biometric authentication,article,paper
+5203,,,reducing e-commerce risks using digital certificates,article,paper
+5204,,,botnets: the evolution and the possible solution,article,paper
+5205,,,overview of dos attacks on wireless sensor networks and experimental results for simulation of interference attacks [visión general de los ataques de dos en redes de sensores inalámbricos y resultados experimentales para la simulación de ataques de interferencia],article,paper
+5408,,,choosing authentication techniques in e-procurement system in serbia,conference paper,paper
+5207,,,access control in healthcare information systems - context aware attribute based approach,book chapter,paper
+5412,,,implementing authentication in an e-procurement system,book chapter,paper
+5209,,,an intrusion prevention system as a proactive security mechanism in network infrastructure,article,paper
+5211,,,providing strong access control in campus computer network by using radius server [obezbedstrokeivanje jake kontrole pristupa u racunarskoj mrezi kampusa koriscenjem radius servera],article,paper
+5212,,,holography in lovelock chern-simons ads gravity,article,paper
+5213,,,merchant web applications defense in e-commerce enviroment,article,paper
+5246,,,guaranteed single disk access for very large database files,article,paper
+5215,,,tweakable parallel ofb mode of operation with delayed thread synchronization,article,paper
+5216,,,performance evaluation of aes algorithm under linux operating system,article,paper
+5256,,,efficient improvement of brain-tharp's algorithm,article,paper
+5218,,,a novel approach to building secure systems,conference paper,paper
+5219,,,writing open source sunxacml access control in electronic flealth record with acceptable performances,conference paper,paper
+5220,,,a survey of wireless security,article,paper
+5221,,,an application of partial homomorphic encryption in computer system with limited resources,article,paper
+5222,,,security measures for protection of e-government it infrastructure,article,paper
+5401,,,multimedia systems development,book chapter,paper
+5224,,,object oriented terrain modelling: lessons learned from java3d development issues,conference paper,paper
+5402,,,delivering educational games to mobile devices,book chapter,paper
+5403,,,wiki as a corporate learning tool: case study for software development company,article,paper
+5228,,,eeg analysis in a telemedical virtual world,article,paper
+5404,,,walking in colors: human gait recognition using kinect and cbir,article,paper
+5315,,,surviving the design of educational games: borrowing from motivation and multimodal interaction,conference paper,paper
+5410,,,learning object repurposing for various multimedia platforms,article,paper
+5233,,,experimental evaluation of multimodal human computer interface for tactical audio applications,conference paper,paper
+5411,,,using learning objects in games,conference paper,paper
+5237,,,the analysis of the users' response to the linear internet video advertising by using qoe methods,article,paper
+5238,,,3d visualization of brain electrical activity,conference paper,paper
+5414,,,motivational and cognitive aspects of applying educational games as a learning tool,book chapter,paper
+5415,,,integrating an educational game in moodle lms,article,paper
+5241,,,tactical audio and acoustic rendering in biomédical applications,article,paper
+5242,,,software architecture for ground control station for unmanned aerial vehicle,conference paper,paper
+5325,,,educational games design issues: motivation and multimodal interaction,conference paper,paper
+5418,,,"motivational aspects of different learning contexts: ""my mom won't let me play this game...""",article,paper
+5422,,,learning objects in educational games,article,paper
+5247,,,improved indexing for distributed virtual university,article,paper
+5248,,,structuring scan-line algorithm for scene with single complex object case,article,paper
+5249,,,uav- based simulation environment: experience report,conference paper,paper
+5429,,,open source application in multimodal biometry,conference paper,paper
+5251,,,optimization of thresholds in serial multimodal biometric systems,conference paper,paper
+5254,,,toward optimization of multimodal user interfaces for tactical audio applications,article,paper
+5255,,,multi modal presentation in virtual telemedical environments,conference paper,paper
+5257,,,educational software for studying a cbir system,article,paper
+5258,,,model-driven development of user interfaces: promises and challenges,conference paper,paper
+5259,,,continuous distribution approximation and thresholds optimization in serial multi-modal biometric systems,article,paper
+5430,,,model driven development of user interfaces for educational games,conference paper,paper
+5431,,,knowledge modeling for educational games,conference paper,paper
+5262,,,modeling multimodal human-computer interaction,article,paper
+5263,,,an agent based framework for virtual medical devices,conference paper,paper
+5346,,,a multimodal biometrics system implemented using open source technology [multimodalni biometrijski sistem realizovan uz pomoc tehnologije otvorenog koda],conference paper,paper
+5265,,,an implementation of real-time monitoring and analysis in telemedicine,conference paper,paper
+5266,,,work in progress - virtual business school and enterprise resource planning system integration in energorpojekt group,conference paper,paper
+5347,,,motivation and multimodal interaction in model-driven educational game design,article,paper
+5269,,,universal accessibility as a multimodal design issue,article,paper
+5270,,,an implementation of ray tracing algorithm for the multiprocessor machines,article,paper
+5436,,,new gait recognition method using kinect stick figure and cbir,conference paper,paper
+5273,,,designing aircraft cockpit displays: borrowing from multimodal user interfaces,conference paper,paper
+5437,,,usability issues of e-learning systems: case-study for moodle learning management system,conference paper,paper
+5275,,,a model-driven approach to content repurposing,article,paper
+5438,,,literature review in game-based learning,conference paper,paper
+5277,,,real-time visualization of brain electrical activity,article,paper
+5278,,,perceptualization of biomedical data: an experimental environment for visualization and sonification of brain electrical activity,review,paper
+5440,,,effectiveness of game-based learning: influence of cognitive style,conference paper,paper
+5363,,,using protocols and domain specific languages to achieve compliance of administrative processes with legislation,conference paper,paper
+5285,,,an algorithm for production planning based on supply chain kpis,article,paper
+5286,,,an algorithm for customer order fulfillment in a make-to-stock manufacturing system,article,paper
+5445,,,a domain-specific language for supporting event log extraction from erp systems,conference paper,paper
+5477,,,the specification of etl transformation operations based on weaving models,article,paper
+5298,,,ontology-based multimodal language learning,book chapter,paper
+5300,,,software quality improvement: a model based on managing factors impacting software quality,article,paper
+5301,,,software solution for monitoring changes of database elements,article,paper
+5303,,,the interface of hypothalamic-pituitary-adrenocortical axis and circulating brain natriuretic peptide in prediction of cardiopulmonary performance during physical stress,article,paper
+5304,,,a contribution to software development quality management,article,paper
+5305,,,systolic right ventricular adaptive changes in athletes as predictors of the maximal functional capacity: a pulsed tissue doppler study,article,paper
+5306,,,"brain natriuretic peptide predicts forced vital capacity of the lungs, oxygen pulse and peak oxygen consumption in physiological condition",article,paper
+5307,,,a contribution to continual software service improvement based on the six-step service improvement method,article,paper
+5405,,,a tool to aid institutions recognize their employees competences acquired by informal learning,conference paper,paper
+5425,,,gamification ecosystems,conference paper,paper
+5407,,,using data mining on student behavior and cognitive style data for improving e-learning systems: a case study,article,paper
+5317,,,elephant herding optimization algorithm for wireless sensor network localization problem,conference paper,paper
+5320,,,informal learning recognition through a cloud ecosystem,article,paper
+5413,,,modelling knowledge and game based learning: model driven approach,article,paper
+5507,,,elbio-framework for learning multimodal biometrics,conference paper,paper
+5417,,,educational games and it professionals: perspectives from the field,article,paper
+5420,,,interoperability framework for multimodal biometry: open source in action,article,paper
+5330,,,gamification ecosystems: current state and perspectives,book chapter,paper
+5421,,,towards creation of implicit hci model for prediction and prevention of operators’ error,conference paper,paper
+5424,,,applying technical standards to biometric systems,article,paper
+5426,,,communicating the user state: introducing cognition-aware computing in industrial settings,article in press,paper
+5427,,,real-time learning analytics in educational games,conference paper,paper
+5428,,,enhancing informal learning recognition through trailer project,conference paper,paper
+5339,,,"trailer project (tagging, recognition, acknowledgment of informal learning experiences): a methodology to make learners' informal learning activities visible to the institutions",article,paper
+5508,,,visualisation of student learning model in serious games,article,paper
+5343,,,linux based virtual networking laboratories for software defined networking,article,paper
+5433,,,cloud based metalearning system for predictive modeling of biomedical data,article,paper
+5510,,,support platform for learning about multimodal biometrics,article,paper
+5348,,,hci aspects of social media in collaboration of software developers,article,paper
+5352,,,game design as a learning tool for the course of computer networks,article,paper
+5441,,,modeling wealth distribution for 100 reachest people in south-eastern europe,conference paper,paper
+5355,,,"trailer project overview: tagging, recognition and acknowledgment of informal learning experiences",conference paper,paper
+5357,,,use of complex event processing engines in time domain astronomy,conference paper,paper
+5359,,,serbian virtual observatory,conference paper,paper
+5360,,,a generic architectural framework of municipal information systems: a vision,article,paper
+5361,,,extending feature models with deep instantiation to manage complexity and dynamism of services,conference paper,paper
+5362,,,context modeling based on feature models expressed as views on ontologies via mappings,article,paper
+5479,,,variable neighborhood search and tabu search for the web service selection problem,article,paper
+5365,,,an approach to defining scope in software product lines for the telecommunication domain,conference paper,paper
+5366,,,admis: generalized administrative system,conference paper,paper
+5367,,,"phenetic relationships of six species of mullets (mugilidae) from the south adriatic, as inferred from the study of the visceral and dermal skeleton",article,paper
+5372,,,different insulin treatment regimens in patient with diabetes mellitus type 1: effects on quality of life [uticaj razlicitih rezima insulinske terapije na kvalitet zivota obolelih od dijabetesa melitusa tipa 1],article,paper
+5378,,,evaluation of asian university rankings: position and perspective of leading indian higher education institutions,article,paper
+5379,,,excellence with leadership: the crown indicator of scimago institutions rankings iber report,article,paper
+5380,,,applying electronic documents in development of the healthcare information system in the republic of serbia,article,paper
+5381,,,infrastructural model for the healthcare system based on emerging technologies,article,paper
+5382,,,the crossing speed of elderly pedestrians [brzina hoda starijih pesaka na pesackim prelazima],article,paper
+5383,,,introduction and implementation of electronic health card,book chapter,paper
+5384,,,determining the number and location of winter road maintenance depots–a case study of the district road network in serbia,article,paper
+5385,,,contribution to accident prediction models development for rural two-lane roads in serbia [doprinos razvoju modela predvidjanja saobracajnih nezgoda za vangradske dvotracne puteve u srbiji],article,paper
+5386,,,electronic health system - development and implementation into the health system of the republic of serbia [elektronski zdravstveni sistem - razvoj i uvodstrokeenje u zdravstveni sistem republike srbije],article,paper
+5387,,,decision-support framework for selecting the optimal road toll collection system,article,paper
+5388,,,the effects of mobile phone use on pedestrian crossing behaviour at unsignalized intersections - models for predicting unsafe pedestrians behaviour,article,paper
+5389,,,beyond the equal-weight framework of the networked readiness index: a multilevel i-distance methodology,article,paper
+5390,,,communication via the web and sms services in the healthcare system in the republic of serbia,article,paper
+5391,,,sustainable development in the e-health sector of the european union,article,paper
+5409,,,do micro-breaks increase the attention level of an assembly worker? an erp study,article,paper
+5423,,,neuroergonomics method for measuring the influence of mental workload modulation on cognitive state of manual assembly worker,conference paper,paper
+5506,,,impact of screen aspect ratio on reading electronic material,article,paper
+5439,,,investigating brain dynamics in industrial environment – integrating mobile eeg and kinect for cognitive state detection of a worker,conference paper,paper
+5501,,,representing it performance management as metamodel,article,paper
+5502,,,analysis of available cloud computing models to support cloud adoption decision process in an enterprise,conference paper,paper
+5504,,,general model for adequate cloud service selection using decision making methods,article,paper
+5447,,,"modelling, analysis and control of large-scale interconnected economic systems.",conference paper,paper
+5449,,,the appearance of toxic amount of nitrites in soil,article,paper
+5452,,,availability of residual nitrogen from fertilizers in soil,article,paper
+5453,,,uveitis and autoimmunity against the retina [les uvéites et l'auto-immunité contre la rétine.],article,paper
+5454,,,the study of the fertilizers influence on soil composition and water pollution,article,paper
+5455,,,the preparation and use of radiolabelled specific helminth antibodies,article,paper
+5469,,,an explanation facility framework for rule-based systems,article,paper
+5471,,,konsultant: a knowledge base for automated interpretation of profit values,conference paper,paper
+5472,,,automated interpretation of key performance indicator values and its application in education,article,paper
+5474,,,a boolean consistent fuzzy inference system for diagnosing diseases and its application for determining peritonitis likelihood,article,paper
+5475,,,combining boolean consistent fuzzy logic and ahp illustrated on the web service selection problem,article,paper
+5480,,,extending ahp with boolean consistent fuzzy logic and its application in web service selection,conference paper,paper
+5481,,,a hybrid metaheuristic based on variable neighborhood search and tabu search for the web service selection problem,article,paper
+5485,,,smartmetals: a new method for metal identification based on fuzzy logic,article,paper
+5487,,,application of fuzzy ahp method for choosing a technology within service company,article,paper
+5488,,,neuro fuzzy reasoner for student modeling,conference paper,paper
+5489,,,follow-up and risk assessment in patients with myocardial infarction using artificial neural networks,article,paper
+5490,,,a fresh approach for hybrid sql/nosql database design based on data structuredness,article in press,paper
+5503,,,metamodel of the artifact-centric approach to event log extraction from erp systems,article,paper
+5505,,,educational website conversion improvement using gamification,conference paper,paper
+5509,,,gamified educational website conversion optimization,conference paper,paper

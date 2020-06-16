@@ -1,0 +1,1307 @@
+Id,name,node_type
+9253,mathematics in computer science,article
+9254,constructibility classes for triangle location problems,publication
+9255,annals of mathematics and artificial intelligence,article
+9256,automated generation of machine verifiable and readable proofs: a case study of tarski’s geometry,publication
+9257,journal of automated reasoning,article
+9258,automated theorem proving in geogebra: current achievements,publication
+9259,lecture notes in computer science (including subseries lecture notes in artificial intelligence and lecture notes in bioinformatics),article
+9260,proving correctness of a krk chess endgame strategy by using isabelle/hol and z3,publication
+9261,computer theorem proving for verifiable solving of geometric construction problems,publication
+9262,a vernacular for coherent logic,publication
+9263,artificial intelligence review,article
+9264,simple algorithm portfolio for sat,publication
+9265,icga journal,article
+9266,proving correctness of a krk chess endgame strategy by sat-based constraint solving,publication
+9267,logical methods in computer science,article
+9268,ursa: a system for uniform reduction to sat,publication
+9269,cdcl-based abstract state transition system for coherent logic,publication
+9270,towards understanding triangle construction problems,publication
+9271,the area method: a recapitulation,publication
+9272,a coherent logic based geometry theorem prover capable of producing formal and readable proofs,publication
+9273,formalization of abstract state transition systems for sat,publication
+9274,urbiva: uniform reduction to bit-vector arithmetic,publication
+9275,geometry constructions language,publication
+9276,informatica,article
+9277,formal correctness proof for dpll procedure,publication
+9278,instance-based selection of policies for sat solvers,publication
+9279,automatic verification of regular constructions in dynamic geometry systems,publication
+9280,a variant of n-gram based language classification,publication
+9281,automatic synthesis of decision procedures: a case study of ground and linear arithmetic,publication
+9282,journal of universal computer science,article
+9283,random k-gd-sat model and its phase transition,publication
+9284,electronic notes in theoretical computer science,article
+9285,geothms - a web system for euclidean constructive geometry,publication
+9286,mathematical logic quarterly,article
+9287,simple characterization of functionally complete one-element sets of propositional connectives,publication
+9288,computer methods and programs in biomedicine,article
+9289,n-gram-based classification and unsupervised hierarchical clustering of genome sequences,publication
+9290,gclc - a tool for constructive euclidean geometry and more than that,publication
+9291,"integrating dynamic geometry software, deduction systems, and theorem repositories",publication
+9292,system description: gclcprover + geothms,publication
+9293,logical analysis of hash functions,publication
+9294,lecture notes in artificial intelligence (subseries of lecture notes in computer science),article
+9295,argo-lib: a generic platform for decision procedures,publication
+9296,teaching mathematics and its applications,article
+9297,"constructions, instructions, interactions",publication
+9298,"spring conference on computer graphics, sccg 2003 - conference proceedings",article
+9299,wingclc - a workbench for formally describing figures,publication
+9300,learning strategies for mechanised building of decision procedures,publication
+9301,a general setting for flexibly combining and augmenting decision procedures,publication
+9302,journal of experimental and theoretical artificial intelligence,article
+9303,gd-sat model and crossover line,publication
+9304,computing and informatics,article
+9305,on different models for generating random sat problems,publication
+9306,a framework for the flexible integration of a class of decision procedures into theorem provers,publication
+9307,bmc bioinformatics,article
+9308,structural disorder of plasmid-encoded proteins in bacteria and archaea,publication
+9309,computer science and information systems,article
+9310,hierarchical vs. flat n-gram-based text categorization: can we do better?,publication
+9311,international journal of data mining and bioinformatics,article
+9312,towards a database for genotype-phenotype association research: mining data from encyclopaedia,publication
+9313,"proceedings of the 8th international conference on language resources and evaluation, lrec 2012",article
+9314,multimedia database of the cultural heritage of the balkans,publication
+9315,bioinformatics analysis of disordered proteins in prokaryotes,publication
+9316,kdir 2010 - proceedings of the international conference on knowledge discovery and information retrieval,article
+9317,ontology-driven conceptual document classification,publication
+9318,n-gram characterization of genomic islands in bacterial genomes,publication
+9319,journal of biomedical informatics,article
+9320,could n-gram analysis contribute to genomic island determination?,publication
+9321,"genomics, proteomics and bioinformatics",article
+9322,sars-cov genome polymorphism: a bioinformatics study,publication
+9323,towards full lexical recognition,publication
+9324,bioinformatics analysis of sars coronavirus genome polymorphism,publication
+9325,corpora issues in validation of serbian wordnet,publication
+9326,,article
+9327,managing text as data,publication
+9328,publications de l'institut mathematique,article
+9329,on the number of equivalence classes of invertible boolean functions under action of permutation of variables on domain and range,publication
+9330,physical chemistry chemical physics,article
+9331,what are preferred water-aromatic interactions in proteins and crystal structures of small molecules?,publication
+9332,comparison of random s-box generation methods,publication
+9333,formalizing frankl's conjecture: fc-families,publication
+9334,linear algebra and its applications,article
+9335,extremal families containing no two sets and their union,publication
+9336,protein journal,article
+9337,a reexamination of correlations of amino acids with particular secondary structures,publication
+9338,journal of molecular modeling,article
+9339,a reexamination of the propensities of amino acids towards a particular secondary structure: classification of amino acids based on their chemical structure,publication
+9340,"classification of small (0, 1) matrices",publication
+9341,chemical industry and chemical engineering quarterly,article
+9342,statistical dependence of protein secondary structure on amino acid bigrams [statisticka zavisnost sekundarne strukture proteina od frekvencije bigrama aminokiselina],publication
+9343,mathematics of computation,article
+9344,b'the number of primes \xe2\x88\x91ni=1(-1)n-ii! is finite',b'publication'
+9345,"applicable algebra in engineering, communications and computing",article
+9346,almost weakly self-dual bases for finite fields,publication
+9347,variable neighborhood search for solving bandwidth coloring problem,publication
+9348,soft computing,article
+9349,electromagnetism-like algorithm for support vector machine parameter tuning,publication
+9350,top,article
+9351,an integer linear formulation for the file transfer scheduling problem,publication
+9352,a new nonlinear model for the two-dimensional rectangle packing problem,publication
+9353,applied soft computing journal,article
+9354,an electromagnetism metaheuristic for solving the maximum betweenness problem,publication
+9355,international journal of clinical and experimental medicine,article
+9356,assessment of possible association between rs3787016 and prostate cancer risk in serbian population,publication
+9357,an integer linear programming formulation and genetic algorithm for the maximum set splitting problem,publication
+9358,electronic notes in discrete mathematics,article
+9359,variable neighborhood search for multiple level warehouse layout problem,publication
+9360,acm international conference proceeding series,article
+9361,the modification of genetic algorithms for solving the balanced location problem,publication
+9362,"mipro 2012 - 35th international convention on information and communication technology, electronics and microelectronics - proceedings",article
+9363,novel approaches to automated personality classification: ideas and their potentials,publication
+9364,a genetic algorithm for the routing and carrier selection problem,publication
+9365,yugoslav journal of operations research,article
+9366,a new genetic representation for quadratic assignment problem,publication
+9367,kragujevac journal of mathematics,article
+9368,a genetic algorithm for solving multiple warehouse layout problem,publication
+9369,solving the two-dimensional packing problem with m-m calculus,publication
+9370,advances in intelligent and soft computing,article
+9371,ga inspired heuristic for uncapacitated single allocation hub location problem,publication
+9372,two hybrid genetic algorithms for solving the super-peer selection problem,publication
+9373,solving the maximally balanced connected partition problem in graphs by using genetic algorithm,publication
+9374,european journal of operational research,article
+9375,two genetic algorithms for solving the uncapacitated single allocation p-hub median problem,publication
+9376,genetic algorithm for solving uncapacitated multiple allocation hub location problem,publication
+9377,fine-grained tournament selection operator in genetic algorithms,publication
+9378,rairo - operations research,article
+9379,solving the simple plant location problem by genetic algorithm,publication
+9380,journal of b.u.on.,article
+9381,new software for collecting data from the organized cervical cancer screening program in serbia. are we on the threshold of a new screening registry? - a multicentric study,publication
+9382,"plant cell, tissue and organ culture",article
+9383,plant regeneration in leaf culture of centaurium erythraea rafn. part 2: the role of arabinogalactan proteins,publication
+9384,what are the preferred horizontal displacements of aromatic-aromatic interactions in proteins? comparison with the calculated benzene-benzene potential energy surface,publication
+9385,"proceedings of the ix bulgarian-serbian astronomical conference: astroinformatics, bsaca 2014",article
+9386,milutin milankovic digital legacy,publication
+9387,"computer languages, systems and structures",article
+9388,customizing a functional programming language for web development,publication
+9389,b'fast formal proof of the erd\xc5\x91s\xe2\x80\x93szekeres conjecture for convex polygons with at most 6 points',b'publication'
+9390,constraints,article
+9391,mesat: multiple encodings of csp to sat,publication
+9392,formalization of incremental simplex algorithm by stepwise refinement,publication
+9393,theoretical computer science,article
+9394,formal verification of a modern sat solver by shallow embedding into isabelle/hol,publication
+9395,formalization and implementation of modern sat solvers,publication
+9396,using simplex method in verifying software safety,publication
+9397,sisy 2005 - 3rd serbian-hungarian joint symposium on intelligent systems,article
+9398,automatic construction of surface model,publication
+9399,archive of oncology,article
+9400,ccd microscopy - image analysis by group for intelligent systems (gis),publication
+9401,education and information technologies,article
+9402,technology enhancing mathematics learning behaviours: shifting learning goals from “producing the right answer” to “understanding how to address current and future mathematical challenges”,publication
+9403,information technology and control,article
+9404,a new fuzzy version of the risk-constrained cash-in-transit vehicle routing problem,publication
+9405,fuzzy grasp with path relinking for the risk-constrained cash-in-transit vehicle routing problem,publication
+9406,international transactions in operational research,article
+9407,exponential quality function for community detection in complex networks,publication
+9408,computers and education,article
+9409,efficiency of using vns algorithm for forming heterogeneous groups for cscl learning,publication
+9410,filomat,article
+9411,fuzzy covering location problems with different aggregation operators,publication
+9412,international journal of simulation modelling,article
+9413,parking search optimization in urban area,publication
+9414,parallel vns for bus terminal location problem,publication
+9415,new model of maximal covering location problem with fuzzy conditions,publication
+9416,acta polytechnica hungarica,article
+9417,an extension of maximal covering location problem based on the choquet integral,publication
+9418,a hybridization of an evolutionary algorithm and a parallel branch and bound for solving the capacitated single allocation hub location problem,publication
+9419,annals of operations research,article
+9420,hybrid metaheuristic method for determining locations for long-term health care facilities,publication
+9421,metaheuristic approaches to solving large-scale bilevel uncapacitated facility location problem with clients' preferences,publication
+9422,applied and computational mathematics,article
+9423,two efficient hybrid metaheuristic methods for solving the load balance problem,publication
+9424,"sisy 2014 - ieee 12th international symposium on intelligent systems and informatics, proceedings",article
+9425,a note on the use of choquet and sugeno integrals in minimal and maximal covering location problems,publication
+9426,informatica (netherlands),article
+9427,memetic algorithm for solving the multilevel uncapacitated facility location problem,publication
+9428,"sisy 2013 - ieee 11th international symposium on intelligent systems and informatics, proceedings",article
+9429,solving minimal covering location problem (minclp) with the aid of fuzzy sets,publication
+9430,journal of chemometrics,article
+9431,"comparison of interpolation polynomials with divided differences, interpolation polynomials with finite differences, and quadratic functions obtained by the least squares method in modeling of chromatographic responses",publication
+9432,an efficient memetic algorithm for the uncapacitated single allocation hub location problem,publication
+9433,"2012 ieee 10th jubilee international symposium on intelligent systems and informatics, sisy 2012",article
+9434,the role of fuzzy sets in improving maximal covering location problem (mclp),publication
+9435,metaheuristic methods for solving the bilevel uncapacitated facility location problem with clients' preferences,publication
+9436,an efficient evolutionary algorithm for locating long-term care facilities,publication
+9437,an efficient genetic algorithm for solving the multi-level uncapacitated facility location problem,publication
+9438,wseas transactions on computers,article
+9439,parameter adjustment for genetic algorithm for two-level hierarchical covering location problem,publication
+9440,sisy 2006 - 4th serbian-hungarian joint symposium on intelligent systems,article
+9441,adaptation of edges in a triangular mesh,publication
+9442,a system for neural acoustics analysis,publication
+9443,journal of computational biology,article
+9444,finding statistically significant repeats in nucleic acids and proteins,publication
+9445,software tools for simultaneous data visualization and t cell epitopes and disorder prediction in proteins,publication
+9446,match,article
+9447,n-gram analysis of cog categorized protein sequences,publication
+9448,journal of immunological methods,article
+9449,epitope distribution in ordered and disordered protein regions. part b - ordered regions and disordered binding sites are targets of t- and b-cell immunity,publication
+9450,"epitope distribution in ordered and disordered protein regions - part a. t-cell epitope frequency, affinity and hydropathy",publication
+9451,parallelizing simplex within smt solvers,publication
+9452,extending smt solvers with support for finite domain alldifferent constraint,publication
+9453,solving finite-domain linear constraints in presence of the alldifferent,publication
+9454,intelligent data analysis,article
+9455,a variant of n-gram based language-independent text categorization,publication
+9456,ceur workshop proceedings,article
+9457,serbian text categorization using byte level n-grams,publication
+9458,journal of multiple-valued logic and soft computing,article
+9459,an improved electromagnetism-like method for feature selection,publication
+9460,kybernetes,article
+9461,case-based reasoning and electromagnetism-like method in construction management,publication
+9462,electromagnetism metaheuristic algorithm for solving the strong minimum energy topology problem,publication
+9463,computational analysis of position-dependent disorder content in disprot database,publication
+9464,argotrics–automated triangle construction solver,publication
+9465,computers and geosciences,article
+9466,sparse regression interaction models for spatial prediction of soil properties in 3d,publication
+9467,nonlinear dynamics,article
+9468,pseudo-random number generator based on discrete-space chaotic map,publication
+9469,information and software technology,article
+9470,software verification and graph similarity for automated evaluation of students' assignments,publication
+9471,international journal of applied earth observation and geoinformation,article
+9472,mapping efficiency and information content,publication
+9473,measuring similarity of graph nodes by neighbor matching,publication
+9474,statistical methodology for comparison of sat solvers,publication
+9475,development and evaluation of lav: an smt-based error finding platform: system description,publication
+9476,icsoft 2008 - proceedings of the 3rd international conference on software and data technologies,article
+9477,ensuring safe usage of buffers in programming language c,publication
+9478,electronic library,article
+9479,semi-automatic extraction of multiword terms from domain-specific corpora,publication
+9480,advances in computers,article
+9481,"a new course on r&amp;d project management in computer science and engineering: subjects taught, rationales behind, and lessons learned",publication
+9482,gwc 2014: proceedings of the 7th global wordnet conference,article
+9483,enriching serbianwordnet and electronic dictionaries with terms from the culinary domain,publication
+9484,novel formulations and vns-based heuristics for single and multiple allocation p-hub maximal covering problems,publication
+9485,or spectrum,article
+9486,a vns-lp algorithm for the robust dynamic maximal covering location problem,publication
+9487,modeling of hilic retention behavior with theoretical models and new spline interpolation technique,publication
+9488,optimization letters,article
+9489,solving the robust two-stage capacitated facility location problem with uncertain transportation costs,publication
+9490,european journal of industrial engineering,article
+9491,a hybrid metaheuristic method for the deterministic and robust uncapacitated multiple allocation p-hub centre problem,publication
+9492,a two-phase optimization method for solving the multi-type maximal covering location problem in emergency service networks,publication
+9493,"iisa 2015 - 6th international conference on information, intelligence, systems and applications",article
+9494,memetic algorithm for the balanced resource location problem with preferences,publication
+9495,hybrid metaheuristic method for solving a multi-period emergency service location problem,publication
+9496,an efficient variable neighborhood search for solving a robust dynamic facility location problem in emergency service network,publication
+9497,"big data management, technologies, and applications",article
+9498,efficient metaheuristic approaches for exploration of online social networks,publication
+9499,a memetic algorithm for solving two variants of the two-stage uncapacitated facility location problem,publication
+9500,"proceedings of the 2012 ieee/acm international conference on advances in social networks analysis and mining, asonam 2012",article
+9501,automatic drug adverse reaction discovery from parenting websites using disproportionality methods,publication
+9502,extracting drug adverse and beneficial reactions in pediatric population from healthcare social network,publication
+9503,"ieee international conference on consumer electronics - berlin, icce-berlin",article
+9504,experience from porting complex algorithms on heterogeneous multi-core systems,publication
+9505,"24th telecommunications forum, telfor 2016",article
+9506,driver monitoring algorithm for advanced driver assistance systems,publication
+9507,optimization of driver monitoring adas algorithm for heterogeneous platform,publication
+9508,vojnosanitetski pregled,article
+9509,change in the incidence and anatomic distribution of colorectal adenoma and cancer over a period of 20 years – a single center experience [promene u incidenci i anatomskoj distribuciji kolorektalnih adenoma i karcinoma u periodu od 20 godina – iskustvo jednog centra],publication
+9510,medical ultrasonography,article
+9511,doppler ultrasonography combined with transient elastography improves the non-invasive assessment of fibrosis in patients with chronic liver diseases,publication
+9512,acta clinica croatica,article
+9513,erythropoietin in the evaluation of treatment outcomes in patients with polytrauma,publication
+9514,journal of gastrointestinal and liver diseases,article
+9515,erythropoietin in predicting prognosis in patients with acute-on-chronic liver failure,publication
+9516,"2017 25th telecommunications forum, telfor 2017 - proceedings",article
+9517,nutie - a modern open source natural language processing toolkit,publication
+9518,fme transactions,article
+9519,algorithm for calculating influence of power transformer oil temperature change on the accuracy of all-acoustic non-iterative partial discharge localization,publication
+9520,sentiment classification of documents in serbian: the effects of morphological normalization,publication
+9521,a software agent for social networks using natural language processing techniques,publication
+9522,testing artificial intelligence knowledge with interactive web system [veb sistem za polaganje testova znanja iz inteligentnih sistema],publication
+9523,telfor journal,article
+9524,sentiment classification of documents in serbian: the effects of morphological normalization and word embeddings,publication
+9525,a systematic approach to generation of new ideas for phd research in computing,publication
+9526,"2016 13th symposium on neural networks and applications, neurel 2016",article
+9527,serious gaming based on kinect technology for autistic children in serbia,publication
+9528,"proceedings of the 10th international conference on language resources and evaluation, lrec 2016",article
+9529,reliable baselines for sentiment analysis in resource-limited languages: the serbian movie review dataset,publication
+9530,multimedia tools and applications,article
+9531,a classification of elearning tools based on the applied multimedia,publication
+9532,"2014 22nd telecommunications forum, telfor 2014 - proceedings of papers",article
+9533,implementation of android application for faculty employees [realizacija android aplikacije za potrebe zaposlenih na fakultetu],publication
+9534,text content analysis using ontology and semantic similarity [analiziranje sadrzaja tekstova upotrebom ontologije i semanticke slicnosti],publication
+9535,computer applications in engineering education,article
+9536,insos - educational system for teaching intelligent systems,publication
+9537,international journal of engineering education,article
+9538,ewisens: educational wireless sensor network simulator,publication
+9539,"ieee global engineering education conference, educon",article
+9540,integration of simulators in virtual 3d computer science classroom,publication
+9541,hepato-gastroenterology,article
+9542,feasibility of applying data mining techniques for predicting technical difficulties during laparoscopic cholecystectomy based on routine patient work-up in a small community hospital,publication
+9543,international journal of intelligent systems,article
+9544,a survey and evaluation of state-of-the-art intelligent question routing systems,publication
+9545,decision support systems,article
+9546,semantic similarity of short texts in languages with a deficient natural language processing support,publication
+9547,ieee africon conference,article
+9548,software system for expert systems learning,publication
+9549,ieee transactions on education,article
+9550,sdlds-system for digital logic design and simulation,publication
+9551,"2012 20th telecommunications forum, telfor 2012 - proceedings",article
+9552,software framework for development and running multiplayer games [softverski sistem za razvoj i pokretanje igara za vise igraca],publication
+9553,"is'2012 - 2012 6th ieee international conference intelligent systems, proceedings",article
+9554,a survey of intelligent question routing systems,publication
+9555,"2012 ieee international conference on industrial technology, icit 2012, proceedings",article
+9556,a classification of mutational approaches for genetic search,publication
+9557,"proceedings - 2012 ieee 19th international conference and workshops on engineering of computer-based systems, ecbs 2012",article
+9558,a module for automatic assessment and verification of students' work in digital logic design,publication
+9559,"2011 19th telecommunications forum, telfor 2011 - proceedings of papers",article
+9560,a software system for determining the semantic similarity of short texts in serbian [softverski sistem za odredivanje semanticke slicnosti kratkih tekstova na srpskom jeziku],publication
+9561,the vsds environment based laboratory in computer architecture and organisation,publication
+9562,"proceedings - 2011 2nd eastern european regional conference on the engineering of computer based systems, ecbs-eerc 2011",article
+9563,digital logic simulator,publication
+9564,a survey and evaluation of simulators suitable for teaching courses in computer architecture and organization,publication
+9565,cal2: computer aided learning in computer architecture laboratory,publication
+9566,international journal of electrical engineering education,article
+9567,wasp: a web-based simulator for an educational pipelined processor,publication
+9568,computer journal,article
+9569,a memory system for education,publication
+9570,flexible web-based educational system for teaching computer architecture and organization,publication
+9571,software package for an educational computer system,publication
+9572,"proceedings of the 2002 workshop on computer architecture education, wcae 2002 - held in conjunction with the 29th international symposium on computer architecture",article
+9573,castle: computer architecture self-testing and learning system,publication
+9574,modelsward 2017 - proceedings of the 5th international conference on model-driven engineering and software development,article
+9575,practical large-scale model-driven development of business applications with an executable uml,publication
+9576,journal of electrical engineering,article
+9577,discovering block-structured parallel process models from causally complete event logs,publication
+9578,software and systems modeling,article
+9579,an interactive tool for uml class model evolution in database applications,publication
+9580,capwise-a domain-specific language for developing graphical user interfaces,publication
+9581,"modelsward 2015 - 3rd international conference on model-driven engineering and software development, proceedings",article
+9582,a survey of object-relational transformation patterns for high-performance uml-based applications,publication
+9583,discovering models of parallel workflow processes from incomplete event logs,publication
+9584,international journal of human computer studies,article
+9585,empirical analysis of gui programming concerns,publication
+9586,ieee software,article
+9587,a retrospective on user interface development technology,publication
+9588,ieee transactions on software engineering,article
+9589,capsule-based user interface modeling for large-scale applications,publication
+9590,a classification and comparison of data mining algorithms for wireless sensor networks,publication
+9591,towards understanding of classes versus data types in conceptual modeling and uml,publication
+9592,on the semantics of associations and association ends in uml,publication
+9593,international journal of parallel programming,article
+9594,control flow regeneration for software pipelined loops with conditions,publication
+9595,automatic model transformations using extended uml object diagrams in modeling environments,publication
+9596,domain mapping using extended uml object diagrams,publication
+9597,proceedings of the hawaii international conference on system sciences,article
+9598,research and development in e-business on the internet,publication
+9599,sigplan notices (acm special interest group on programming languages),article
+9600,sources of parallelism in software pipelining loops with conditional branches,publication
+9601,socratenon - a web-based training system with an intellect,publication
+9602,"proceedings of the international parallel processing symposium, ipps",article
+9603,predicated software pipelining technique for loops with conditions,publication
+9604,"proceedings of the 1st merged international parallel processing symposium and symposium on parallel and distributed processing, ipps/spdp 1998",article
+9605,a tree-driven multiple-rate model of time measuring in object-oriented real-time systems,publication
+9606,formal model of software pipelining loops with conditions,publication
+9607,iet computers and digital techniques,article
+9608,fpga accelerator for floating-point matrix multiplication,publication
+9609,journal of supercomputing,article
+9610,explanation of performance degradation in turn model,publication
+9611,evaluation of simulators for teaching computer networks,publication
+9612,ieee transactions on learning technologies,article
+9613,coala - system for visual representationof cryptography algorithms,publication
+9614,reengineering the sleep simulator in a concurrent and distributed programming course,publication
+9615,bridging user context and design models to build adaptive user interfaces,publication
+9616,journal of aerospace information systems,article
+9617,reusable design of data visualization software architecture for unmanned aerial vehicles,publication
+9618,flow-based anomaly intrusion detection system using two neural network stages,publication
+9619,"2013 11th international conference on telecommunications in modern satellite, cable and broadcasting services, telsiks 2013",article
+9620,computer network simulation and visualization tool for educational purpose,publication
+9621,languages for model-driven development of user interfaces: review of the state of the art,publication
+9622,journal of parallel and distributed computing,article
+9623,an accurate performance model for network-on-chip and multicomputer interconnection networks,publication
+9624,web laboratory for computer network,publication
+9625,proceedings of the workshop on advanced visual interfaces avi,article
+9626,formal specification of usability measures in model-driven development of context-sensitive user interfaces,publication
+9627,"2011 10th international conference on telecommunications in modern satellite, cable and broadcasting services, telsiks 2011 - proceedings of papers",article
+9628,a comparison and security analysis of the cloud computing software platforms,publication
+9629,"proceedings - 36th euromicro conference on software engineering and advanced applications, seaa 2010",article
+9630,improving design of ground control station for unmanned aerial vehicle: borrowing from design patterns,publication
+9631,"proceedings of the asme international design engineering technical conferences and computers and information in engineering conference 2009, detc2009",article
+9632,software support for ground control station for unmanned aerial vehicle,publication
+9633,proceedings of the asme design engineering technical conference,article
+9634,wnetsim: a web-based computer network simulator,publication
+9635,dr. dobb's journal,article
+9636,java cryptography &amp; attribute certificate management,publication
+9637,future generation computer systems,article
+9638,web-based grid-enabled interaction with 3d medical data,publication
+9639,"neural, parallel and scientific computations",article
+9640,modeling distributed system entities which communicate asynchronous via message passing in java,publication
+9641,java cryptography &amp; x.509 authentication,publication
+9642,a heuristic algorithm for dynamic task scheduling in highly parallel computing systems,publication
+9643,studies in health technology and informatics,article
+9644,interactive visualization of 3d fields and images on inexpensive workstations using vrml,publication
+9645,dynamic task scheduling with precedence constraints and communication delays,publication
+9646,visualization of 3d fields and medical data and using vrml,publication
+9647,ieee transactions on parallel and distributed systems,article
+9648,communication aspects of the star graph interconnection network,publication
+9649,information processing letters,article
+9650,fault tolerance of the star graph interconnection network,publication
+9651,routing function and deadlock avoidance in a star graph interconnection network,publication
+9652,serbian journal of electrical engineering,article
+9653,prototype implementation of segment assembling software,publication
+9654,improving source code plagiarism detection: lessons learned,publication
+9655,identity provider deployment based on container technology,publication
+9656,parallelization of gst algorithm for source code similarity detection [paralelizacija gst algoritama za detekciju slicnosti u programskom kodu],publication
+9657,international journal of software engineering and knowledge engineering,article
+9658,a modified hill-climbing algorithm for knowledge test assembly based on classified criteria,publication
+9659,a comparison of software tools for plagiarism detection in programming assignments,publication
+9660,ieee access,article
+9661,web performance evaluation for internet of things applications,publication
+9662,proceedings of issi 2015 istanbul: 15th international society of scientometrics and informetrics conference,article
+9663,an analysis of scientific publications from serbia: the case of computer science,publication
+9664,automating the knowledge assessment workflow for large student groups: a development experience,publication
+9665,ad-hoc and sensor wireless networks,article
+9666,a survey and classifcation of wireless sensor networks simulators based on the domain of use,publication
+9667,"2013 21st telecommunications forum telfor, telfor 2013 - proceedings of papers",article
+9668,intelligent crawler for web forums based on improved regular expressions,publication
+9669,remote control of industrial robot lola 50 using wireless communication and android device [udaljeno upravljanje industrijskim robotom lola 50 upotrebom wireless komunikacije i android uredaja],publication
+9670,"a software tool that helps teachers in handling, processing and understanding the results of massive exams",publication
+9671,ieee annals of the history of computing,article
+9672,once upon a pocket: programmable calculators from the late 1970s and early 1980s and the social networks around them,publication
+9673,topic models and advanced algorithms for profiling of knowledge in scientific papers,publication
+9674,computer communications,article
+9675,self-similar cross-traffic analysis as a foundation for choosing among active available bandwidth measurement strategies,publication
+9676,"icemt 2010 - 2010 international conference on education and management technology, proceedings",article
+9677,development of electronic forms and a java parser for processing data about university teaching stuff in accreditation process,publication
+9678,the book cipher algorithm,publication
+9679,proceedings - frontiers in education conference,article
+9680,test: tools for evaluation of students' tests - a development experience,publication
+9681,"ieee international workshop on modeling, analysis, and simulation of computer and telecommunication systems - proceedings",article
+9682,comparison of three protocols for entry consistency maintenance based on mva algorithm,publication
+9683,"proceedings - ieee computer society's annual international symposium on modeling, analysis, and simulation of computer and telecommunications systems, mascots",article
+9684,a comparison of three protocols for entry consistency maintenance based on mva algorithm,publication
+9685,scowl: a tool for characterization of parallel workload and its use on splash-2 application suite,publication
+9686,approach to characterization of parallel applications for dsm systems,publication
+9687,proceedings of the international conference on microelectronics,article
+9688,reflective memory system based on a grid of buses that selectively uses relaxed memory consistency models,publication
+9689,conference proceedings of the euromicro,article
+9690,effects of user behavior and internet provider policy on the accessibility of sezampro on-line system,publication
+9691,proceedings of the mediterranean electrotechnical conference - melecon,article
+9692,memory consistency models for shared memory multiprocessors and dsm systems,publication
+9693,ieee parallel and distributed technology,article
+9694,distributed shared memory: concepts and systems,publication
+9695,microprocessing and microprogramming,article
+9696,an example of the efficient message protocol for industrial lan,publication
+9697,cisc versus risc processors for graphics: a simulation study,publication
+9698,improving schema issue advisor in the azure sql database,publication
+9699,parallel computing,article
+9700,low-level implementation of the sisc protocol for thread-level speculation on a multi-core architecture,publication
+9701,"2017 zooming innovation in consumer electronics international conference: galvanize your creativity, zinc 2017",article
+9702,extending valgrind framework with the mips msa support,publication
+9703,speeding up ip lookup procedure in software routers by means of parallelization,publication
+9704,acm computing surveys,article
+9705,interconnection networks in petascale computer systems: a survey,publication
+9706,"2015 23rd telecommunications forum, telfor 2015",article
+9707,gpu-based implementation of reverb effect,publication
+9708,analysis of cpu and gpu implementations of convolution reverb effect,publication
+9709,concurrency computation,article
+9710,graphical processing unit-based parallelization of the open shortest path first and border gateway protocol routing protocols,publication
+9711,register-level communication in speculative chip multiprocessors,publication
+9712,manual parallelization versus state-of-the-art parallelization techniques: the spec cpu2006 as a case study,publication
+9713,"proceedings - ieee 7th international conference on software testing, verification and validation, icst 2014",article
+9714,automated multi-platform testing and code coverage analysis of the cp2k application,publication
+9715,an analysis of chain characteristics in the cryptanalytic tmto method,publication
+9716,computers and electrical engineering,article
+9717,evaluation and analysis of an on-line error detection monitoring technique,publication
+9718,use case analysis of openacc directives in the implementation of image processing algorithms [analiza primene openacc direktiva u implementaciji algoritama za obradu slike],publication
+9719,"proceedings - 2013 international conference on embedded computer systems: architectures, modeling and simulation, ic-samos 2013",article
+9720,parallelizing general histogram application for cuda architectures,publication
+9721,balancing between time and memory requirements in cryptanalysis [kompromis izmedu memorijskih i vremenskih zahteva u kriptoanalitickim postupcima],publication
+9722,application of graphics processing units in audio signal processing [primena grafickih procesora u obradi zvucnih signala],publication
+9723,comparative performance evaluation of the avl and red-black trees,publication
+9724,evolution and trends in gpu computing,publication
+9725,gpu-based paralelization of the bgp protocol [paralelizacija izbora najboljih ruta u bgp protokolu pomocu grafickog procesora],publication
+9726,data sorting using graphics processing units [sortiranje podataka koriscenjem grafickih procesorskih jedinica],publication
+9727,ecbs-eerc 2009 - 1st eastern european regional conference on the engineering of computer-based systems: setting new ecbs frontiers.,article
+9728,a simulation environment for the on-line monitoring of a fault tolerant flight control computer,publication
+9729,eurocon 2007 - the international conference on computer as a tool,article
+9730,towards an improved integrated coherence and speculation protocol,publication
+9731,eurocon 2005 - the international conference on computer as a tool,article
+9732,an aggressive register-level communication in a speculative chip multiprocessor,publication
+9733,canadian conference on electrical and computer engineering,article
+9734,an improved on-line monitoring technique for a fault-tolerant computing node,publication
+9735,improving performance of a dsm system by the communication controller optimizations,publication
+9736,multithreaded communication controller for efficient dsm multiprocessors,publication
+9737,the impact of out-of-order message delivery on cache coherence protocols,publication
+9738,electromagnetic biology and medicine,article
+9739,an overview of microwave resonance therapy and eeg correlates of microwave resonance relaxation and other consciousness altering techniques,publication
+9740,microprocessors and microsystems,article
+9741,hardware implementation of the mechanism of multiprocessing,publication
+9742,the interactive development and testing system for a risc-style processor,publication
+9743,international journal of computers and applications,article
+9744,risc-style hardware accelerator for operating systems,publication
+9745,informatica (ljubljana),article
+9746,"electroencephalographic (eeg) correlates of some activities which may alter consciousness: the transcendental meditation technique, musicogenic states, microwave resonance relaxation, healer/healee interaction, and alertness/drowsiness",publication
+9747,journal of systems architecture,article
+9748,an operating system accelerator,publication
+9749,new cache architecture concept: the split temporal/spatial cache,publication
+9750,simulation study of hardware-oriented dsm approaches,publication
+9751,the word-invalidate cache coherence protocol,publication
+9752,"ieee region 10's annual international conference, proceedings",article
+9753,improved rms for the pc environment,publication
+9754,ieee micro,article
+9755,"hardware approaches to cache coherence in shared-memory multiprocessors, part 1",publication
+9756,a streaming dataflow implementation of parallel cocke–younger–kasami parser,publication
+9757,dataflow-based parallelization of control-flow algorithms,publication
+9758,revue roumaine des sciences techniques serie electrotechnique et energetique,article
+9759,multipurpose time recursive phase locked loop,publication
+9760,an overview of selected heterogeneous and reconfigurable architectures,publication
+9761,advanced materials research,article
+9762,effect of ict on the social dimension of short-term and long-term alignment of the participants in the construction of a knowledge society,publication
+9763,an overview of selected hybrid and reconfigurable architectures,publication
+9764,principal risk in implementation of a sophisticated erp system at a higher education institutions,publication
+9765,advice-educational system for teaching database courses,publication
+9766,ieee transactions on information technology in biomedicine,article
+9767,mobilepdr: a mobile medical information system featuring update via internet,publication
+9768,proceedings of the hawaii international conference on system science,article
+9769,hardware support to operations of relational algebra.,publication
+9770,international journal on semantic web and information systems,article
+9771,using the linked data approach in european e-government systems: example from serbia,publication
+9772,"aviation and airport security: management, improvement strategies and future challenges",article
+9773,citizen-centric linked data apps for emergency response systems,publication
+9774,big data and quality: a literature review,publication
+9775,journal of web semantics,article
+9776,exploratory spatio-temporal analysis of linked statistical data,publication
+9777,energy and buildings,article
+9778,combined energy hub optimisation and demand side management for buildings,publication
+9779,proposal for implementing the eu psi directive in serbia,publication
+9780,advanced engineering informatics,article
+9781,ontology-based facility data model for energy management,publication
+9782,"2015 ieee eindhoven powertech, powertech 2015",article
+9783,energy hub modelling and optimisation: an analytical case-study,publication
+9784,conference record - ieee instrumentation and measurement technology conference,article
+9785,smart-phone application for autonomous indoor positioning,publication
+9786,"proceedings - international workshop on database and expert systems applications, dexa",article
+9787,situation awareness and decision support tools for response phase of emergency management: a short survey,publication
+9788,main challenges in using lod in emergency management,publication
+9789,linked open data infrastructure for public sector information: example from serbia,publication
+9790,dynamic workflows for airport emergency management training,publication
+9791,integrating serbian public data into the lod cloud,publication
+9792,representation of texts in structured form,publication
+9793,application of complex event processing paradigm in situation awareness and management,publication
+9794,ontology enabled decision support system for emergency management at airports,publication
+9795,ontology-based competency management: the case study of the mihajlo pupin institute,publication
+9796,information processing and management,article
+9797,applicability assessment of semantic web technologies,publication
+9798,communications in computer and information science,article
+9799,automatic extraction of ict competences from unstructured sources,publication
+9800,information resources management journal,article
+9801,applicability assessment of semantic web technologies in human resources domain,publication
+9802,renewable and sustainable energy reviews,article
+9803,green accounting for greener energy,publication
+9804,expert systems with applications,article
+9805,nimfa - natural language implicit meaning formalization and abstraction,publication
+9806,proceedings of i-know 2009 - 9th international conference on knowledge management and knowledge technologies and proceedings of i-semantics 2009 - 5th international conference on semantic systems,article
+9807,maturity and applicability assessment of semantic web technologies,publication
+9808,"social, managerial, and organizational dimensions of enterprise information systems",article
+9809,semantic web based integration of knowledge resources for expertise finding,publication
+9810,"proc. 9th wseas int. conf. simulation, modelling and optimization, smo '09, 5th wseas int. symp. grid computing, proc. 5th wseas int. symp. digital libraries, proc. 5th wseas int. symp. data mining",article
+9811,probabilistic semantic classifier,publication
+9812,it professional,article
+9813,semantic web technologies: ready for adoption?,publication
+9814,web4web e-collaboration tools,publication
+9815,"proceedings of the iadis international conference www/internet 2009, icwi 2009",article
+9816,"adaptive middleware for intelligent, context sensitive applications",publication
+9817,"2008 international conference on computational intelligence for modelling control and automation, cimca 2008",article
+9818,semantic classifier for affective computing,publication
+9819,wseas transactions on information science and applications,article
+9820,semantic approach to knowledge processing,publication
+9821,water research,article
+9822,chronic toxicity of the sava river (se europe) sediments and river water to the algae pseudokirchneriella subcapitata,publication
+9823,applying neural networks to knowledge representation and determination of its meaning,publication
+9824,knowledge representation with soul,publication
+9825,"adaptive technologies and business integration: social, managerial and organizational dimensions",article
+9826,integration of knowledge resources in u&amp;d organizations: the case of mihajlo pupin institute,publication
+9827,integration platform for de-centralized investment projects appraisal,publication
+9828,journal of hazardous materials,article
+9829,decision support tool for used oil regeneration technologies assessment and selection,publication
+9830,applying connectionist model to natural language understanding,publication
+9831,journal of hydroinformatics,article
+9832,a web-based decision support tool for groundwater remediation technologies selection,publication
+9833,journal of information and knowledge management,article
+9834,comparative analysis of commercial knowledge management solutions and their role in enterprises,publication
+9835,semantic web services with soul,publication
+9836,ontology-mediated integration of knowledge resources in r&amp;d organizations,publication
+9837,a natural language processing for semantic web services,publication
+9838,decision aid for sustainable industrial siting,publication
+9839,the role of knowledge management solutions in enterprise business processes,publication
+9840,proceedings of the iasted international conference on applied simulation and modelling,article
+9841,information technology for cleaner water,publication
+9842,a generic framework for web-based intelligent decision support systems,publication
+9843,iceis 2003 - proceedings of the 5th international conference on enterprise information systems,article
+9844,fides - a financial decision aid that can be trusted,publication
+9845,journal of systems and information technology,article
+9846,e-collaboration tool for technology foresight exercise,publication
+9847,international symposium on technology and society,article
+9848,a decision support system for holistic technology assessment,publication
+9849,engineering applications of artificial intelligence,article
+9850,design knowledge representation in prolog/rex,publication
+9851,expert systems,article
+9852,truth maintenance in blackboard environment,publication
+9853,computers in industry,article
+9854,best-based expert diagnostic system for the aluminum industry,publication
+9855,mathematics and computers in simulation,article
+9856,european robotics and intelligent systems conference,publication
+9857,invex: investment advisory expert system,publication
+9858,applications of artificial intelligence in engineering,article
+9859,best-based diagnostic systems for industrial plants,publication
+9860,"international ieee/ias conference on industrial automation and control: emerging technologies, proceedings",article
+9861,expert diagnostic systems for industrial plants: a case study in the aluminum industry,publication
+9862,prolog/rex inference engine,publication
+9863,integrating multiple paradigms within the blackboard framework,publication
+9864,overview of some truth maintenance systems,publication
+9865,ieee expert,article
+9866,using truth maintenance systems a tutorial,publication
+9867,ieee transactions on knowledge and data engineering,article
+9868,prolog/rex - a way to extend prolog for better knowledge representation,publication
+9869,a framework for engineering intelligent control systems,publication
+9870,a blackboard framework on top of prolog,publication
+9871,blackboard metaphor in tactical decision making,publication
+9872,different approaches to real-time application allocation to a multiprocessor system,publication
+9873,a heuristic algorithm for real-time application allocation to multimicrocomputer,publication
+9874,"proceedings of the euromicro conference on software maintenance and reengineering, csmr",article
+9875,use-case driven method of architecture recovery for program understanding and reuse reengineering,publication
+9876,the influence of non-functional requirements in ucp method on the accuracy of effort estimates,publication
+9877,developing algorithmic skills of pupils in serbian schools using code.org materials,publication
+9878,accelerating program execution using hybrid control flow and dataflow architectures,publication
+9879,iet software,article
+9880,analysis of task effort estimation accuracy based on use case point size,publication
+9881,knowledge discovery potential in automated test abembly [potencijal tehnike pronalazenja znanja za automatsko sastavljanje testova],publication
+9882,using part-of-speech tags as deep-syntax indicators in determining short-text semantic similarity,publication
+9883,evaluation and classification of syntax information usage in determining short text semantic similarity [evaluacija i klasifikacija koriscenja sintaksnih informacija u odredivanju semanticke slicnosti kratkih tekstova],publication
+9884,automated testing of l-irl robot programming language parser [automatizovano testiranje parsera l-irl jezika za programiranje robota],publication
+9885,a comparative evaluation of effort estimation methods in the software life cycle,publication
+9886,a comparative evaluation of open source tools for multicore and reconfigurable computing,publication
+9887,refmap: restructuring by feature mapping,publication
+9888,proceedings of the acm symposium on applied computing,article
+9889,reverse engineering of use case realizations in uml,publication
+9890,a classification of reverse engineering tools and criteria for their evaluation and selection,publication
+9891,experiences in the teaching of a new computing paradigm: dataflow supercomputing,publication
+9892,configurable simulator for computer architecture and organization,publication
+9893,"2017 40th international convention on information and communication technology, electronics and microelectronics, mipro 2017 - proceedings",article
+9894,a survey and evaluation of free and open source simulators suitable for teaching courses in wireless sensor networks,publication
+9895,restart optimization for transactional memory with lazy conflict detection,publication
+9896,comparison of binary procedures: a set of techniques for evading compiler transformations,publication
+9897,approach for estimating similarity between procedures in differently compiled binaries,publication
+9898,erle: embedded run length image encoding,publication
+9899,an implementation of air traffic control simulator,publication
+9900,simulator of touch sensitive components [simulator elektronskih komponenti osetljivih na dodir],publication
+9901,design of the simulator for teaching computer architecture and organization,publication
+9902,2d-rbuc for efficient parallel compression of residuals,publication
+9903,fast cuda-based codec for height fields,publication
+9904,geoinformatica,article
+9905,hfpac: gpu friendly height field parallel compression,publication
+9906,seegl: software tool for learning the opengl graphics library [seegl: softverski alat za ucenje graficke biblioteke opengl],publication
+9907,journal of computer science and technology,article
+9908,domino tiling: a new method of real-time conforming mesh construction for rendering changeable height fields,publication
+9909,proceedings of the ieee symposium on reliable distributed systems,article
+9910,two branch predictor schemes for reduction of misprediction rate in conditions of frequent context switches,publication
+9911,evaluating two-bit branch predictors for user/kernel code,publication
+9912,proceedings of the ieee,article
+9913,a survey of heterogeneous computing: concepts and systems,publication
+9914,branch mechanisms in deep pipelines: reevaluating the existing solutions and proposing a new guideline,publication
+9915,computer,article
+9916,em3: a taxonomy of heterogeneous computing systems,publication
+9917,adding practical experience to computer security course,publication
+9918,a development of a configurable system for handling x509 certificates [razvoj konfigurabilnog sistema za rad sa x509 sertifikatima],publication
+9919,visual software system for memory interleaving simulation,publication
+9920,transition from traditional to lms supported examining: a case study in computer engineering,publication
+9921,data encryption standard visual representation,publication
+9922,application of moodle platform in computer engineering courses [primena moodle platforme u nastavi racunarske tehnike i informatike],publication
+9923,software system for visual representation of the advanced encryption standard algorithm [softverski sistem za vizuelnu reprezentaciju advanced encryption standard algoritma],publication
+9924,"human-computer interaction in an integrated environment combining digital tv, mobile devices and internet",publication
+9925,"2016 zooming innovation in consumer electronics international conference, zinc 2016",article
+9926,rebooting the tv-centric gaming concept for modern multiscreen over-the-top service,publication
+9927,"an integrated environment and development framework for social gaming using mobile devices, digital tv and internet",publication
+9928,digest of technical papers - ieee international conference on consumer electronics,article
+9929,tv-centric gaming applications for android os: architecture and a framework,publication
+9930,"proceedings 2013 ieee 3rd international conference on consumer electronics - berlin, icce-berlin 2013",article
+9931,tv-centric multiplayer gaming over the cloud for consumer electronic devices,publication
+9932,implementation of a social gaming cloud service for mobile and tv devices [realizacija racunarskog servisa u oblaku za drustvene igre za mobilne i tv uredaje],publication
+9933,integration of communication services for android-based set-top box applications [integracija komunikacionih servisa na primeru aplikacije za digitalni tv prijemnik sa android os],publication
+9934,simulation of software defined networks in mininet environment [koriscenje mininet okruzenja za simulaciju softverski definisanih mreza],publication
+9935,computer networks,article
+9936,a transparent and scalable anomaly-based dos detection method,publication
+9937,"1st ieee conference on network softwarization: software-defined infrastructures for networks, clouds, iot and services, netsoft 2015",article
+9938,of2nf: flow monitoring in openflow environment using netflow/ipfix,publication
+9939,international journal of network management,article
+9940,federated trouble ticket system for service management support in loosely coupled multi-domain environments,publication
+9941,"terena networking conference 2010: living the network life, tnc 2010",article
+9942,a network management architecture proposal for the géantnren environment,publication
+9943,a survey of dual data cache systems,publication
+9944,an efficient mechanism of cryptographic synchronization within selectively encrypted h.265/hevc video stream,publication
+9945,"16th networking in education and research roedunet international conference, roedunet 2017 - proceedings",article
+9946,european cloud collaboration through géant,publication
+9947,"proceedings - 2017 ieee 13th international conference on intelligent computer communication and processing, iccp 2017",article
+9948,ensemble classifiers for supervised anomaly based network intrusion detection,publication
+9949,packet dispersion strategy evaluation from the perspective of packet loss pattern and voip quality,publication
+9950,elektronika ir elektrotechnika,article
+9951,a novel scheme for dynamic triggering of packet dispersion,publication
+9952,dynamic packet dispersion based on multi-threshold buffer occupancy,publication
+9953,"10th ifip/ieee international symposium on integrated network management 2007, im '07",article
+9954,seamless integration of network management tools in a multi-domain environment,publication
+9955,hybrid approaches to mutation in genetic search algorithms,publication
+9956,a model of software system for parking using search algorithms,publication
+9957,developing critical computer literacy for academic subjects english for software engineering and expert systems at the department of software engineering university of belgrade,publication
+9958,dual data cache systems. architecture and analysis.,publication
+9959,proceedings of the ieee international conference on control applications,article
+9960,a modified split temporal/spatial cache,publication
+9961,"a classification of data mining algorithms for wireless sensor networks, and classification extension to concept modeling in system of wireless sensor networks based on natural language processing",publication
+9962,srpski arhiv za celokupno lekarstvo,article
+9963,facial profile esthetics change of class ii malocclusion patients treated with the herbst appliance as perceived by orthodontists and laypersons,publication
+9964,journal of big data,article
+9965,an appgallery for dataflow computing,publication
+9966,mathematical problems in engineering,article
+9967,advances in high performance computing and related issues,publication
+9968,ieee transactions on computer-aided design of integrated circuits and systems,article
+9969,recycled ic detection based on statistical methods,publication
+9970,information systems and e-business management,article
+9971,automating etl processes using the domain-specific modeling approach,publication
+9972,"asme 2017 12th international manufacturing science and engineering conference, msec 2017 collocated with the jsme/asme 2017 6th international conference on materials and processing",article
+9973,business process model life-cycle management in cloud manufacturing,publication
+9974,proceedings of the i-esa conferences,article
+9975,the systems development life cycle to facilitate progression towards semantic and organizational interoperability for healthcare system,publication
+9976,enhancing bpmn 2.0 informational perspective to support interoperability for cross-organizational business processes,publication
+9977,specification of data schema mappings using weaving models,publication
+9978,international journal of industrial engineering : theory applications and practice,article
+9979,web-based implementation of replenishment process in distribution channels - a case study,publication
+9980,"proceedings of the 2nd international workshop on future trends of model-driven development, ftmdd 2010, in conjunction with iceis 2010",article
+9981,on using weaving models to specify schema mappings,publication
+9982,technics technologies education management,article
+9983,towards an interoperable production system [interoperabilnost proizvodnih sistema],publication
+9984,international journal of manufacturing technology and management,article
+9985,semantic enterprise application integration standards,publication
+9986,software quality standards and lean approach in teaching and learning programming,publication
+9987,a pattern language for use cases specification,publication
+9988,conceptual model of software architecture in instruction java web frameworks,publication
+9989,use case specification using the silabreq domain specific language,publication
+9990,handbook of research on high performance and cloud computing in scientific research and education,article
+9991,from software specification to cloud model,publication
+9992,"proceedings - 2014 9th international conference on the quality of information and communications technology, quatic 2014",article
+9993,preliminary experience using jetbrains mps to implement a requirements specification language,publication
+9994,"proceedings - 2012 8th international conference on the quality of information and communications technology, quatic 2012",article
+9995,use case specification at different levels of abstraction,publication
+9996,"proceedings - 2011 34th ieee software engineering workshop, sew 2011",article
+9997,language for use case specification,publication
+9998,model and software tool for automatic generation of user interface based on use case and data model,publication
+9999,"2011 7th central and eastern european software engineering conference, cee-secr 2011",article
+10000,guidelines for framework development process,publication
+10001,"proceedings of the iasted international conference on artificial intelligence and soft computing, asc 2011",article
+10002,the explanation of the design patterns by the symmetry concepts,publication
+10003,extended software architecture based on security patterns,publication
+10004,information systems development: towards a service provision society,article
+10005,design patterns application in the erp systems improvements,publication
+10006,"international conference on software engineering theory and practice 2007, setp 2007",article
+10007,explanation of software entropy by golden ratio and logarithmic spiral,publication
+10008,progress in education,article
+10009,enhancing workplace learning activities in intelligent learning extended organizations,publication
+10010,british journal of educational technology,article
+10011,grading students' programming and soft skills with open badges: a case study,publication
+10012,ifmbe proceedings,article
+10013,a framework for technology enhanced education in orthopaedics: knee surgery case study,publication
+10014,ieee transactions on human-machine systems,article
+10015,textual affect communication and evocation using abstract generative visuals,publication
+10016,international journal of artificial intelligence in education,article
+10017,"not fade away?: commentary to paper education and the semantic web (ijaied vol.14, 2004)",publication
+10018,educational technology research and development,article
+10019,developing open badges: a comprehensive approach,publication
+10020,"technology, knowledge and learning",article
+10021,"open badges: novel means to motivate, scaffold and recognize learning",publication
+10022,"elml - international conference on mobile, hybrid, and on-line learning",article
+10023,service-oriented development of content and knowledge provision tool,publication
+10024,a comparative study of software tools for user story management,publication
+10025,grading soft skills with open badges,publication
+10026,educational technology and society,article
+10027,social presence and interaction in learning environments: the effect on student success,publication
+10028,advances in intelligent systems and computing,article
+10029,"technology enhanced learning – the wild, the innocent and the e street shuffle",publication
+10030,open badges: challenges and opportunities,publication
+10031,knowledge management research and practice,article
+10032,content and knowledge provision service - a way to build intellectual capital in learning organizations,publication
+10033,ieee transactions on affective computing,article
+10034,synesketch: an open source library for sentence-based emotion recognition,publication
+10035,semi-automatic generation of quizzes and learning artifacts from linked data,publication
+10036,visualizing the affective structure of students interaction,publication
+10037,adaptive neuro-fuzzy pedagogical recommender,publication
+10038,web service support for collaboration between demographers,publication
+10039,"proceedings of the 5th india software engineering conference, isec'12",article
+10040,agile erp systems development: a technical perspective,publication
+10041,"ieee transactions on systems, man and cybernetics part c: applications and reviews",article
+10042,incorporating the ontology paradigm into software engineering: enhancing domain-driven programming in clojure/java,publication
+10043,incorporating the ontology paradigm into a mainstream programming environment,publication
+10044,teaching agile software development: a case study,publication
+10045,using new web technologies in teaching demography,publication
+10046,using data mining to improve digital library services,publication
+10047,magic potion: incorporating new development paradigms through metaprogramming,publication
+10048,knowledge management and e-learning,article
+10049,specifying cases for technology enhanced learning in a small and medium enterprise,publication
+10050,social science computer review,article
+10051,imagine: using new web technologies in demography,publication
+10052,program,article
+10053,enhancing a core journal collection for digital libraries,publication
+10054,isec'10 - proceedings of the 2010 india software engineering conference,article
+10055,modeling ontologies as executable domain specific languages,publication
+10056,comex: a cost management expert system,publication
+10057,"handbook of research on digital libraries: design, development, and impact",article
+10058,duplicate journal title detection in references,publication
+10059,"proceedings of the 17th international conference on computers in education, icce 2009",article
+10060,specifying cases for tel in an sme,publication
+10061,"proceedings of the 2009 conference of the center for advanced studies on collaborative research, cascon '09",article
+10062,modeling service orchestrations with a rule-enhanced business process language,publication
+10063,"kmis 2009 - 1st international conference on knowledge management and information sharing, proceedings",article
+10064,learning scenarios and services for an sme: collaboration between an sme and a research team,publication
+10065,model transformations to bridge concrete and abstract syntax of web rule languages,publication
+10066,software - practice and experience,article
+10067,bridging concrete and abstract syntaxes in model-driven engineering: a case of rule languages,publication
+10068,model driven engineering of a tableau algorithm for description logics,publication
+10069,journal of emerging technologies in web intelligence,article
+10070,tangram for personalized learning using the semantic web technologies,publication
+10071,the semantic web for knowledge and data management: technologies and practices,article
+10072,applying semantic web to e-tourism,publication
+10073,technology enhanced learning: best practices,article
+10074,towards more intelligent assessment systems,publication
+10075,studies in computational intelligence,article
+10076,clarifying the meta,publication
+10077,international journal of continuing engineering education and life-long learning,article
+10078,loco-analyst: semantic web technologies in learning content usage analysis,publication
+10079,electronic communications of the easst,article
+10080,sharing ocl constraints by using web rules,publication
+10081,loco-analyst: a tool for raising teachers' awareness in online learning environments,publication
+10082,"proceedings - the 7th ieee international conference on advanced learning technologies, icalt 2007",article
+10083,leveraging the semantic web for providing educational feedback,publication
+10084,"proceedings - ieee international enterprise distributed object computing workshop, edoc",article
+10085,business process integration by using general rule markup language,publication
+10086,bridging concrete and abstract syntax of web rule languages,publication
+10087,international journal of web engineering and technology,article
+10088,interoperable petri net models via ontology,publication
+10089,ieee internet computing,article
+10090,using semantic web technologies to analyze learning content,publication
+10091,welding in the world,article
+10092,virtual consultant in welding - creation of the content server,publication
+10093,the pragmatics of current e-learning standards,publication
+10094,interactive learning environments,article
+10095,ontology-based annotation of learning object content,publication
+10096,international journal on software tools for technology transfer,article
+10097,mda-based automatic owl ontology development,publication
+10098,international journal of knowledge and learning,article
+10099,linking method for selecting educational web resources à la zigzag,publication
+10100,ieee intelligent systems,article
+10101,adopting software engineering trends in ai,publication
+10102,proceedings of the 15th international conference on world wide web,article
+10103,automatic annotation of content units in tangram,publication
+10104,ifip international federation for information processing,article
+10105,mda-based architecture of a description logics reasoner,publication
+10106,javadon: an open-source expert system shell,publication
+10107,knowledge-based systems,article
+10108,petri net ontology,publication
+10109,translating a knowledge base into html,publication
+10110,international journal of web based communities,article
+10111,bolero.net in the semantic web and grid environment,publication
+10112,automating semantic annotation to enable learning content adaptation,publication
+10113,journal of object technology,article
+10114,the tao of modeling spaces,publication
+10115,semantic web and information systems,article
+10116,ontology-based automatic annotation of learning content,publication
+10117,dynamic assembly of personalized learning content on the semantic web,publication
+10118,towards sharing rules between owl/swrl and uml/ocl,publication
+10119,encyclopedia of human computer interaction,article
+10120,computer - supported collaborative learning,publication
+10121,synergy of performance-based model and cognitive trait model in dp-its,publication
+10122,"proceedings - 5th ieee international conference on advanced learning technologies, icalt 2005",article
+10123,patternguru: an educational system for software patterns,publication
+10124,semiotics for ontologies and knowledge representation,publication
+10125,"mipro 2005 - 28th international convention proceedings: microelectronics, electronics and electronic technologies meet, hypermedia and grid systems hgs",article
+10126,emotional semantic grid,publication
+10127,ontologies for reusing learning object content,publication
+10128,eq: an adaptive educational hypermedia-based bdi agent system for the semantic web,publication
+10129,intelligent learning infrastructure for knowledge intensive organizations: a semantic web perspective,article
+10130,classroom for the semantic web,publication
+10131,lecture notes in computer science,article
+10132,a uml profile for owl ontologies,publication
+10133,research community knowledge portals,publication
+10134,software patterns in its architectures,publication
+10135,ontology modeling and mda,publication
+10136,handbook of software engineering and knowledge engineering: vol 3: recent advances,article
+10137,mda-based ontological engineering,publication
+10138,2004 2nd international ieee conference 'intelligent systems' - proceedings,article
+10139,from uml to ready-to-use owl ontologies,publication
+10140,jess goes graphical,publication
+10141,reusing petri nets through the semantic web,publication
+10142,"proceedings - ieee international conference on advanced learning technologies, icalt 2004",article
+10143,design pattern its: student model implementation,publication
+10144,student modeling in design pattern its,publication
+10145,ontologies for creating learning object content,publication
+10146,"thirteenth international world wide web conference proceedings, www2004",article
+10147,converting uml to owl ontologies,publication
+10148,the semiotics contribution on the web,publication
+10149,enhancing learning object content on the semantic web,publication
+10150,web intelligence and artificial intelligence in education,publication
+10151,teaching petri nets using p3,publication
+10152,a model of multitutor ontology-based learning environments,publication
+10153,a gui for jess,publication
+10154,remarks on the variety and significance of advanced learning technologies,publication
+10155,fuzzy sets and systems,article
+10156,fuzzy systems based on component software,publication
+10157,education and the semantic web,publication
+10158,ifip advances in information and communication technology,article
+10159,artificial intelligence applications and innovations,publication
+10160,uml profile for owl,publication
+10161,think ahead: evaluation and standardisation issues for e-learning applications,publication
+10162,"proceedings - 3rd ieee international conference on advanced learning technologies, icalt 2003",article
+10163,code tutor,publication
+10164,software support for teaching petri nets: p3,publication
+10165,web based learning environment as a passive web document,publication
+10166,next-generation web-based education,publication
+10167,key issues in next-generation web-based education,publication
+10168,building an intelligent system using modern internet technologies,publication
+10169,what does current web-based education lack?,publication
+10170,expert systems in finance - a cross-section of the field,publication
+10171,communications of the acm,article
+10172,understanding ontological engineering,publication
+10173,"proceedings - international conference on computers in education, icce 2002",article
+10174,design and analysis patterns in its architectures,publication
+10175,architectural patterns in pedagogical agents,publication
+10176,integrated computer-aided engineering,article
+10177,knowledge modeling - state of the art,publication
+10178,"proceedings - international workshop on advanced learning technologies: advanced learning technology: design and development issues, iwalt 2000",article
+10179,discovering patterns in learning technology systems,publication
+10180,a pattern language for intelligent tutoring systems,publication
+10181,teaching formal languages by an intelligent tutoring system,publication
+10182,applying patterns to its architectures,publication
+10183,a framework for building intelligent manufacturing systems,publication
+10184,a survey of modern knowledge modeling techniques,publication
+10185,pieces of mind: component-based software development of artificial intelligence,publication
+10186,representational hierarchy of fuzzy logic concepts in the oboa model,publication
+10187,designing an intelligent tutoring system in the domain of formal languages,publication
+10188,an intelligent tutoring system for teaching formal languages,publication
+10189,on the notion of components for intelligent tutoring systems,publication
+10190,the component based model of the control knowledge in an intelligent tutoring shell,publication
+10191,control knowledge and pedagogical aspects of the get-bits model,publication
+10192,"sigcse bulletin (association for computing machinery, special interest group on computer science education)",article
+10193,oboa model of explanation module in intelligent tutoring shell,publication
+10194,"poceedings of the conference on integrating technology into computer science education, iticse",article
+10195,object model of intelligent tutoring shell,publication
+10196,"proceedings of the ieee international conference on systems, man and cybernetics",article
+10197,object-oriented modelling of expert system reasoning process,publication
+10198,an object-oriented shell for intelligent tutoring lessons,publication
+10199,designing knowledge-based systems for optimal performance,publication
+10200,knowledge-based control of rotary kiln,publication
+10201,review of new expert systems in medicine [pregled novijih medicinskih ekspertnih sistema.],publication
+10202,modern expert systems and their use in medicine [savremeni ekspertni sistemi i njihova primena u medicini.],publication
+10203,vojnosanitetski pregled. military-medical and pharmaceutical review,article
+10204,development and use of expert systems in medicine [problemi razvoja i primene ekspertnih sistema u medicini.],publication
+10205,fast reasoning with external data on personal computers,publication
+10206,international journal of flexible manufacturing systems,article
+10207,a knowledge-based system for the strategic control level of robots in flexible manufacturing cells,publication
+10208,features of second-generation expert systems-an extended overview,publication
+10209,rex: robotics expert systems building tool,publication
+10210,science and engineering ethics,article
+10211,penetrating the omerta of predatory publishing: the romanian connection,publication
+10212,highway: a domain specific language for enterprise application integration,publication
+10213,"icstw 2010 - 3rd international conference on software testing, verification, and validation workshops",article
+10214,functional programming way to interact with software attacks and vulnerabilities,publication
+10215,air - a platform for intelligent systems,publication
+10216,infusionstherapie und transfusionsmedizin,article
+10217,confirmation of anti-hcv results in blood donors,publication
+10218,immunoglobulin and albumin preparations and transfusion transmisstve diseases,publication
+10219,exploring student interactions with preparation activities in a flipped classroom experience,publication
+10220,from study tactics to learning strategies: an analytical method for extracting interpretable representations,publication
+10221,australasian journal of educational technology,article
+10222,identifying engagement patterns with video annotation activities: a case study in professional development,publication
+10223,journal of biomedical semantics,article
+10224,semantic annotation in biomedicine: the current landscape,publication
+10225,rysannmd: a biomedical semantic annotator balancing speed and accuracy,publication
+10226,internet and higher education,article
+10227,learning analytics to unveil learning strategies in a flipped classroom,publication
+10228,knowledge engineering review,article
+10229,the state of the art in semantic relatedness: a framework for comparison,publication
+10230,from prediction to impact: evaluation of a learning analytics retention program,publication
+10231,"2016 5th mediterranean conference on embedded computing, meco 2016 - including ecyps 2016, bioeng.med 2016, meco: student challenge 2016",article
+10232,requirements elicitation in culturally and technologically diverse settings,publication
+10233,electronic commerce meets the semantic web,publication
+10234,generating actionable predictive models of academic performance,publication
+10235,"proceedings - international conference on tools with artificial intelligence, ictai",article
+10236,lexical semantic relatedness for twitter analytics,publication
+10237,comprehension and learning of social goals through visualization,publication
+10238,evolutionary fine-tuning of automated semantic annotation systems,publication
+10239,2nd int'l workshop on open badges in education (obie 2015): from learning evidence to learning analytics,publication
+10240,what do cmooc participants talk about in social media?: a topic analysis of discourse in a cmooc,publication
+10241,filtering inaccurate entity co-references on the linked open data,publication
+10242,automated classification and localization of daily deal content from the web,publication
+10243,automated semantic tagging of textual content,publication
+10244,semantic web,article
+10245,personal learning environments on the social semantic web,publication
+10246,"proceedings of the 7th international conference on knowledge capture: ""knowledge capture in the age of massive web data"", k-cap 2013",article
+10247,an empirical evaluation of ontology-based semantic annotators,publication
+10248,"technology-enhanced professional learning: processes, practices and tools",article
+10249,the social semantic web and workplace learning,publication
+10250,paperista: visual exploration of semantically annotated research papers,publication
+10251,factors influencing beliefs for adoption of a learning analytics tool: an empirical study,publication
+10252,semantic tagging with linked open data,publication
+10253,journal of information technology education:research,article
+10254,collaborative learning in online study groups: an evolutionary game theory perspective,publication
+10255,using online presence data for recommending human resources in the opal project,publication
+10256,semantic web and linked learning to support workplace learning,publication
+10257,self-regulated workplace learning: a pedagogical framework and semantic web-based environment,publication
+10258,ontology extraction tools: an empirical study with educators,publication
+10259,csedu 2012 - proceedings of the 4th international conference on computer supported education,article
+10260,students online interaction in a blended learning environment - a case study of the first experience in using an lms,publication
+10261,learn-b: a social analytics-enabled tool for self-regulated workplace learning,publication
+10262,1stinternational workshop on learning analytics and linked data,publication
+10263,"interdisciplinary journal of information, knowledge, and management",article
+10264,"social networking, teaching, and learning",publication
+10265,student modeling and assessment in intelligent tutoring of software patterns,publication
+10266,a qualitative evaluation of evolution of a learning analytics tool,publication
+10267,an approach to folksonomy-based ontology maintenance for learning environments,publication
+10268,discovering the dynamics of terms semantic relatedness through twitter,publication
+10269,towards a comprehensive call ontology for research 2.0,publication
+10270,self-regulated learners and collaboration: how innovative tools can address the motivation to learn at the workplace?,publication
+10271,"proceedings of the 2011 11th ieee international conference on advanced learning technologies, icalt 2011",article
+10272,a semantic web-enabled tool for self-regulated learning in the workplace,publication
+10273,linked data metrics for flexible expert search on the open web,publication
+10274,an environment for project-based collaborative learning of software design patterns,publication
+10275,looking for experts? what can linked data do for you?,publication
+10276,leveraging semantic technologies for harmonization of individual and organizational learning,publication
+10277,"proceedings - 12th ieee international conference on computational science and engineering, cse 2009",article
+10278,online presence in adaptive learning on the social semantic web,publication
+10279,the social semantic web in intelligent learning environments: state of the art and future challenges,publication
+10280,semantic web technologies for the integration of learning tools and context-aware educational services,publication
+10281,icsc 2009 - 2009 ieee international conference on semantic computing,article
+10282,utility of ontology extraction tools in the hands of educators,publication
+10283,"computer supported collaborative learning practices, cscl 2009 community events proceedings - 9th international conference",article
+10284,intelligent and innovative support of collaborative learning activities (wiiscola),publication
+10285,can educators develop ontologies using ontology extraction tools: an end-user study,publication
+10286,project-based collaborative learning environment with context-aware educational services,publication
+10287,"proceedings - 2009 9th ieee international conference on advanced learning technologies, icalt 2009",article
+10288,semantically-enabled project-based collaborative learning of software patterns,publication
+10289,evaluating an intelligent tutoring system for design patterns: the depths experience,publication
+10290,international journal of technology enhanced learning,article
+10291,generating context-related feedback for teachers,publication
+10292,leveraging the social semantic web in intelligent tutoring systems,publication
+10293,towards a semantic-rich collaborative environment for learning software patterns,publication
+10294,semantic technologies for socially-enhanced context-aware mobile learning,publication
+10295,"proceedings - ieee international conference on semantic computing 2008, icsc 2008",article
+10296,leveraging folksonomies for ontology evolution in e-learning environments,publication
+10297,"proceedings - the 8th ieee international conference on advanced learning technologies, icalt 2008",article
+10298,a semantic-rich framework for learning software patterns,publication
+10299,e-learning meets the social semantic web,publication
+10300,k-cap'07: proceedings of the fourth international conference on knowledge capture,article
+10301,ontology-based content model for scalable content reuse,publication
+10302,ontologies for effective use of context in e-learning settings,publication
+10303,"proceedings - sixth international conference on advanced learning technologies, icalt 2006",article
+10304,learning object context on the semantic web,publication
+10305,learning object context for adaptive learning design,publication
+10306,ontologies to support learning design context,publication
+10307,"proceedings - 2005 ieee international conference on e-technology, e-commerce and e-service, eee-05",article
+10308,bridging knowledge bases' heterogeneity using xml/xslt approach,publication
+10309,"14th international world wide web conference, www2005",article
+10310,ontology-based learning content repurposing,publication
+10311,repurposing learning object components,publication
+10312,achieving knowledge interoperability: an xml/xslt approach,publication
+10313,"international journal of computers, communications and control",article
+10314,domain/mapping model: a novel data warehouse data mode,publication
+10315,"2016 6th international conference on computers communications and control, icccc 2016",article
+10316,a comparative analysis of data warehouse data models,publication
+10317,"asme 2016 11th international manufacturing science and engineering conference, msec 2016",article
+10318,towards business process catalog for cloud-enabled service oriented architectures,publication
+10319,a comparison and integration of ontologies suitable for interoperability extension of scor model,publication
+10320,a direct approach to physical data vault design,publication
+10321,towards model-driven approach for rapid erp development,publication
+10322,concurrent engineering research and applications,article
+10323,semantic b2b-integration using an ontological message metamodel,publication
+10324,international journal of cooperative information systems,article
+10325,interoperable supply-chain applications: message metamodel-based semantic reconciliation of b2b messages,publication
+10326,semantic mediation for standard-based b2b interoperability,publication
+10327,international journal of computer integrated manufacturing,article
+10328,a semantic-mediation architecture for interoperable supply-chain applications,publication
+10329,data level enterprise applications integration,publication
+10330,tehnicki vjesnik,article
+10331,an application of partial homomorphic encryption in computer system with limited resources,publication
+10332,classical and quantum gravity,article
+10333,a black hole with torsion in 5d lovelock gravity,publication
+10334,ingenieria e investigacion,article
+10335,overview of dos attacks on wireless sensor networks and experimental results for simulation of interference attacks [visión general de los ataques de dos en redes de sensores inalámbricos y resultados experimentales para la simulación de ataques de interferencia],publication
+10336,physical review d,article
+10337,holography in lovelock chern-simons ads gravity,publication
+10338,control engineering and applied informatics,article
+10339,design of fuzzy expert system for evaluation of contemporary user authentication methods intended for mobile devices,publication
+10340,5d lovelock gravity: new exact solutions with torsion,publication
+10341,security and communication networks,article
+10342,tweakable parallel ofb mode of operation with delayed thread synchronization,publication
+10343,extending identity management system with multimodal biometric authentication,publication
+10344,innovative management and firm performance: an interdisciplinary approach and cases,article
+10345,identity management-a survey,publication
+10346,proceedings of the romanian academy series a - mathematics physics technical sciences information science,article
+10347,performance evaluation of aes algorithm under linux operating system,publication
+10348,e-procurement management for successful electronic government systems,article
+10349,implementing authentication in an e-procurement system,publication
+10350,information,article
+10351,merchant web applications defense in e-commerce enviroment,publication
+10352,botnets: the evolution and the possible solution,publication
+10353,security measures for protection of e-government it infrastructure,publication
+10354,providing strong access control in campus computer network by using radius server [obezbedstrokeivanje jake kontrole pristupa u racunarskoj mrezi kampusa koriscenjem radius servera],publication
+10355,"computer security: intrusion, detection and prevention",article
+10356,access control in healthcare information systems - context aware attribute based approach,publication
+10357,"ares 2010 - 5th international conference on availability, reliability, and security",article
+10358,choosing authentication techniques in e-procurement system in serbia,publication
+10359,"proceedings of the 1st international workshop on open source in european health care: the time is ripe, osehc 2009 in conjunction with biostec 2009 and the efmi lifoss wg",article
+10360,writing open source sunxacml access control in electronic flealth record with acceptable performances,publication
+10361,reducing e-commerce risks using digital certificates,publication
+10362,an intrusion prevention system as a proactive security mechanism in network infrastructure,publication
+10363,"proceedings - second international conference on availability, reliability and security, ares 2007",article
+10364,a novel approach to building secure systems,publication
+10365,journal of computing and information technology,article
+10366,a survey of wireless security,publication
+10367,efficient improvement of brain-tharp's algorithm,publication
+10368,guaranteed single disk access for very large database files,publication
+10369,optimization of thresholds in serial multimodal biometric systems,publication
+10370,continuous distribution approximation and thresholds optimization in serial multi-modal biometric systems,publication
+10371,the analysis of the users' response to the linear internet video advertising by using qoe methods,publication
+10372,ieee multimedia,article
+10373,walking in colors: human gait recognition using kinect and cbir,publication
+10374,"governance, communication, and innovation in a knowledge intensive society",article
+10375,delivering educational games to mobile devices,publication
+10376,computers in human behavior,article
+10377,"motivational aspects of different learning contexts: ""my mom won't let me play this game...""",publication
+10378,learning object repurposing for various multimedia platforms,publication
+10379,literature review in game-based learning,publication
+10380,open source application in multimodal biometry,publication
+10381,new gait recognition method using kinect stick figure and cbir,publication
+10382,advancing information management through semantic web concepts and ontologies,article
+10383,multimedia systems development,publication
+10384,"handbook of research on serious games as educational, business and research tools",article
+10385,motivational and cognitive aspects of applying educational games as a learning tool,publication
+10386,international journal of distance education technologies,article
+10387,integrating an educational game in moodle lms,publication
+10388,behaviour and information technology,article
+10389,wiki as a corporate learning tool: case study for software development company,publication
+10390,a multimodal biometrics system implemented using open source technology [multimodalni biometrijski sistem realizovan uz pomoc tehnologije otvorenog koda],publication
+10391,"ieee transactions on systems, man, and cybernetics part a:systems and humans",article
+10392,motivation and multimodal interaction in model-driven educational game design,publication
+10393,using learning objects in games,publication
+10394,learning objects in educational games,publication
+10395,"cssim 2009 - 1st international conference on computational intelligence, modelling, and simulation",article
+10396,object oriented terrain modelling: lessons learned from java3d development issues,publication
+10397,knowledge modeling for educational games,publication
+10398,effectiveness of game-based learning: influence of cognitive style,publication
+10399,"proceedings - 2009 2nd conference on human system interactions, hsi '09",article
+10400,model driven development of user interfaces for educational games,publication
+10401,designing aircraft cockpit displays: borrowing from multimodal user interfaces,publication
+10402,educational software for studying a cbir system,publication
+10403,educational games design issues: motivation and multimodal interaction,publication
+10404,"proceedings - frontiers in education conference, fie",article
+10405,work in progress - virtual business school and enterprise resource planning system integration in energorpojekt group,publication
+10406,"2008 conference on human system interaction, hsi 2008",article
+10407,surviving the design of educational games: borrowing from motivation and multimodal interaction,publication
+10408,"proceedings - uksim 10th international conference on computer modelling and simulation, eurosim/uksim2008",article
+10409,software architecture for ground control station for unmanned aerial vehicle,publication
+10410,usability issues of e-learning systems: case-study for moodle learning management system,publication
+10411,uav- based simulation environment: experience report,publication
+10412,universal accessibility as a multimodal design issue,publication
+10413,an implementation of ray tracing algorithm for the multiprocessor machines,publication
+10414,model-driven development of user interfaces: promises and challenges,publication
+10415,modeling multimodal human-computer interaction,publication
+10416,a model-driven approach to content repurposing,publication
+10417,toward optimization of multimodal user interfaces for tactical audio applications,publication
+10418,proceedings of the international conference on autonomous agents,article
+10419,an agent based framework for virtual medical devices,publication
+10420,"proceedings - 2002 ieee international conference on multimedia and expo, icme 2002",article
+10421,experimental evaluation of multimodal human computer interface for tactical audio applications,publication
+10422,"proceedings of the ieee/embs region 8 international conference on information technology applications in biomedicine, itab",article
+10423,an implementation of real-time monitoring and analysis in telemedicine,publication
+10424,real-time imaging,article
+10425,real-time visualization of brain electrical activity,publication
+10426,improved indexing for distributed virtual university,publication
+10427,multi modal presentation in virtual telemedical environments,publication
+10428,eeg analysis in a telemedical virtual world,publication
+10429,structuring scan-line algorithm for scene with single complex object case,publication
+10430,ieee engineering in medicine and biology magazine,article
+10431,perceptualization of biomedical data: an experimental environment for visualization and sonification of brain electrical activity,publication
+10432,tactical audio and acoustic rendering in biomédical applications,publication
+10433,annual international conference of the ieee engineering in medicine and biology - proceedings,article
+10434,3d visualization of brain electrical activity,publication
+10435,"2018 7th international conference on computers communications and control, icccc 2018 - proceedings",article
+10436,a domain-specific language for supporting event log extraction from erp systems,publication
+10437,an algorithm for production planning based on supply chain kpis,publication
+10438,using protocols and domain specific languages to achieve compliance of administrative processes with legislation,publication
+10439,an algorithm for customer order fulfillment in a make-to-stock manufacturing system,publication
+10440,the specification of etl transformation operations based on weaving models,publication
+10441,software quality journal,article
+10442,software quality improvement: a model based on managing factors impacting software quality,publication
+10443,"computational linguistics: concepts, methodologies, tools, and applications",article
+10444,ontology-based multimodal language learning,publication
+10445,software solution for monitoring changes of database elements,publication
+10446,a contribution to software development quality management,publication
+10447,peptides,article
+10448,"brain natriuretic peptide predicts forced vital capacity of the lungs, oxygen pulse and peak oxygen consumption in physiological condition",publication
+10449,the interface of hypothalamic-pituitary-adrenocortical axis and circulating brain natriuretic peptide in prediction of cardiopulmonary performance during physical stress,publication
+10450,a contribution to continual software service improvement based on the six-step service improvement method,publication
+10451,journal of sports medicine and physical fitness,article
+10452,systolic right ventricular adaptive changes in athletes as predictors of the maximal functional capacity: a pulsed tissue doppler study,publication
+10453,elephant herding optimization algorithm for wireless sensor network localization problem,publication
+10454,safety science,article
+10455,communicating the user state: introducing cognition-aware computing in industrial settings,publication
+10456,linux based virtual networking laboratories for software defined networking,publication
+10457,gamification ecosystems,publication
+10458,open source solutions for knowledge management and technological ecosystems,article
+10459,gamification ecosystems: current state and perspectives,publication
+10460,international journal of decision support system technology,article
+10461,applying technical standards to biometric systems,publication
+10462,visualisation of student learning model in serious games,publication
+10463,towards creation of implicit hci model for prediction and prevention of operators’ error,publication
+10464,informal learning recognition through a cloud ecosystem,publication
+10465,the scientific world journal,article
+10466,cloud based metalearning system for predictive modeling of biomedical data,publication
+10467,real-time learning analytics in educational games,publication
+10468,support platform for learning about multimodal biometrics,publication
+10469,"trailer project (tagging, recognition, acknowledgment of informal learning experiences): a methodology to make learners' informal learning activities visible to the institutions",publication
+10470,a tool to aid institutions recognize their employees competences acquired by informal learning,publication
+10471,hci aspects of social media in collaboration of software developers,publication
+10472,enhancing informal learning recognition through trailer project,publication
+10473,"2012 international symposium on computers in education, siie 2012",article
+10474,elbio-framework for learning multimodal biometrics,publication
+10475,"trailer project overview: tagging, recognition and acknowledgment of informal learning experiences",publication
+10476,international journal of human capital and information technology professionals,article
+10477,educational games and it professionals: perspectives from the field,publication
+10478,interoperability framework for multimodal biometry: open source in action,publication
+10479,international journal of computational intelligence systems,article
+10480,using data mining on student behavior and cognitive style data for improving e-learning systems: a case study,publication
+10481,modelling knowledge and game based learning: model driven approach,publication
+10482,game design as a learning tool for the course of computer networks,publication
+10483,"proceedings of the 10th international symposium on operational research in slovenia, sor 2009",article
+10484,modeling wealth distribution for 100 reachest people in south-eastern europe,publication
+10485,context modeling based on feature models expressed as views on ontologies via mappings,publication
+10486,proceedings of the xvii national conference of astronomers of serbia,article
+10487,use of complex event processing engines in time domain astronomy,publication
+10488,variable neighborhood search and tabu search for the web service selection problem,publication
+10489,serbian virtual observatory,publication
+10490,extending feature models with deep instantiation to manage complexity and dynamism of services,publication
+10491,an approach to defining scope in software product lines for the telecommunication domain,publication
+10492,a generic architectural framework of municipal information systems: a vision,publication
+10493,iasted international multi-conference on applied informatics,article
+10494,admis: generalized administrative system,publication
+10495,different insulin treatment regimens in patient with diabetes mellitus type 1: effects on quality of life [uticaj razlicitih rezima insulinske terapije na kvalitet zivota obolelih od dijabetesa melitusa tipa 1],publication
+10496,russian journal of marine biology,article
+10497,"phenetic relationships of six species of mullets (mugilidae) from the south adriatic, as inferred from the study of the visceral and dermal skeleton",publication
+10498,transportation planning and technology,article
+10499,determining the number and location of winter road maintenance depots–a case study of the district road network in serbia,publication
+10500,journal of advanced transportation,article
+10501,decision-support framework for selecting the optimal road toll collection system,publication
+10502,infrastructural model for the healthcare system based on emerging technologies,publication
+10503,promet - traffic - traffico,article
+10504,the crossing speed of elderly pedestrians [brzina hoda starijih pesaka na pesackim prelazima],publication
+10505,information development,article
+10506,beyond the equal-weight framework of the networked readiness index: a multilevel i-distance methodology,publication
+10507,contribution to accident prediction models development for rural two-lane roads in serbia [doprinos razvoju modela predvidjanja saobracajnih nezgoda za vangradske dvotracne puteve u srbiji],publication
+10508,the effects of mobile phone use on pedestrian crossing behaviour at unsignalized intersections - models for predicting unsafe pedestrians behaviour,publication
+10509,current science,article
+10510,evaluation of asian university rankings: position and perspective of leading indian higher education institutions,publication
+10511,journal of environmental protection and ecology,article
+10512,sustainable development in the e-health sector of the european union,publication
+10513,introduction and implementation of electronic health card,publication
+10514,profesional de la informacion,article
+10515,excellence with leadership: the crown indicator of scimago institutions rankings iber report,publication
+10516,actual problems of economics,article
+10517,communication via the web and sms services in the healthcare system in the republic of serbia,publication
+10518,electronic health system - development and implementation into the health system of the republic of serbia [elektronski zdravstveni sistem - razvoj i uvodstrokeenje u zdravstveni sistem republike srbije],publication
+10519,applying electronic documents in development of the healthcare information system in the republic of serbia,publication
+10520,neuroergonomics method for measuring the influence of mental workload modulation on cognitive state of manual assembly worker,publication
+10521,investigating brain dynamics in industrial environment – integrating mobile eeg and kinect for cognitive state detection of a worker,publication
+10522,procedia manufacturing,article
+10523,do micro-breaks increase the attention level of an assembly worker? an erp study,publication
+10524,impact of screen aspect ratio on reading electronic material,publication
+10525,analysis of available cloud computing models to support cloud adoption decision process in an enterprise,publication
+10526,general model for adequate cloud service selection using decision making methods,publication
+10527,representing it performance management as metamodel,publication
+10528,"ophtalmologie : organe de la societe francaise d""ophtalmologie",article
+10529,uveitis and autoimmunity against the retina [les uvéites et l'auto-immunité contre la rétine.],publication
+10530,ifac proceedings series,article
+10531,"modelling, analysis and control of large-scale interconnected economic systems.",publication
+10532,agrohemija,article
+10533,the study of the fertilizers influence on soil composition and water pollution,publication
+10534,the appearance of toxic amount of nitrites in soil,publication
+10535,the international journal of applied radiation and isotopes,article
+10536,availability of residual nitrogen from fertilizers in soil,publication
+10537,the preparation and use of radiolabelled specific helminth antibodies,publication
+10538,automated interpretation of key performance indicator values and its application in education,publication
+10539,international journal on artificial intelligence tools,article
+10540,an explanation facility framework for rule-based systems,publication
+10541,iceis 2010 - proceedings of the 12th international conference on enterprise information systems,article
+10542,konsultant: a knowledge base for automated interpretation of profit values,publication
+10543,computational and mathematical methods in medicine,article
+10544,a boolean consistent fuzzy inference system for diagnosing diseases and its application for determining peritonitis likelihood,publication
+10545,combining boolean consistent fuzzy logic and ahp illustrated on the web service selection problem,publication
+10546,a hybrid metaheuristic based on variable neighborhood search and tabu search for the web service selection problem,publication
+10547,world scientific proc. series on computer engineering and information science 7; uncertainty modeling in knowledge engineering and decision making - proceedings of the 10th international flins conf.,article
+10548,extending ahp with boolean consistent fuzzy logic and its application in web service selection,publication
+10549,complexity,article
+10550,follow-up and risk assessment in patients with myocardial infarction using artificial neural networks,publication
+10551,application of fuzzy ahp method for choosing a technology within service company,publication
+10552,smartmetals: a new method for metal identification based on fuzzy logic,publication
+10553,neuro fuzzy reasoner for student modeling,publication
+10554,enterprise information systems,article
+10555,a fresh approach for hybrid sql/nosql database design based on data structuredness,publication
+10556,metamodel of the artifact-centric approach to event log extraction from erp systems,publication
+10557,educational website conversion improvement using gamification,publication
+10558,gamified educational website conversion optimization,publication

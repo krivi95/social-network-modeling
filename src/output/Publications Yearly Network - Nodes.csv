@@ -1,0 +1,907 @@
+Id,name,node_type,department,faculty
+11441,2016,year,set(),set()
+11442,constructibility classes for triangle location problems,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11443,2015,year,set(),set()
+11444,automated generation of machine verifiable and readable proofs: a case study of tarski’s geometry,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11445,automated theorem proving in geogebra: current achievements,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11446,proving correctness of a krk chess endgame strategy by using isabelle/hol and z3,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11447,computer theorem proving for verifiable solving of geometric construction problems,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11448,2014,year,set(),set()
+11449,a vernacular for coherent logic,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11450,2013,year,set(),set()
+11451,simple algorithm portfolio for sat,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11452,proving correctness of a krk chess endgame strategy by sat-based constraint solving,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11453,2012,year,set(),set()
+11454,ursa: a system for uniform reduction to sat,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11455,cdcl-based abstract state transition system for coherent logic,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11456,towards understanding triangle construction problems,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11457,the area method: a recapitulation,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11458,2011,year,set(),set()
+11459,a coherent logic based geometry theorem prover capable of producing formal and readable proofs,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11460,formalization of abstract state transition systems for sat,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11461,2010,year,set(),set()
+11462,urbiva: uniform reduction to bit-vector arithmetic,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11463,geometry constructions language,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11464,formal correctness proof for dpll procedure,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11465,2009,year,set(),set()
+11466,instance-based selection of policies for sat solvers,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11467,2007,year,set(),set()
+11468,automatic verification of regular constructions in dynamic geometry systems,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11469,a variant of n-gram based language classification,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11470,automatic synthesis of decision procedures: a case study of ground and linear arithmetic,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11471,random k-gd-sat model and its phase transition,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11472,geothms - a web system for euclidean constructive geometry,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11473,2006,year,set(),set()
+11474,simple characterization of functionally complete one-element sets of propositional connectives,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11475,n-gram-based classification and unsupervised hierarchical clustering of genome sequences,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11476,gclc - a tool for constructive euclidean geometry and more than that,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11477,"integrating dynamic geometry software, deduction systems, and theorem repositories",publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11478,system description: gclcprover + geothms,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11479,2005,year,set(),set()
+11480,logical analysis of hash functions,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11481,2004,year,set(),set()
+11482,argo-lib: a generic platform for decision procedures,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11483,"constructions, instructions, interactions",publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11484,2003,year,set(),set()
+11485,wingclc - a workbench for formally describing figures,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11486,learning strategies for mechanised building of decision procedures,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11487,2002,year,set(),set()
+11488,a general setting for flexibly combining and augmenting decision procedures,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11489,2001,year,set(),set()
+11490,gd-sat model and crossover line,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11491,on different models for generating random sat problems,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11492,1999,year,set(),set()
+11493,a framework for the flexible integration of a class of decision procedures into theorem provers,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11494,2018,year,set(),set()
+11495,structural disorder of plasmid-encoded proteins in bacteria and archaea,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11496,2017,year,set(),set()
+11497,hierarchical vs. flat n-gram-based text categorization: can we do better?,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11498,towards a database for genotype-phenotype association research: mining data from encyclopaedia,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11499,multimedia database of the cultural heritage of the balkans,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11500,bioinformatics analysis of disordered proteins in prokaryotes,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11501,ontology-driven conceptual document classification,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11502,n-gram characterization of genomic islands in bacterial genomes,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11503,2008,year,set(),set()
+11504,could n-gram analysis contribute to genomic island determination?,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11505,sars-cov genome polymorphism: a bioinformatics study,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11506,towards full lexical recognition,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11507,bioinformatics analysis of sars coronavirus genome polymorphism,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11508,corpora issues in validation of serbian wordnet,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11509,1986,year,set(),set()
+11510,managing text as data,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11511,on the number of equivalence classes of invertible boolean functions under action of permutation of variables on domain and range,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11512,what are preferred water-aromatic interactions in proteins and crystal structures of small molecules?,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11513,comparison of random s-box generation methods,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11514,formalizing frankl's conjecture: fc-families,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11515,extremal families containing no two sets and their union,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11516,a reexamination of correlations of amino acids with particular secondary structures,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11517,a reexamination of the propensities of amino acids towards a particular secondary structure: classification of amino acids based on their chemical structure,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11518,"classification of small (0, 1) matrices",publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11519,statistical dependence of protein secondary structure on amino acid bigrams [statisticka zavisnost sekundarne strukture proteina od frekvencije bigrama aminokiselina],publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11520,b'the number of primes \xe2\x88\x91ni=1(-1)n-ii! is finite',b'publication',"b""{'katedra za racunarstvo i informatiku'}""","b""{'matematicki fakultet'}"""
+11521,1997,year,set(),set()
+11522,almost weakly self-dual bases for finite fields,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11523,variable neighborhood search for solving bandwidth coloring problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11524,electromagnetism-like algorithm for support vector machine parameter tuning,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11525,an integer linear formulation for the file transfer scheduling problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11526,a new nonlinear model for the two-dimensional rectangle packing problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11527,an electromagnetism metaheuristic for solving the maximum betweenness problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11528,assessment of possible association between rs3787016 and prostate cancer risk in serbian population,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11529,an integer linear programming formulation and genetic algorithm for the maximum set splitting problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11530,variable neighborhood search for multiple level warehouse layout problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11531,the modification of genetic algorithms for solving the balanced location problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11532,novel approaches to automated personality classification: ideas and their potentials,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11533,a genetic algorithm for the routing and carrier selection problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11534,a new genetic representation for quadratic assignment problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11535,a genetic algorithm for solving multiple warehouse layout problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11536,solving the two-dimensional packing problem with m-m calculus,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11537,ga inspired heuristic for uncapacitated single allocation hub location problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11538,two hybrid genetic algorithms for solving the super-peer selection problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11539,solving the maximally balanced connected partition problem in graphs by using genetic algorithm,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11540,two genetic algorithms for solving the uncapacitated single allocation p-hub median problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11541,genetic algorithm for solving uncapacitated multiple allocation hub location problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11542,fine-grained tournament selection operator in genetic algorithms,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11543,solving the simple plant location problem by genetic algorithm,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11544,new software for collecting data from the organized cervical cancer screening program in serbia. are we on the threshold of a new screening registry? - a multicentric study,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11545,plant regeneration in leaf culture of centaurium erythraea rafn. part 2: the role of arabinogalactan proteins,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11546,what are the preferred horizontal displacements of aromatic-aromatic interactions in proteins? comparison with the calculated benzene-benzene potential energy surface,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11547,milutin milankovic digital legacy,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11548,customizing a functional programming language for web development,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11549,b'fast formal proof of the erd\xc5\x91s\xe2\x80\x93szekeres conjecture for convex polygons with at most 6 points',b'publication',"b""{'katedra za racunarstvo i informatiku'}""","b""{'matematicki fakultet'}"""
+11550,mesat: multiple encodings of csp to sat,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11551,formalization of incremental simplex algorithm by stepwise refinement,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11552,formal verification of a modern sat solver by shallow embedding into isabelle/hol,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11553,formalization and implementation of modern sat solvers,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11554,using simplex method in verifying software safety,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11555,automatic construction of surface model,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11556,ccd microscopy - image analysis by group for intelligent systems (gis),publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11557,technology enhancing mathematics learning behaviours: shifting learning goals from “producing the right answer” to “understanding how to address current and future mathematical challenges”,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11558,a new fuzzy version of the risk-constrained cash-in-transit vehicle routing problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11559,fuzzy grasp with path relinking for the risk-constrained cash-in-transit vehicle routing problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11560,exponential quality function for community detection in complex networks,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11561,efficiency of using vns algorithm for forming heterogeneous groups for cscl learning,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11562,fuzzy covering location problems with different aggregation operators,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11563,parking search optimization in urban area,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11564,parallel vns for bus terminal location problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11565,new model of maximal covering location problem with fuzzy conditions,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11566,an extension of maximal covering location problem based on the choquet integral,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11567,a hybridization of an evolutionary algorithm and a parallel branch and bound for solving the capacitated single allocation hub location problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11568,hybrid metaheuristic method for determining locations for long-term health care facilities,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11569,metaheuristic approaches to solving large-scale bilevel uncapacitated facility location problem with clients' preferences,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11570,two efficient hybrid metaheuristic methods for solving the load balance problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11571,a note on the use of choquet and sugeno integrals in minimal and maximal covering location problems,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11572,memetic algorithm for solving the multilevel uncapacitated facility location problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11573,solving minimal covering location problem (minclp) with the aid of fuzzy sets,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11574,"comparison of interpolation polynomials with divided differences, interpolation polynomials with finite differences, and quadratic functions obtained by the least squares method in modeling of chromatographic responses",publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11575,an efficient memetic algorithm for the uncapacitated single allocation hub location problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11576,the role of fuzzy sets in improving maximal covering location problem (mclp),publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11577,metaheuristic methods for solving the bilevel uncapacitated facility location problem with clients' preferences,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11578,an efficient evolutionary algorithm for locating long-term care facilities,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11579,an efficient genetic algorithm for solving the multi-level uncapacitated facility location problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11580,parameter adjustment for genetic algorithm for two-level hierarchical covering location problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11581,adaptation of edges in a triangular mesh,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11582,a system for neural acoustics analysis,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11583,finding statistically significant repeats in nucleic acids and proteins,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11584,software tools for simultaneous data visualization and t cell epitopes and disorder prediction in proteins,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11585,n-gram analysis of cog categorized protein sequences,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11586,epitope distribution in ordered and disordered protein regions. part b - ordered regions and disordered binding sites are targets of t- and b-cell immunity,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11587,"epitope distribution in ordered and disordered protein regions - part a. t-cell epitope frequency, affinity and hydropathy",publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11588,parallelizing simplex within smt solvers,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11589,extending smt solvers with support for finite domain alldifferent constraint,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11590,solving finite-domain linear constraints in presence of the alldifferent,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11591,a variant of n-gram based language-independent text categorization,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11592,serbian text categorization using byte level n-grams,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11593,an improved electromagnetism-like method for feature selection,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11594,case-based reasoning and electromagnetism-like method in construction management,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11595,electromagnetism metaheuristic algorithm for solving the strong minimum energy topology problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11596,computational analysis of position-dependent disorder content in disprot database,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11597,argotrics–automated triangle construction solver,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11598,sparse regression interaction models for spatial prediction of soil properties in 3d,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11599,pseudo-random number generator based on discrete-space chaotic map,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11600,software verification and graph similarity for automated evaluation of students' assignments,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11601,mapping efficiency and information content,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11602,measuring similarity of graph nodes by neighbor matching,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11603,statistical methodology for comparison of sat solvers,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11604,development and evaluation of lav: an smt-based error finding platform: system description,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11605,ensuring safe usage of buffers in programming language c,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11606,semi-automatic extraction of multiword terms from domain-specific corpora,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11607,"a new course on r&amp;d project management in computer science and engineering: subjects taught, rationales behind, and lessons learned",publication,"{'katedra za racunarstvo i informatiku', 'katedra za racunarsku tehniku i informatiku'}","{'elektrotehnicki fakultet', 'matematicki fakultet'}"
+11608,enriching serbianwordnet and electronic dictionaries with terms from the culinary domain,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11609,novel formulations and vns-based heuristics for single and multiple allocation p-hub maximal covering problems,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11610,a vns-lp algorithm for the robust dynamic maximal covering location problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11611,modeling of hilic retention behavior with theoretical models and new spline interpolation technique,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11612,solving the robust two-stage capacitated facility location problem with uncertain transportation costs,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11613,a hybrid metaheuristic method for the deterministic and robust uncapacitated multiple allocation p-hub centre problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11614,a two-phase optimization method for solving the multi-type maximal covering location problem in emergency service networks,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11615,memetic algorithm for the balanced resource location problem with preferences,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11616,hybrid metaheuristic method for solving a multi-period emergency service location problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11617,an efficient variable neighborhood search for solving a robust dynamic facility location problem in emergency service network,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11618,efficient metaheuristic approaches for exploration of online social networks,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11619,a memetic algorithm for solving two variants of the two-stage uncapacitated facility location problem,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11620,automatic drug adverse reaction discovery from parenting websites using disproportionality methods,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11621,extracting drug adverse and beneficial reactions in pediatric population from healthcare social network,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11622,experience from porting complex algorithms on heterogeneous multi-core systems,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11623,driver monitoring algorithm for advanced driver assistance systems,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11624,optimization of driver monitoring adas algorithm for heterogeneous platform,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11625,change in the incidence and anatomic distribution of colorectal adenoma and cancer over a period of 20 years – a single center experience [promene u incidenci i anatomskoj distribuciji kolorektalnih adenoma i karcinoma u periodu od 20 godina – iskustvo jednog centra],publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11626,doppler ultrasonography combined with transient elastography improves the non-invasive assessment of fibrosis in patients with chronic liver diseases,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11627,erythropoietin in the evaluation of treatment outcomes in patients with polytrauma,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11628,erythropoietin in predicting prognosis in patients with acute-on-chronic liver failure,publication,{'katedra za racunarstvo i informatiku'},{'matematicki fakultet'}
+11629,nutie - a modern open source natural language processing toolkit,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11630,algorithm for calculating influence of power transformer oil temperature change on the accuracy of all-acoustic non-iterative partial discharge localization,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11631,sentiment classification of documents in serbian: the effects of morphological normalization,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11632,a software agent for social networks using natural language processing techniques,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11633,testing artificial intelligence knowledge with interactive web system [veb sistem za polaganje testova znanja iz inteligentnih sistema],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11634,sentiment classification of documents in serbian: the effects of morphological normalization and word embeddings,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11635,a systematic approach to generation of new ideas for phd research in computing,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11636,serious gaming based on kinect technology for autistic children in serbia,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11637,reliable baselines for sentiment analysis in resource-limited languages: the serbian movie review dataset,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11638,a classification of elearning tools based on the applied multimedia,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11639,implementation of android application for faculty employees [realizacija android aplikacije za potrebe zaposlenih na fakultetu],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11640,text content analysis using ontology and semantic similarity [analiziranje sadrzaja tekstova upotrebom ontologije i semanticke slicnosti],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11641,insos - educational system for teaching intelligent systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11642,ewisens: educational wireless sensor network simulator,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11643,integration of simulators in virtual 3d computer science classroom,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11644,feasibility of applying data mining techniques for predicting technical difficulties during laparoscopic cholecystectomy based on routine patient work-up in a small community hospital,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11645,a survey and evaluation of state-of-the-art intelligent question routing systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11646,semantic similarity of short texts in languages with a deficient natural language processing support,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11647,software system for expert systems learning,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11648,sdlds-system for digital logic design and simulation,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11649,software framework for development and running multiplayer games [softverski sistem za razvoj i pokretanje igara za vise igraca],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11650,a survey of intelligent question routing systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11651,a classification of mutational approaches for genetic search,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11652,a module for automatic assessment and verification of students' work in digital logic design,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11653,a software system for determining the semantic similarity of short texts in serbian [softverski sistem za odredivanje semanticke slicnosti kratkih tekstova na srpskom jeziku],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11654,the vsds environment based laboratory in computer architecture and organisation,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11655,digital logic simulator,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11656,a survey and evaluation of simulators suitable for teaching courses in computer architecture and organization,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11657,cal2: computer aided learning in computer architecture laboratory,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11658,wasp: a web-based simulator for an educational pipelined processor,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11659,a memory system for education,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11660,flexible web-based educational system for teaching computer architecture and organization,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11661,software package for an educational computer system,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11662,castle: computer architecture self-testing and learning system,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11663,practical large-scale model-driven development of business applications with an executable uml,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11664,discovering block-structured parallel process models from causally complete event logs,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11665,an interactive tool for uml class model evolution in database applications,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11666,capwise-a domain-specific language for developing graphical user interfaces,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11667,a survey of object-relational transformation patterns for high-performance uml-based applications,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11668,discovering models of parallel workflow processes from incomplete event logs,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11669,empirical analysis of gui programming concerns,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11670,a retrospective on user interface development technology,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11671,capsule-based user interface modeling for large-scale applications,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11672,a classification and comparison of data mining algorithms for wireless sensor networks,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11673,towards understanding of classes versus data types in conceptual modeling and uml,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11674,on the semantics of associations and association ends in uml,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11675,control flow regeneration for software pipelined loops with conditions,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11676,automatic model transformations using extended uml object diagrams in modeling environments,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11677,domain mapping using extended uml object diagrams,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11678,research and development in e-business on the internet,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11679,2000,year,set(),set()
+11680,sources of parallelism in software pipelining loops with conditional branches,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11681,socratenon - a web-based training system with an intellect,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11682,1998,year,set(),set()
+11683,predicated software pipelining technique for loops with conditions,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11684,a tree-driven multiple-rate model of time measuring in object-oriented real-time systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11685,formal model of software pipelining loops with conditions,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11686,fpga accelerator for floating-point matrix multiplication,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11687,explanation of performance degradation in turn model,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11688,evaluation of simulators for teaching computer networks,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11689,coala - system for visual representationof cryptography algorithms,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11690,reengineering the sleep simulator in a concurrent and distributed programming course,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11691,bridging user context and design models to build adaptive user interfaces,publication,"{'katedra za informacione tehnologije', 'katedra za racunarsku tehniku i informatiku'}","{'elektrotehnicki fakultet', 'fakultet organizacionih nauka'}"
+11692,reusable design of data visualization software architecture for unmanned aerial vehicles,publication,"{'katedra za informacione tehnologije', 'katedra za racunarsku tehniku i informatiku'}","{'elektrotehnicki fakultet', 'fakultet organizacionih nauka'}"
+11693,flow-based anomaly intrusion detection system using two neural network stages,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11694,computer network simulation and visualization tool for educational purpose,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11695,languages for model-driven development of user interfaces: review of the state of the art,publication,"{'katedra za informacione tehnologije', 'katedra za racunarsku tehniku i informatiku'}","{'elektrotehnicki fakultet', 'fakultet organizacionih nauka'}"
+11696,an accurate performance model for network-on-chip and multicomputer interconnection networks,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11697,web laboratory for computer network,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11698,formal specification of usability measures in model-driven development of context-sensitive user interfaces,publication,"{'katedra za informacione tehnologije', 'katedra za racunarsku tehniku i informatiku'}","{'elektrotehnicki fakultet', 'fakultet organizacionih nauka'}"
+11699,a comparison and security analysis of the cloud computing software platforms,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11700,improving design of ground control station for unmanned aerial vehicle: borrowing from design patterns,publication,"{'katedra za informacione tehnologije', 'katedra za racunarsku tehniku i informatiku'}","{'elektrotehnicki fakultet', 'fakultet organizacionih nauka'}"
+11701,software support for ground control station for unmanned aerial vehicle,publication,"{'katedra za informacione tehnologije', 'katedra za racunarsku tehniku i informatiku'}","{'elektrotehnicki fakultet', 'fakultet organizacionih nauka'}"
+11702,wnetsim: a web-based computer network simulator,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11703,java cryptography &amp; attribute certificate management,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11704,web-based grid-enabled interaction with 3d medical data,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11705,modeling distributed system entities which communicate asynchronous via message passing in java,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11706,java cryptography &amp; x.509 authentication,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11707,a heuristic algorithm for dynamic task scheduling in highly parallel computing systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11708,interactive visualization of 3d fields and images on inexpensive workstations using vrml,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11709,dynamic task scheduling with precedence constraints and communication delays,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11710,visualization of 3d fields and medical data and using vrml,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11711,1994,year,set(),set()
+11712,communication aspects of the star graph interconnection network,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11713,fault tolerance of the star graph interconnection network,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11714,routing function and deadlock avoidance in a star graph interconnection network,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11715,prototype implementation of segment assembling software,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11716,improving source code plagiarism detection: lessons learned,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11717,identity provider deployment based on container technology,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11718,parallelization of gst algorithm for source code similarity detection [paralelizacija gst algoritama za detekciju slicnosti u programskom kodu],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11719,a modified hill-climbing algorithm for knowledge test assembly based on classified criteria,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11720,a comparison of software tools for plagiarism detection in programming assignments,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11721,web performance evaluation for internet of things applications,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11722,an analysis of scientific publications from serbia: the case of computer science,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11723,automating the knowledge assessment workflow for large student groups: a development experience,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11724,a survey and classifcation of wireless sensor networks simulators based on the domain of use,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11725,intelligent crawler for web forums based on improved regular expressions,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11726,remote control of industrial robot lola 50 using wireless communication and android device [udaljeno upravljanje industrijskim robotom lola 50 upotrebom wireless komunikacije i android uredaja],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11727,"a software tool that helps teachers in handling, processing and understanding the results of massive exams",publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11728,once upon a pocket: programmable calculators from the late 1970s and early 1980s and the social networks around them,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11729,topic models and advanced algorithms for profiling of knowledge in scientific papers,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11730,self-similar cross-traffic analysis as a foundation for choosing among active available bandwidth measurement strategies,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11731,development of electronic forms and a java parser for processing data about university teaching stuff in accreditation process,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11732,the book cipher algorithm,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11733,test: tools for evaluation of students' tests - a development experience,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11734,comparison of three protocols for entry consistency maintenance based on mva algorithm,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11735,a comparison of three protocols for entry consistency maintenance based on mva algorithm,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11736,scowl: a tool for characterization of parallel workload and its use on splash-2 application suite,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11737,approach to characterization of parallel applications for dsm systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11738,reflective memory system based on a grid of buses that selectively uses relaxed memory consistency models,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11739,effects of user behavior and internet provider policy on the accessibility of sezampro on-line system,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11740,1996,year,set(),set()
+11741,memory consistency models for shared memory multiprocessors and dsm systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11742,distributed shared memory: concepts and systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11743,1993,year,set(),set()
+11744,an example of the efficient message protocol for industrial lan,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11745,cisc versus risc processors for graphics: a simulation study,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11746,improving schema issue advisor in the azure sql database,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11747,low-level implementation of the sisc protocol for thread-level speculation on a multi-core architecture,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11748,extending valgrind framework with the mips msa support,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11749,speeding up ip lookup procedure in software routers by means of parallelization,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11750,interconnection networks in petascale computer systems: a survey,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11751,gpu-based implementation of reverb effect,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11752,analysis of cpu and gpu implementations of convolution reverb effect,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11753,graphical processing unit-based parallelization of the open shortest path first and border gateway protocol routing protocols,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11754,register-level communication in speculative chip multiprocessors,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11755,manual parallelization versus state-of-the-art parallelization techniques: the spec cpu2006 as a case study,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11756,automated multi-platform testing and code coverage analysis of the cp2k application,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11757,an analysis of chain characteristics in the cryptanalytic tmto method,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11758,evaluation and analysis of an on-line error detection monitoring technique,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11759,use case analysis of openacc directives in the implementation of image processing algorithms [analiza primene openacc direktiva u implementaciji algoritama za obradu slike],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11760,parallelizing general histogram application for cuda architectures,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11761,balancing between time and memory requirements in cryptanalysis [kompromis izmedu memorijskih i vremenskih zahteva u kriptoanalitickim postupcima],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11762,application of graphics processing units in audio signal processing [primena grafickih procesora u obradi zvucnih signala],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11763,comparative performance evaluation of the avl and red-black trees,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11764,evolution and trends in gpu computing,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11765,gpu-based paralelization of the bgp protocol [paralelizacija izbora najboljih ruta u bgp protokolu pomocu grafickog procesora],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11766,data sorting using graphics processing units [sortiranje podataka koriscenjem grafickih procesorskih jedinica],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11767,a simulation environment for the on-line monitoring of a fault tolerant flight control computer,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11768,towards an improved integrated coherence and speculation protocol,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11769,an aggressive register-level communication in a speculative chip multiprocessor,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11770,an improved on-line monitoring technique for a fault-tolerant computing node,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11771,improving performance of a dsm system by the communication controller optimizations,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11772,multithreaded communication controller for efficient dsm multiprocessors,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11773,the impact of out-of-order message delivery on cache coherence protocols,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11774,an overview of microwave resonance therapy and eeg correlates of microwave resonance relaxation and other consciousness altering techniques,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11775,hardware implementation of the mechanism of multiprocessing,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11776,the interactive development and testing system for a risc-style processor,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11777,risc-style hardware accelerator for operating systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11778,"electroencephalographic (eeg) correlates of some activities which may alter consciousness: the transcendental meditation technique, musicogenic states, microwave resonance relaxation, healer/healee interaction, and alertness/drowsiness",publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11779,an operating system accelerator,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11780,new cache architecture concept: the split temporal/spatial cache,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11781,simulation study of hardware-oriented dsm approaches,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11782,the word-invalidate cache coherence protocol,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11783,1995,year,set(),set()
+11784,improved rms for the pc environment,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11785,"hardware approaches to cache coherence in shared-memory multiprocessors, part 1",publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11786,a streaming dataflow implementation of parallel cocke–younger–kasami parser,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11787,dataflow-based parallelization of control-flow algorithms,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11788,multipurpose time recursive phase locked loop,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11789,an overview of selected heterogeneous and reconfigurable architectures,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11790,effect of ict on the social dimension of short-term and long-term alignment of the participants in the construction of a knowledge society,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11791,an overview of selected hybrid and reconfigurable architectures,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11792,principal risk in implementation of a sophisticated erp system at a higher education institutions,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11793,advice-educational system for teaching database courses,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11794,mobilepdr: a mobile medical information system featuring update via internet,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11795,1989,year,set(),set()
+11796,hardware support to operations of relational algebra.,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11797,using the linked data approach in european e-government systems: example from serbia,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11798,citizen-centric linked data apps for emergency response systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11799,big data and quality: a literature review,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11800,exploratory spatio-temporal analysis of linked statistical data,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11801,combined energy hub optimisation and demand side management for buildings,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11802,proposal for implementing the eu psi directive in serbia,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11803,ontology-based facility data model for energy management,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11804,energy hub modelling and optimisation: an analytical case-study,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11805,smart-phone application for autonomous indoor positioning,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11806,situation awareness and decision support tools for response phase of emergency management: a short survey,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11807,main challenges in using lod in emergency management,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11808,linked open data infrastructure for public sector information: example from serbia,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11809,dynamic workflows for airport emergency management training,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11810,integrating serbian public data into the lod cloud,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11811,representation of texts in structured form,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11812,application of complex event processing paradigm in situation awareness and management,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11813,ontology enabled decision support system for emergency management at airports,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11814,ontology-based competency management: the case study of the mihajlo pupin institute,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11815,applicability assessment of semantic web technologies,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11816,automatic extraction of ict competences from unstructured sources,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11817,applicability assessment of semantic web technologies in human resources domain,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11818,green accounting for greener energy,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11819,nimfa - natural language implicit meaning formalization and abstraction,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11820,maturity and applicability assessment of semantic web technologies,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11821,semantic web based integration of knowledge resources for expertise finding,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11822,probabilistic semantic classifier,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11823,semantic web technologies: ready for adoption?,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11824,web4web e-collaboration tools,publication,"{'katedra za racunarsku tehniku i informatiku', 'katedra za softversko inzenjerstvo'}","{'elektrotehnicki fakultet', 'fakultet organizacionih nauka'}"
+11825,"adaptive middleware for intelligent, context sensitive applications",publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11826,semantic classifier for affective computing,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11827,semantic approach to knowledge processing,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11828,chronic toxicity of the sava river (se europe) sediments and river water to the algae pseudokirchneriella subcapitata,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11829,applying neural networks to knowledge representation and determination of its meaning,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11830,knowledge representation with soul,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11831,integration of knowledge resources in u&amp;d organizations: the case of mihajlo pupin institute,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11832,integration platform for de-centralized investment projects appraisal,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11833,decision support tool for used oil regeneration technologies assessment and selection,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11834,applying connectionist model to natural language understanding,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11835,a web-based decision support tool for groundwater remediation technologies selection,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11836,comparative analysis of commercial knowledge management solutions and their role in enterprises,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11837,semantic web services with soul,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11838,ontology-mediated integration of knowledge resources in r&amp;d organizations,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11839,a natural language processing for semantic web services,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11840,decision aid for sustainable industrial siting,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11841,the role of knowledge management solutions in enterprise business processes,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11842,information technology for cleaner water,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11843,a generic framework for web-based intelligent decision support systems,publication,"{'katedra za racunarsku tehniku i informatiku', 'katedra za softversko inzenjerstvo'}","{'elektrotehnicki fakultet', 'fakultet organizacionih nauka'}"
+11844,fides - a financial decision aid that can be trusted,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11845,e-collaboration tool for technology foresight exercise,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11846,a decision support system for holistic technology assessment,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11847,design knowledge representation in prolog/rex,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11848,truth maintenance in blackboard environment,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11849,best-based expert diagnostic system for the aluminum industry,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11850,european robotics and intelligent systems conference,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11851,invex: investment advisory expert system,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11852,best-based diagnostic systems for industrial plants,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11853,expert diagnostic systems for industrial plants: a case study in the aluminum industry,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11854,prolog/rex inference engine,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11855,integrating multiple paradigms within the blackboard framework,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11856,overview of some truth maintenance systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11857,using truth maintenance systems a tutorial,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11858,prolog/rex - a way to extend prolog for better knowledge representation,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11859,a framework for engineering intelligent control systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11860,a blackboard framework on top of prolog,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11861,1992,year,set(),set()
+11862,blackboard metaphor in tactical decision making,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11863,different approaches to real-time application allocation to a multiprocessor system,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11864,a heuristic algorithm for real-time application allocation to multimicrocomputer,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11865,use-case driven method of architecture recovery for program understanding and reuse reengineering,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11866,the influence of non-functional requirements in ucp method on the accuracy of effort estimates,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11867,developing algorithmic skills of pupils in serbian schools using code.org materials,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11868,accelerating program execution using hybrid control flow and dataflow architectures,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11869,analysis of task effort estimation accuracy based on use case point size,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11870,knowledge discovery potential in automated test abembly [potencijal tehnike pronalazenja znanja za automatsko sastavljanje testova],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11871,using part-of-speech tags as deep-syntax indicators in determining short-text semantic similarity,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11872,evaluation and classification of syntax information usage in determining short text semantic similarity [evaluacija i klasifikacija koriscenja sintaksnih informacija u odredivanju semanticke slicnosti kratkih tekstova],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11873,automated testing of l-irl robot programming language parser [automatizovano testiranje parsera l-irl jezika za programiranje robota],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11874,a comparative evaluation of effort estimation methods in the software life cycle,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11875,a comparative evaluation of open source tools for multicore and reconfigurable computing,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11876,refmap: restructuring by feature mapping,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11877,reverse engineering of use case realizations in uml,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11878,a classification of reverse engineering tools and criteria for their evaluation and selection,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11879,experiences in the teaching of a new computing paradigm: dataflow supercomputing,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11880,configurable simulator for computer architecture and organization,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11881,a survey and evaluation of free and open source simulators suitable for teaching courses in wireless sensor networks,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11882,restart optimization for transactional memory with lazy conflict detection,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11883,comparison of binary procedures: a set of techniques for evading compiler transformations,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11884,approach for estimating similarity between procedures in differently compiled binaries,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11885,erle: embedded run length image encoding,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11886,an implementation of air traffic control simulator,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11887,simulator of touch sensitive components [simulator elektronskih komponenti osetljivih na dodir],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11888,design of the simulator for teaching computer architecture and organization,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11889,2d-rbuc for efficient parallel compression of residuals,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11890,fast cuda-based codec for height fields,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11891,hfpac: gpu friendly height field parallel compression,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11892,seegl: software tool for learning the opengl graphics library [seegl: softverski alat za ucenje graficke biblioteke opengl],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11893,domino tiling: a new method of real-time conforming mesh construction for rendering changeable height fields,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11894,two branch predictor schemes for reduction of misprediction rate in conditions of frequent context switches,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11895,evaluating two-bit branch predictors for user/kernel code,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11896,a survey of heterogeneous computing: concepts and systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11897,branch mechanisms in deep pipelines: reevaluating the existing solutions and proposing a new guideline,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11898,em3: a taxonomy of heterogeneous computing systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11899,adding practical experience to computer security course,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11900,a development of a configurable system for handling x509 certificates [razvoj konfigurabilnog sistema za rad sa x509 sertifikatima],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11901,visual software system for memory interleaving simulation,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11902,transition from traditional to lms supported examining: a case study in computer engineering,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11903,data encryption standard visual representation,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11904,application of moodle platform in computer engineering courses [primena moodle platforme u nastavi racunarske tehnike i informatike],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11905,software system for visual representation of the advanced encryption standard algorithm [softverski sistem za vizuelnu reprezentaciju advanced encryption standard algoritma],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11906,"human-computer interaction in an integrated environment combining digital tv, mobile devices and internet",publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11907,rebooting the tv-centric gaming concept for modern multiscreen over-the-top service,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11908,"an integrated environment and development framework for social gaming using mobile devices, digital tv and internet",publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11909,tv-centric gaming applications for android os: architecture and a framework,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11910,tv-centric multiplayer gaming over the cloud for consumer electronic devices,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11911,implementation of a social gaming cloud service for mobile and tv devices [realizacija racunarskog servisa u oblaku za drustvene igre za mobilne i tv uredaje],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11912,integration of communication services for android-based set-top box applications [integracija komunikacionih servisa na primeru aplikacije za digitalni tv prijemnik sa android os],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11913,simulation of software defined networks in mininet environment [koriscenje mininet okruzenja za simulaciju softverski definisanih mreza],publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11914,a transparent and scalable anomaly-based dos detection method,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11915,of2nf: flow monitoring in openflow environment using netflow/ipfix,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11916,federated trouble ticket system for service management support in loosely coupled multi-domain environments,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11917,a network management architecture proposal for the géantnren environment,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11918,a survey of dual data cache systems,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11919,an efficient mechanism of cryptographic synchronization within selectively encrypted h.265/hevc video stream,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11920,european cloud collaboration through géant,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11921,ensemble classifiers for supervised anomaly based network intrusion detection,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11922,packet dispersion strategy evaluation from the perspective of packet loss pattern and voip quality,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11923,a novel scheme for dynamic triggering of packet dispersion,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11924,dynamic packet dispersion based on multi-threshold buffer occupancy,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11925,seamless integration of network management tools in a multi-domain environment,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11926,hybrid approaches to mutation in genetic search algorithms,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11927,a model of software system for parking using search algorithms,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11928,developing critical computer literacy for academic subjects english for software engineering and expert systems at the department of software engineering university of belgrade,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11929,dual data cache systems. architecture and analysis.,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11930,a modified split temporal/spatial cache,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11931,"a classification of data mining algorithms for wireless sensor networks, and classification extension to concept modeling in system of wireless sensor networks based on natural language processing",publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11932,facial profile esthetics change of class ii malocclusion patients treated with the herbst appliance as perceived by orthodontists and laypersons,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11933,an appgallery for dataflow computing,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11934,advances in high performance computing and related issues,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11935,recycled ic detection based on statistical methods,publication,{'katedra za racunarsku tehniku i informatiku'},{'elektrotehnicki fakultet'}
+11936,automating etl processes using the domain-specific modeling approach,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+11937,business process model life-cycle management in cloud manufacturing,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+11938,the systems development life cycle to facilitate progression towards semantic and organizational interoperability for healthcare system,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+11939,enhancing bpmn 2.0 informational perspective to support interoperability for cross-organizational business processes,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+11940,specification of data schema mappings using weaving models,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+11941,web-based implementation of replenishment process in distribution channels - a case study,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+11942,on using weaving models to specify schema mappings,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+11943,towards an interoperable production system [interoperabilnost proizvodnih sistema],publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+11944,semantic enterprise application integration standards,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+11945,software quality standards and lean approach in teaching and learning programming,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11946,a pattern language for use cases specification,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11947,conceptual model of software architecture in instruction java web frameworks,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11948,use case specification using the silabreq domain specific language,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11949,from software specification to cloud model,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11950,preliminary experience using jetbrains mps to implement a requirements specification language,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11951,use case specification at different levels of abstraction,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11952,language for use case specification,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11953,model and software tool for automatic generation of user interface based on use case and data model,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11954,guidelines for framework development process,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11955,the explanation of the design patterns by the symmetry concepts,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11956,extended software architecture based on security patterns,publication,"{'katedra za informacione tehnologije', 'katedra za softversko inzenjerstvo'}",{'fakultet organizacionih nauka'}
+11957,design patterns application in the erp systems improvements,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11958,explanation of software entropy by golden ratio and logarithmic spiral,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11959,enhancing workplace learning activities in intelligent learning extended organizations,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11960,grading students' programming and soft skills with open badges: a case study,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11961,a framework for technology enhanced education in orthopaedics: knee surgery case study,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11962,textual affect communication and evocation using abstract generative visuals,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11963,"not fade away?: commentary to paper education and the semantic web (ijaied vol.14, 2004)",publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11964,developing open badges: a comprehensive approach,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11965,"open badges: novel means to motivate, scaffold and recognize learning",publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11966,service-oriented development of content and knowledge provision tool,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11967,a comparative study of software tools for user story management,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11968,grading soft skills with open badges,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11969,social presence and interaction in learning environments: the effect on student success,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11970,"technology enhanced learning – the wild, the innocent and the e street shuffle",publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11971,open badges: challenges and opportunities,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11972,content and knowledge provision service - a way to build intellectual capital in learning organizations,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11973,synesketch: an open source library for sentence-based emotion recognition,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11974,semi-automatic generation of quizzes and learning artifacts from linked data,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11975,visualizing the affective structure of students interaction,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11976,adaptive neuro-fuzzy pedagogical recommender,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11977,web service support for collaboration between demographers,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11978,agile erp systems development: a technical perspective,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11979,incorporating the ontology paradigm into software engineering: enhancing domain-driven programming in clojure/java,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11980,incorporating the ontology paradigm into a mainstream programming environment,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11981,teaching agile software development: a case study,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11982,using new web technologies in teaching demography,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11983,using data mining to improve digital library services,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11984,magic potion: incorporating new development paradigms through metaprogramming,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11985,specifying cases for technology enhanced learning in a small and medium enterprise,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11986,imagine: using new web technologies in demography,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11987,enhancing a core journal collection for digital libraries,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11988,modeling ontologies as executable domain specific languages,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11989,comex: a cost management expert system,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11990,duplicate journal title detection in references,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11991,specifying cases for tel in an sme,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11992,modeling service orchestrations with a rule-enhanced business process language,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11993,learning scenarios and services for an sme: collaboration between an sme and a research team,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11994,model transformations to bridge concrete and abstract syntax of web rule languages,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11995,bridging concrete and abstract syntaxes in model-driven engineering: a case of rule languages,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11996,model driven engineering of a tableau algorithm for description logics,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11997,tangram for personalized learning using the semantic web technologies,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11998,applying semantic web to e-tourism,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+11999,towards more intelligent assessment systems,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12000,clarifying the meta,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12001,loco-analyst: semantic web technologies in learning content usage analysis,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12002,sharing ocl constraints by using web rules,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12003,loco-analyst: a tool for raising teachers' awareness in online learning environments,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12004,leveraging the semantic web for providing educational feedback,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12005,business process integration by using general rule markup language,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12006,bridging concrete and abstract syntax of web rule languages,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12007,interoperable petri net models via ontology,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12008,using semantic web technologies to analyze learning content,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12009,virtual consultant in welding - creation of the content server,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12010,the pragmatics of current e-learning standards,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12011,ontology-based annotation of learning object content,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12012,mda-based automatic owl ontology development,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12013,linking method for selecting educational web resources à la zigzag,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12014,adopting software engineering trends in ai,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12015,automatic annotation of content units in tangram,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12016,mda-based architecture of a description logics reasoner,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12017,javadon: an open-source expert system shell,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12018,petri net ontology,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12019,translating a knowledge base into html,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12020,bolero.net in the semantic web and grid environment,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12021,automating semantic annotation to enable learning content adaptation,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12022,the tao of modeling spaces,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12023,ontology-based automatic annotation of learning content,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12024,dynamic assembly of personalized learning content on the semantic web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12025,towards sharing rules between owl/swrl and uml/ocl,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12026,computer - supported collaborative learning,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12027,synergy of performance-based model and cognitive trait model in dp-its,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12028,patternguru: an educational system for software patterns,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12029,semiotics for ontologies and knowledge representation,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12030,emotional semantic grid,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12031,ontologies for reusing learning object content,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12032,eq: an adaptive educational hypermedia-based bdi agent system for the semantic web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12033,classroom for the semantic web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12034,a uml profile for owl ontologies,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12035,research community knowledge portals,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12036,software patterns in its architectures,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12037,ontology modeling and mda,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12038,mda-based ontological engineering,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12039,from uml to ready-to-use owl ontologies,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12040,jess goes graphical,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12041,reusing petri nets through the semantic web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12042,design pattern its: student model implementation,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12043,student modeling in design pattern its,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12044,ontologies for creating learning object content,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12045,converting uml to owl ontologies,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12046,the semiotics contribution on the web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12047,enhancing learning object content on the semantic web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12048,web intelligence and artificial intelligence in education,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12049,teaching petri nets using p3,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12050,a model of multitutor ontology-based learning environments,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12051,a gui for jess,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12052,remarks on the variety and significance of advanced learning technologies,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12053,fuzzy systems based on component software,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12054,education and the semantic web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12055,artificial intelligence applications and innovations,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12056,uml profile for owl,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12057,think ahead: evaluation and standardisation issues for e-learning applications,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12058,code tutor,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12059,software support for teaching petri nets: p3,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12060,web based learning environment as a passive web document,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12061,next-generation web-based education,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12062,key issues in next-generation web-based education,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12063,building an intelligent system using modern internet technologies,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12064,what does current web-based education lack?,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12065,expert systems in finance - a cross-section of the field,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12066,understanding ontological engineering,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12067,design and analysis patterns in its architectures,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12068,architectural patterns in pedagogical agents,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12069,knowledge modeling - state of the art,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12070,discovering patterns in learning technology systems,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12071,a pattern language for intelligent tutoring systems,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12072,teaching formal languages by an intelligent tutoring system,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12073,applying patterns to its architectures,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12074,a framework for building intelligent manufacturing systems,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12075,a survey of modern knowledge modeling techniques,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12076,pieces of mind: component-based software development of artificial intelligence,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12077,representational hierarchy of fuzzy logic concepts in the oboa model,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12078,designing an intelligent tutoring system in the domain of formal languages,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12079,an intelligent tutoring system for teaching formal languages,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12080,on the notion of components for intelligent tutoring systems,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12081,the component based model of the control knowledge in an intelligent tutoring shell,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12082,control knowledge and pedagogical aspects of the get-bits model,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12083,oboa model of explanation module in intelligent tutoring shell,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12084,object model of intelligent tutoring shell,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12085,object-oriented modelling of expert system reasoning process,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12086,an object-oriented shell for intelligent tutoring lessons,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12087,designing knowledge-based systems for optimal performance,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12088,knowledge-based control of rotary kiln,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12089,review of new expert systems in medicine [pregled novijih medicinskih ekspertnih sistema.],publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12090,modern expert systems and their use in medicine [savremeni ekspertni sistemi i njihova primena u medicini.],publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12091,development and use of expert systems in medicine [problemi razvoja i primene ekspertnih sistema u medicini.],publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12092,fast reasoning with external data on personal computers,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12093,1990,year,set(),set()
+12094,a knowledge-based system for the strategic control level of robots in flexible manufacturing cells,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12095,features of second-generation expert systems-an extended overview,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12096,rex: robotics expert systems building tool,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12097,penetrating the omerta of predatory publishing: the romanian connection,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12098,highway: a domain specific language for enterprise application integration,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12099,functional programming way to interact with software attacks and vulnerabilities,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12100,air - a platform for intelligent systems,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12101,confirmation of anti-hcv results in blood donors,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12102,immunoglobulin and albumin preparations and transfusion transmisstve diseases,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12103,exploring student interactions with preparation activities in a flipped classroom experience,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12104,from study tactics to learning strategies: an analytical method for extracting interpretable representations,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12105,identifying engagement patterns with video annotation activities: a case study in professional development,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12106,semantic annotation in biomedicine: the current landscape,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12107,rysannmd: a biomedical semantic annotator balancing speed and accuracy,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12108,learning analytics to unveil learning strategies in a flipped classroom,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12109,the state of the art in semantic relatedness: a framework for comparison,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12110,from prediction to impact: evaluation of a learning analytics retention program,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12111,requirements elicitation in culturally and technologically diverse settings,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12112,electronic commerce meets the semantic web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12113,generating actionable predictive models of academic performance,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12114,lexical semantic relatedness for twitter analytics,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12115,comprehension and learning of social goals through visualization,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12116,evolutionary fine-tuning of automated semantic annotation systems,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12117,2nd int'l workshop on open badges in education (obie 2015): from learning evidence to learning analytics,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12118,what do cmooc participants talk about in social media?: a topic analysis of discourse in a cmooc,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12119,filtering inaccurate entity co-references on the linked open data,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12120,automated classification and localization of daily deal content from the web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12121,automated semantic tagging of textual content,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12122,personal learning environments on the social semantic web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12123,an empirical evaluation of ontology-based semantic annotators,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12124,the social semantic web and workplace learning,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12125,paperista: visual exploration of semantically annotated research papers,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12126,factors influencing beliefs for adoption of a learning analytics tool: an empirical study,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12127,semantic tagging with linked open data,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12128,collaborative learning in online study groups: an evolutionary game theory perspective,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12129,using online presence data for recommending human resources in the opal project,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12130,semantic web and linked learning to support workplace learning,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12131,self-regulated workplace learning: a pedagogical framework and semantic web-based environment,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12132,ontology extraction tools: an empirical study with educators,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12133,students online interaction in a blended learning environment - a case study of the first experience in using an lms,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12134,learn-b: a social analytics-enabled tool for self-regulated workplace learning,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12135,1stinternational workshop on learning analytics and linked data,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12136,"social networking, teaching, and learning",publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12137,student modeling and assessment in intelligent tutoring of software patterns,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12138,a qualitative evaluation of evolution of a learning analytics tool,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12139,an approach to folksonomy-based ontology maintenance for learning environments,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12140,discovering the dynamics of terms semantic relatedness through twitter,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12141,towards a comprehensive call ontology for research 2.0,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12142,self-regulated learners and collaboration: how innovative tools can address the motivation to learn at the workplace?,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12143,a semantic web-enabled tool for self-regulated learning in the workplace,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12144,linked data metrics for flexible expert search on the open web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12145,an environment for project-based collaborative learning of software design patterns,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12146,looking for experts? what can linked data do for you?,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12147,leveraging semantic technologies for harmonization of individual and organizational learning,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12148,online presence in adaptive learning on the social semantic web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12149,the social semantic web in intelligent learning environments: state of the art and future challenges,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12150,semantic web technologies for the integration of learning tools and context-aware educational services,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12151,utility of ontology extraction tools in the hands of educators,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12152,intelligent and innovative support of collaborative learning activities (wiiscola),publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12153,can educators develop ontologies using ontology extraction tools: an end-user study,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12154,project-based collaborative learning environment with context-aware educational services,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12155,semantically-enabled project-based collaborative learning of software patterns,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12156,evaluating an intelligent tutoring system for design patterns: the depths experience,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12157,generating context-related feedback for teachers,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12158,leveraging the social semantic web in intelligent tutoring systems,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12159,towards a semantic-rich collaborative environment for learning software patterns,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12160,semantic technologies for socially-enhanced context-aware mobile learning,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12161,leveraging folksonomies for ontology evolution in e-learning environments,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12162,a semantic-rich framework for learning software patterns,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12163,e-learning meets the social semantic web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12164,ontology-based content model for scalable content reuse,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12165,ontologies for effective use of context in e-learning settings,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12166,learning object context on the semantic web,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12167,learning object context for adaptive learning design,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12168,ontologies to support learning design context,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12169,bridging knowledge bases' heterogeneity using xml/xslt approach,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12170,ontology-based learning content repurposing,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12171,repurposing learning object components,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12172,achieving knowledge interoperability: an xml/xslt approach,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12173,domain/mapping model: a novel data warehouse data mode,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12174,a comparative analysis of data warehouse data models,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12175,towards business process catalog for cloud-enabled service oriented architectures,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12176,a comparison and integration of ontologies suitable for interoperability extension of scor model,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12177,a direct approach to physical data vault design,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12178,towards model-driven approach for rapid erp development,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12179,semantic b2b-integration using an ontological message metamodel,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12180,interoperable supply-chain applications: message metamodel-based semantic reconciliation of b2b messages,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12181,semantic mediation for standard-based b2b interoperability,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12182,a semantic-mediation architecture for interoperable supply-chain applications,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12183,data level enterprise applications integration,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12184,an application of partial homomorphic encryption in computer system with limited resources,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12185,a black hole with torsion in 5d lovelock gravity,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12186,overview of dos attacks on wireless sensor networks and experimental results for simulation of interference attacks [visión general de los ataques de dos en redes de sensores inalámbricos y resultados experimentales para la simulación de ataques de interferencia],publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12187,holography in lovelock chern-simons ads gravity,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12188,design of fuzzy expert system for evaluation of contemporary user authentication methods intended for mobile devices,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12189,5d lovelock gravity: new exact solutions with torsion,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12190,tweakable parallel ofb mode of operation with delayed thread synchronization,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12191,extending identity management system with multimodal biometric authentication,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12192,identity management-a survey,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12193,performance evaluation of aes algorithm under linux operating system,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12194,implementing authentication in an e-procurement system,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12195,merchant web applications defense in e-commerce enviroment,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12196,botnets: the evolution and the possible solution,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12197,security measures for protection of e-government it infrastructure,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12198,providing strong access control in campus computer network by using radius server [obezbedstrokeivanje jake kontrole pristupa u racunarskoj mrezi kampusa koriscenjem radius servera],publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12199,access control in healthcare information systems - context aware attribute based approach,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12200,choosing authentication techniques in e-procurement system in serbia,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12201,writing open source sunxacml access control in electronic flealth record with acceptable performances,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12202,reducing e-commerce risks using digital certificates,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12203,an intrusion prevention system as a proactive security mechanism in network infrastructure,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12204,a novel approach to building secure systems,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12205,a survey of wireless security,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12206,efficient improvement of brain-tharp's algorithm,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12207,guaranteed single disk access for very large database files,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12208,optimization of thresholds in serial multimodal biometric systems,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12209,continuous distribution approximation and thresholds optimization in serial multi-modal biometric systems,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12210,the analysis of the users' response to the linear internet video advertising by using qoe methods,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12211,walking in colors: human gait recognition using kinect and cbir,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12212,delivering educational games to mobile devices,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12213,"motivational aspects of different learning contexts: ""my mom won't let me play this game...""",publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12214,learning object repurposing for various multimedia platforms,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12215,literature review in game-based learning,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12216,open source application in multimodal biometry,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12217,new gait recognition method using kinect stick figure and cbir,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12218,multimedia systems development,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12219,motivational and cognitive aspects of applying educational games as a learning tool,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12220,integrating an educational game in moodle lms,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12221,wiki as a corporate learning tool: case study for software development company,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12222,a multimodal biometrics system implemented using open source technology [multimodalni biometrijski sistem realizovan uz pomoc tehnologije otvorenog koda],publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12223,motivation and multimodal interaction in model-driven educational game design,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12224,using learning objects in games,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12225,learning objects in educational games,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12226,object oriented terrain modelling: lessons learned from java3d development issues,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12227,knowledge modeling for educational games,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12228,effectiveness of game-based learning: influence of cognitive style,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12229,model driven development of user interfaces for educational games,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12230,designing aircraft cockpit displays: borrowing from multimodal user interfaces,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12231,educational software for studying a cbir system,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12232,educational games design issues: motivation and multimodal interaction,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12233,work in progress - virtual business school and enterprise resource planning system integration in energorpojekt group,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12234,surviving the design of educational games: borrowing from motivation and multimodal interaction,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12235,software architecture for ground control station for unmanned aerial vehicle,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12236,usability issues of e-learning systems: case-study for moodle learning management system,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12237,uav- based simulation environment: experience report,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12238,universal accessibility as a multimodal design issue,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12239,an implementation of ray tracing algorithm for the multiprocessor machines,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12240,model-driven development of user interfaces: promises and challenges,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12241,modeling multimodal human-computer interaction,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12242,a model-driven approach to content repurposing,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12243,toward optimization of multimodal user interfaces for tactical audio applications,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12244,an agent based framework for virtual medical devices,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12245,experimental evaluation of multimodal human computer interface for tactical audio applications,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12246,an implementation of real-time monitoring and analysis in telemedicine,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12247,real-time visualization of brain electrical activity,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12248,improved indexing for distributed virtual university,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12249,multi modal presentation in virtual telemedical environments,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12250,eeg analysis in a telemedical virtual world,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12251,structuring scan-line algorithm for scene with single complex object case,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12252,perceptualization of biomedical data: an experimental environment for visualization and sonification of brain electrical activity,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12253,tactical audio and acoustic rendering in biomédical applications,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12254,3d visualization of brain electrical activity,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12255,a domain-specific language for supporting event log extraction from erp systems,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12256,an algorithm for production planning based on supply chain kpis,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12257,using protocols and domain specific languages to achieve compliance of administrative processes with legislation,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12258,an algorithm for customer order fulfillment in a make-to-stock manufacturing system,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12259,the specification of etl transformation operations based on weaving models,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12260,software quality improvement: a model based on managing factors impacting software quality,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12261,ontology-based multimodal language learning,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12262,software solution for monitoring changes of database elements,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12263,a contribution to software development quality management,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12264,"brain natriuretic peptide predicts forced vital capacity of the lungs, oxygen pulse and peak oxygen consumption in physiological condition",publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12265,the interface of hypothalamic-pituitary-adrenocortical axis and circulating brain natriuretic peptide in prediction of cardiopulmonary performance during physical stress,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12266,a contribution to continual software service improvement based on the six-step service improvement method,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12267,systolic right ventricular adaptive changes in athletes as predictors of the maximal functional capacity: a pulsed tissue doppler study,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12268,elephant herding optimization algorithm for wireless sensor network localization problem,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12269,communicating the user state: introducing cognition-aware computing in industrial settings,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12270,linux based virtual networking laboratories for software defined networking,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12271,gamification ecosystems,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12272,gamification ecosystems: current state and perspectives,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12273,applying technical standards to biometric systems,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12274,visualisation of student learning model in serious games,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12275,towards creation of implicit hci model for prediction and prevention of operators’ error,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12276,informal learning recognition through a cloud ecosystem,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12277,cloud based metalearning system for predictive modeling of biomedical data,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12278,real-time learning analytics in educational games,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12279,support platform for learning about multimodal biometrics,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12280,"trailer project (tagging, recognition, acknowledgment of informal learning experiences): a methodology to make learners' informal learning activities visible to the institutions",publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12281,a tool to aid institutions recognize their employees competences acquired by informal learning,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12282,hci aspects of social media in collaboration of software developers,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12283,enhancing informal learning recognition through trailer project,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12284,elbio-framework for learning multimodal biometrics,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12285,"trailer project overview: tagging, recognition and acknowledgment of informal learning experiences",publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12286,educational games and it professionals: perspectives from the field,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12287,interoperability framework for multimodal biometry: open source in action,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12288,using data mining on student behavior and cognitive style data for improving e-learning systems: a case study,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12289,modelling knowledge and game based learning: model driven approach,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12290,game design as a learning tool for the course of computer networks,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12291,modeling wealth distribution for 100 reachest people in south-eastern europe,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12292,context modeling based on feature models expressed as views on ontologies via mappings,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12293,use of complex event processing engines in time domain astronomy,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12294,variable neighborhood search and tabu search for the web service selection problem,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12295,serbian virtual observatory,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12296,extending feature models with deep instantiation to manage complexity and dynamism of services,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12297,an approach to defining scope in software product lines for the telecommunication domain,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12298,a generic architectural framework of municipal information systems: a vision,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12299,admis: generalized administrative system,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12300,different insulin treatment regimens in patient with diabetes mellitus type 1: effects on quality of life [uticaj razlicitih rezima insulinske terapije na kvalitet zivota obolelih od dijabetesa melitusa tipa 1],publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12301,"phenetic relationships of six species of mullets (mugilidae) from the south adriatic, as inferred from the study of the visceral and dermal skeleton",publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12302,determining the number and location of winter road maintenance depots–a case study of the district road network in serbia,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12303,decision-support framework for selecting the optimal road toll collection system,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12304,infrastructural model for the healthcare system based on emerging technologies,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12305,the crossing speed of elderly pedestrians [brzina hoda starijih pesaka na pesackim prelazima],publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12306,beyond the equal-weight framework of the networked readiness index: a multilevel i-distance methodology,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12307,contribution to accident prediction models development for rural two-lane roads in serbia [doprinos razvoju modela predvidjanja saobracajnih nezgoda za vangradske dvotracne puteve u srbiji],publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12308,the effects of mobile phone use on pedestrian crossing behaviour at unsignalized intersections - models for predicting unsafe pedestrians behaviour,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12309,evaluation of asian university rankings: position and perspective of leading indian higher education institutions,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12310,sustainable development in the e-health sector of the european union,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12311,introduction and implementation of electronic health card,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12312,excellence with leadership: the crown indicator of scimago institutions rankings iber report,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12313,communication via the web and sms services in the healthcare system in the republic of serbia,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12314,electronic health system - development and implementation into the health system of the republic of serbia [elektronski zdravstveni sistem - razvoj i uvodstrokeenje u zdravstveni sistem republike srbije],publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12315,applying electronic documents in development of the healthcare information system in the republic of serbia,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12316,neuroergonomics method for measuring the influence of mental workload modulation on cognitive state of manual assembly worker,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12317,investigating brain dynamics in industrial environment – integrating mobile eeg and kinect for cognitive state detection of a worker,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12318,do micro-breaks increase the attention level of an assembly worker? an erp study,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12319,impact of screen aspect ratio on reading electronic material,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12320,analysis of available cloud computing models to support cloud adoption decision process in an enterprise,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12321,general model for adequate cloud service selection using decision making methods,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12322,representing it performance management as metamodel,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12323,1987,year,set(),set()
+12324,uveitis and autoimmunity against the retina [les uvéites et l'auto-immunité contre la rétine.],publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12325,1985,year,set(),set()
+12326,"modelling, analysis and control of large-scale interconnected economic systems.",publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12327,the study of the fertilizers influence on soil composition and water pollution,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12328,the appearance of toxic amount of nitrites in soil,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12329,1983,year,set(),set()
+12330,availability of residual nitrogen from fertilizers in soil,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12331,the preparation and use of radiolabelled specific helminth antibodies,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12332,automated interpretation of key performance indicator values and its application in education,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12333,an explanation facility framework for rule-based systems,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12334,konsultant: a knowledge base for automated interpretation of profit values,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12335,a boolean consistent fuzzy inference system for diagnosing diseases and its application for determining peritonitis likelihood,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12336,combining boolean consistent fuzzy logic and ahp illustrated on the web service selection problem,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12337,a hybrid metaheuristic based on variable neighborhood search and tabu search for the web service selection problem,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12338,extending ahp with boolean consistent fuzzy logic and its application in web service selection,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12339,follow-up and risk assessment in patients with myocardial infarction using artificial neural networks,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12340,application of fuzzy ahp method for choosing a technology within service company,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12341,smartmetals: a new method for metal identification based on fuzzy logic,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12342,neuro fuzzy reasoner for student modeling,publication,{'katedra za softversko inzenjerstvo'},{'fakultet organizacionih nauka'}
+12343,a fresh approach for hybrid sql/nosql database design based on data structuredness,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12344,metamodel of the artifact-centric approach to event log extraction from erp systems,publication,{'katedra za informacione sisteme'},{'fakultet organizacionih nauka'}
+12345,educational website conversion improvement using gamification,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}
+12346,gamified educational website conversion optimization,publication,{'katedra za informacione tehnologije'},{'fakultet organizacionih nauka'}

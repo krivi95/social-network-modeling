@@ -1,0 +1,56 @@
+--------- NETWORK GENERAL DATA -----------
+Name: Department Yearly Network
+Type: Graph
+Number of nodes: 41
+Number of edges: 195
+Average degree:   9.5122 
+--------- NETWORK ANALYSIS DATA -----------
+Network density: 0.23780487804878048 
+Network components: 1 
+Average Degree Centrality: 0.23780487804878053 
+Average Closeness Centrality: 0.5401451611225188 
+Average Betweenness Centrality: 0.02270168855534709 
+Average Eigenvector Centrality: 0.14094436445706357 
+--------- NETWORK NODES -----------
+Node Id, Column dicitonary
+6766,{'attributes': {'name': 'katedra za racunarstvo i informatiku', 'node_type': 'department'}, 'degree_centrality': 0.525, 'closeness_centrality': 0.5633802816901409, 'betweenness_centrality': 0.05894867262476499, 'eigenvector_centrality': 0.2281560234587239}
+6767,{'attributes': {'name': 'matematicki fakultet', 'node_type': 'faculty'}, 'degree_centrality': 0.525, 'closeness_centrality': 0.5633802816901409, 'betweenness_centrality': 0.05894867262476499, 'eigenvector_centrality': 0.2281560234587239}
+6768,{'attributes': {'name': 2001, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.15000000000000002, 'closeness_centrality': 0.5263157894736842, 'betweenness_centrality': 0.0037185280047546897, 'eigenvector_centrality': 0.12082225841749872}
+6769,{'attributes': {'name': 2003, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6770,{'attributes': {'name': 2010, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6771,{'attributes': {'name': 2007, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6772,{'attributes': {'name': 2006, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.17500000000000002, 'closeness_centrality': 0.5405405405405406, 'betweenness_centrality': 0.004843149716089086, 'eigenvector_centrality': 0.13863052549815555}
+6773,{'attributes': {'name': 2012, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6774,{'attributes': {'name': 2004, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6775,{'attributes': {'name': 2015, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6776,{'attributes': {'name': 2013, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6777,{'attributes': {'name': 2014, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6778,{'attributes': {'name': 2016, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6779,{'attributes': {'name': 2002, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.17500000000000002, 'closeness_centrality': 0.5405405405405406, 'betweenness_centrality': 0.004843149716089086, 'eigenvector_centrality': 0.13863052549815555}
+6780,{'attributes': {'name': 2011, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6781,{'attributes': {'name': 2005, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6782,{'attributes': {'name': 1999, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.17500000000000002, 'closeness_centrality': 0.5405405405405406, 'betweenness_centrality': 0.004843149716089086, 'eigenvector_centrality': 0.13863052549815555}
+6783,{'attributes': {'name': 2009, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6784,{'attributes': {'name': 2018, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6785,{'attributes': {'name': 2017, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.2, 'closeness_centrality': 0.5555555555555556, 'betweenness_centrality': 0.007699045469184458, 'eigenvector_centrality': 0.15175708695540238}
+6786,{'attributes': {'name': 1986, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.05, 'closeness_centrality': 0.37037037037037035, 'betweenness_centrality': 6.105006105006105e-05, 'eigenvector_centrality': 0.035011287446562185}
+6787,{'attributes': {'name': 2008, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.17500000000000002, 'closeness_centrality': 0.5405405405405406, 'betweenness_centrality': 0.004843149716089086, 'eigenvector_centrality': 0.13863052549815555}
+6788,{'attributes': {'name': 1997, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.17500000000000002, 'closeness_centrality': 0.5405405405405406, 'betweenness_centrality': 0.004843149716089086, 'eigenvector_centrality': 0.13863052549815555}
+6789,{'attributes': {'name': 'katedra za racunarsku tehniku i informatiku', 'node_type': 'department'}, 'degree_centrality': 0.7000000000000001, 'closeness_centrality': 0.7017543859649122, 'betweenness_centrality': 0.11804933541520846, 'eigenvector_centrality': 0.2775589484972379}
+6790,{'attributes': {'name': 'elektrotehnicki fakultet', 'node_type': 'faculty'}, 'degree_centrality': 0.7000000000000001, 'closeness_centrality': 0.7017543859649122, 'betweenness_centrality': 0.11804933541520846, 'eigenvector_centrality': 0.2775589484972379}
+6791,{'attributes': {'name': 1998, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.1, 'closeness_centrality': 0.4878048780487805, 'betweenness_centrality': 0.0008919265016825991, 'eigenvector_centrality': 0.08581097097093654}
+6792,{'attributes': {'name': 2000, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.125, 'closeness_centrality': 0.5, 'betweenness_centrality': 0.0017154017513873571, 'eigenvector_centrality': 0.10361923805159336}
+6793,{'attributes': {'name': 1994, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.1, 'closeness_centrality': 0.4878048780487805, 'betweenness_centrality': 0.0008919265016825991, 'eigenvector_centrality': 0.08581097097093654}
+6794,{'attributes': {'name': 1993, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.05, 'closeness_centrality': 0.425531914893617, 'betweenness_centrality': 4.578754578754579e-05, 'eigenvector_centrality': 0.042592327749612906}
+6795,{'attributes': {'name': 1996, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.125, 'closeness_centrality': 0.5, 'betweenness_centrality': 0.0017154017513873571, 'eigenvector_centrality': 0.10361923805159336}
+6796,{'attributes': {'name': 1995, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.1, 'closeness_centrality': 0.4878048780487805, 'betweenness_centrality': 0.0008919265016825991, 'eigenvector_centrality': 0.08581097097093654}
+6797,{'attributes': {'name': 1989, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.1, 'closeness_centrality': 0.4878048780487805, 'betweenness_centrality': 0.0008919265016825991, 'eigenvector_centrality': 0.08581097097093654}
+6798,{'attributes': {'name': 1992, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.1, 'closeness_centrality': 0.4878048780487805, 'betweenness_centrality': 0.0008919265016825991, 'eigenvector_centrality': 0.08581097097093654}
+6799,{'attributes': {'name': 'katedra za informacione sisteme', 'node_type': 'department'}, 'degree_centrality': 0.42500000000000004, 'closeness_centrality': 0.5063291139240507, 'betweenness_centrality': 0.05494109369826731, 'eigenvector_centrality': 0.17108220132396557}
+6800,{'attributes': {'name': 'fakultet organizacionih nauka', 'node_type': 'faculty'}, 'degree_centrality': 0.775, 'closeness_centrality': 0.7843137254901961, 'betweenness_centrality': 0.21880415681416887, 'eigenvector_centrality': 0.2856738401407364}
+6801,{'attributes': {'name': 'katedra za softversko inzenjerstvo', 'node_type': 'department'}, 'degree_centrality': 0.7000000000000001, 'closeness_centrality': 0.7017543859649122, 'betweenness_centrality': 0.11606422375267744, 'eigenvector_centrality': 0.2776070041703325}
+6802,{'attributes': {'name': 1990, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.05, 'closeness_centrality': 0.45454545454545453, 'betweenness_centrality': 0.00013736263736263736, 'eigenvector_centrality': 0.04321864322132364}
+6803,{'attributes': {'name': 'katedra za informacione tehnologije', 'node_type': 'department'}, 'degree_centrality': 0.525, 'closeness_centrality': 0.5633802816901409, 'betweenness_centrality': 0.04209194555237549, 'eigenvector_centrality': 0.23210019957221056}
+6804,{'attributes': {'name': 1985, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.05, 'closeness_centrality': 0.45454545454545453, 'betweenness_centrality': 0.00033874848754146606, 'eigenvector_centrality': 0.035045353653719385}
+6805,{'attributes': {'name': 1983, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.05, 'closeness_centrality': 0.45454545454545453, 'betweenness_centrality': 0.00033874848754146606, 'eigenvector_centrality': 0.035045353653719385}
+6806,{'attributes': {'name': 1987, 'node_type': 'year_of_publishing'}, 'degree_centrality': 0.05, 'closeness_centrality': 0.45454545454545453, 'betweenness_centrality': 0.00033874848754146606, 'eigenvector_centrality': 0.035045353653719385}
