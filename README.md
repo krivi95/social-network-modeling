@@ -60,6 +60,5 @@ This project was implemented in Python 3.7. Make sure you use the same python ve
 
 
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
 
