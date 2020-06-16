@@ -31,7 +31,8 @@ This are examples of various social networks created for research purposes. Netw
 ![image info](./documentation/examples/FacultyYearlyPublications.png)
 
 - Facutlies and deparments with research papers published by their professors:
-![image info](./documentation/examples/DepartmentNetwork.png)
+<img src="./documentation/examples/DepartmentNetwork.png"  width="50%" >
+
 
 
 
