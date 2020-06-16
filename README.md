@@ -12,25 +12,32 @@ This research was done as project work on course in [Social Network Analysis ](h
 ### Examples
 This are examples of various social networks created for research purposes. Network modeling was done in python (see project structure section and information on how to run python code).
 
-1. Network of professors and their published papers:
+1.Network of professors and their published papers:
+
 ![image info](./documentation/examples/AuthorPublications.png)
 
-2. Coauthor network - professors who worked together on publishing papers:
+2.Coauthor network - professors who worked together on publishing papers:
+
 ![image info](./documentation/examples/CoAuthorNetwork.png)
 
-3. Network of articles where research papers were published:
+3.Network of articles where research papers were published:
+
 ![image info](./documentation/examples/ArticleNetwork.png)
 
-4. Network of articles and reserch papers:
+4.Network of articles and reserch papers:
+
 ![image info](./documentation/examples/ArticlePublicationNetwork.png)
 
-5. Network of scientific productivity (research papers and years in which they were published):
+5.Network of scientific productivity (research papers and years in which they were published):
+
 ![image info](./documentation/examples/YearlyPublications.png)
 
-6. Faculties and years when their professors were publishing:
+6.Faculties and years when their professors were publishing:
+
 ![image info](./documentation/examples/FacultyYearlyPublications.png)
 
-7. Facutlies and deparments with research papers published by their professors:
+7.Facutlies and deparments with research papers published by their professors:
+
 ![image info](./documentation/examples/DepartmentNetwork.png)
 
 
