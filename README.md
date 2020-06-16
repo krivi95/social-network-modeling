@@ -11,7 +11,8 @@ This research was done as project work on course in [Social Network Analysis ](h
 
 ### Examples
 This are examples of various social networks created for research purposes. Network modeling was done in python (see project structure section and information on how to run python code).
-###More Information
+
+### More Information
 For more information on this topic please see documentation. It contains both the project specification and project report.
 
 Project report contaings all of the information behind this research: visualization, metrics, results and conclusions.
