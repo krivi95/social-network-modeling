@@ -63,8 +63,33 @@ In src directory you will find following things:
 - main.py script - entry poing for execution. See next section on how to run python code.
 
 ### How to run code
-This project was implemented in Python 3.7. Make sure you use the same python version. The complete list of python module modules can be found in requirements.txt file.
+This project was implemented in [Python 3.7.](https://www.python.org/downloads/release/python-370/) Make sure you use the same python version. The complete list of python  modules can be found in Requirements.txt file in src folder.
 
+It is recomended that you create new [vitrual environment](https://docs.python.org/3.7/tutorial/venv.html):
+`python3 -m venv social-netowrk-analysis`.
+
+Then you would need to activate that newly created python environment:
+- On Windows:
+`social-netowrk-analysis\Scripts\activate.bat`.
+- On Linux:
+`source social-netowrk-analysis/bin/activate`.
+
+Once you have your python environment activated, first you would need to download all necessary python modules with pip. There is Requirements.txt file in scr directory. You can use following command to automatically download all dependencies:
+`pip install -r Requirements.txt`.
+
+When the download is completed, you can run main.py script:
+`python main.py`.
+
+You will know that the script is running if you look at console output. You should see something like this:
+`importing Authors dataset... 
+Importing Publications...
+Exporting network CoAuthorNetwors (nodes and edges to .csv)... 
+Running network analysis for CoAuthorNetwors...`.
+
+After script is finished, in the output directry, for every created and used social network, you will find three types of files:
+- NetworkName - Nodes.csv: File containing nodes of the network (can be imported in Gephi).
+- NetworkName - Edges.csv: File containing nodes of the network (can be imported in Gephi).
+- NetworkName - Analytics.txt - File containing general network metrics and nodes with metrics as and other attributes as well.
 
 
 
