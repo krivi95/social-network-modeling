@@ -49,11 +49,13 @@ Project report contaings all of the information behind this research: visualizat
 
 ### Project structure
 In this repositorium you will find three directories:
+
 * documentation - contains specification and project report.
 * gephi - contains .gephi files that you can import and work with created networks in Gephi tool. They were created by importing two, previously exported files (node and edges files) that represent social network. Those files were created and exported in python.
 * src - contains python source code for data analysis and network modeling and metrics.
 
 In src directory you will find following things:
+
 * dataset directory - contains two .xslx files (list of authors and list of research papers).
 * output directory - for every created social network in this directory are outputed following thing:
     * .csv file representing network nodes (it can be used for further analysis eg in Gephi).
@@ -69,6 +71,7 @@ It is recomended that you create new [vitrual environment](https://docs.python.o
 `python3 -m venv social-netowrk-analysis`.
 
 Then you would need to activate that newly created python environment:
+
 * On Windows:
 `social-netowrk-analysis\Scripts\activate.bat`.
 * On Linux:
@@ -87,6 +90,7 @@ Exporting network CoAuthorNetwors (nodes and edges to .csv)...
 Running network analysis for CoAuthorNetwors...`.
 
 After script is finished, in the output directry, for every created and used social network, you will find three types of files:
+
 * NetworkName - Nodes.csv: File containing nodes of the network (can be imported in Gephi).
 * NetworkName - Edges.csv: File containing nodes of the network (can be imported in Gephi).
 * NetworkName - Analytics.txt - File containing general network metrics and nodes with metrics as and other attributes as well.
